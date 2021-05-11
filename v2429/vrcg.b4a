@@ -1,0 +1,4513 @@
+﻿Build1=xevolution,xevolution.vrcg.devdemov2400,Full,NoAds
+File1=__logotipo.png
+File10=alerts_alertitem.bal
+File100=CLA_ITEM_SelectBox_Device_Info.bal
+File101=CLA_ITEM_SelectBox_Device_SP.bal
+File102=CLA_ITEM_TaskSimple.bal
+File103=CLA_ITEM_TaskSimple_YesNO.bal
+File104=CLA_ITEM_TaskSimple_YesNO_2.bal
+File105=CLA_ITEM_Text_LineConfirm.bal
+File106=CLA_ITEM_Text_LineConfirm_Info.bal
+File107=CLA_ITEM_TimeEdit.bal
+File108=CLA_ITEM_TimeEdit_Info.bal
+File109=CLA_MainLayout_2.bal
+File11=alerts_alertitem_new.bal
+File110=CLA_MainLayout_2_SP.bal
+File111=CLA_MORE_Action.bal
+File112=CLA_MORE_Action_device.bal
+File113=CLA_MORE_Action_device2.bal
+File114=cla_more_evidence.bal
+File115=cla_more_evidence_alerts.bal
+File116=CLA_MORE_Evidence_Fotos.bal
+File117=CLA_MORE_Evidence_Notes.bal
+File118=cla_more_history.bal
+File119=CLA_MORE_IMGAGE_Listview.bal
+File12=alerts_alertsview.bal
+File120=cla_more_imgage_listview_phone.bal
+File121=cla_more_signature.bal
+File122=CLA_TASK_Conclusion.bal
+File123=CLA_TASK_Execution.bal
+File124=CLA_TASK_Information.bal
+File125=CLA_TASK_V2_Conclusion.bal
+File126=CLA_TASK_V2_Execution.bal
+File127=CLA_TASK_V2_Information.bal
+File128=colors.png
+File129=config.json
+File13=alerts_taskitem.bal
+File130=CP_ComposedButton.bal
+File131=CP_ComposedButton_devices.bal
+File132=CP_ComposedButton_devices_2.bal
+File133=cp_composedbutton_test.bal
+File134=create_itemaddress.bal
+File135=create_object_itemproperty.bal
+File136=create_object_objectsdata.bal
+File137=createObjectItemContact.bal
+File138=CROQUI.png
+File139=dataupdate_layout.bal
+File14=alerts_taskitem_new.bal
+File140=datepicker_small.bal
+File141=detailsdialog.bal
+File142=detalheoutros.bal
+File143=dialog_appAuthorization.bal
+File144=dialog_appAuthorization_device_2.bal
+File145=dialog_bluetooth_devices.bal
+File146=dialog_ContactEdit.bal
+File147=dialog_ContactEdit_device_2.bal
+File148=dialog_datainfo.bal
+File149=dialog_deviceInfo.bal
+File15=alerts_taskitem_new2.bal
+File150=dialog_deviceInfo_2.bal
+File151=dialog_downloadchildprogress.bal
+File152=dialog_downloadmainprogress.bal
+File153=dialog_downloadprogress.bal
+File154=dialog_entityAddress.bal
+File155=dialog_entityaddress_device_2.bal
+File156=dialog_entityAddress_device2.bal
+File157=dialog_entityGeoReference.bal
+File158=dialog_entityGeoReference_device_2.bal
+File159=dialog_extraInfo.bal
+File16=alerts_tasksview.bal
+File160=dialog_filterEntity.bal
+File161=dialog_filterEntity_device_2.bal
+File162=dialog_filterKPI.bal
+File163=dialog_filterKPI_device_2.bal
+File164=dialog_filterObject.bal
+File165=dialog_filterObject_device_2.bal
+File166=dialog_filterRequest.bal
+File167=dialog_filterRequest_device_2.bal
+File168=dialog_filtertask.bal
+File169=dialog_filtertask_device_2.bal
+File17=alertsLayout.bal
+File170=dialog_filtertask_typerequest.bal
+File171=dialog_full_text.bal
+File172=dialog_getvalue.bal
+File173=Dialog_Item_InputText.bal
+File174=Dialog_ItemsActions.bal
+File175=Dialog_ItemsActions_device_2.bal
+File176=dialog_list_others.bal
+File177=dialog_listdoublelineitems.bal
+File178=dialog_listdoublelineitems_device_2.bal
+File179=dialog_Login.bal
+File18=AppState.set
+File180=dialog_Login_device_2.bal
+File181=dialog_login_userregister.bal
+File182=dialog_more_action.bal
+File183=dialog_more_action_device_2.bal
+File184=dialog_more_action_sendEmail.bal
+File185=dialog_more_action_sendEmail_device_2.bal
+File186=dialog_more_action2.bal
+File187=Dialog_MoreActions.bal
+File188=dialog_number_text.bal
+File189=dialog_number_text_edit.bal
+File19=barra_cinza.png
+File190=dialog_object_image.bal
+File191=dialog_pictures_map.bal
+File192=dialog_propertyChange.bal
+File193=dialog_propertyChange_device_2.bal
+File194=dialog_quantity.bal
+File195=dialog_quantity_device_2.bal
+File196=dialog_registo_manual_jornada.bal
+File197=dialog_requestFilters.bal
+File198=dialog_requestFilters_device_2.bal
+File199=dialog_requestoptions.bal
+File2=_logo_45p.png
+File20=bk.png
+File200=dialog_RestePassword.bal
+File201=dialog_RestePassword_device_2.bal
+File202=dialog_search.bal
+File203=dialog_search_outros.bal
+File204=dialog_search_v2.bal
+File205=dialog_sendEmail.bal
+File206=dialog_sendEmail_device_2.bal
+File207=dialog_ShowImageView.bal
+File208=dialog_sync_manual.bal
+File209=dialog_task_list.bal
+File21=bk_vrcg.png
+File210=dialog_task_list_device_2.bal
+File211=dialog_userUnavailable.bal
+File212=dialog_userUnavailable_device_2.bal
+File213=dialog_vehiclesListltems.bal
+File214=DialogDataHora.bal
+File215=DialogListaTasks.bal
+File216=dialogo_reset_password.bal
+File217=dialogoforcepassword.bal
+File218=dialogoOfflineReqs.bal
+File219=DialogoOutros.bal
+File22=bk0.png
+File220=dialogs_alerts_map.bal
+File221=dictionary.en
+File222=dictionary.es
+File223=dictionary.pt
+File224=downarrow.png
+File225=dupListCell.bal
+File226=evolutioncheck.db3
+File227=evolutioncheck.png
+File228=evolutioncheck_logo.png
+File229=form.png
+File23=bk1.png
+File230=frmBCQR.bal
+File231=grid.png
+File232=icon_100px.png
+File233=icon_50px.png
+File234=ImageWindow.bal
+File235=imgView.bal
+File236=imgViewButton.bal
+File237=imgViewNextRow.bal
+File238=ItemAddress.bal
+File239=ItemAddress_device_2.bal
+File24=bk2.png
+File240=ItemContact.bal
+File241=ItemContact_device_2.bal
+File242=itemdocument.bal
+File243=ItemEntityAddress.bal
+File244=ItemEntityContact.bal
+File245=ItemEntityContractTasks.bal
+File246=ItemEntityInfo.bal
+File247=ItemEntityProperties.bal
+File248=ItemGroupLine.bal
+File249=ItemGroupLineDetails.bal
+File25=bk3.png
+File250=ItemGroupTitle.bal
+File251=ItemImageGallery.bal
+File252=itemlinerequest.bal
+File253=ItemList_More_Action.bal
+File254=ItemList_More_ActionLast.bal
+File255=ItemList_More_GroupAction.bal
+File256=ItemNonConformity.bal
+File257=ItemNORecords.bal
+File258=itemobjecttype.bal
+File259=ItemProperty.bal
+File26=bk4.png
+File260=ItemUserAuto.bal
+File261=ItemUserAuto_device.bal
+File262=ItemUserAuto_device_2.bal
+File263=itemuserautobkp.bal
+File264=ItemUserAutoLine.bal
+File265=ItemUserAutoLine_device.bal
+File266=ItemUserAutoLine_device_2.bal
+File267=ItemUserEquipment.bal
+File268=ItemUserEquipment_device.bal
+File269=ItemUserEquipment_device_2.bal
+File27=bk5.png
+File270=ItemUserRegister.bal
+File271=linha2search.bal
+File272=ListaBarcodes.bal
+File273=ListaOfflineReq.bal
+File274=ListCollapseGroup.bal
+File275=ListCollapseGroup_2.bal
+File276=ListCollapseGroup_UserCar.bal
+File277=ListCollapseGroup_UserDocs.bal
+File278=ListCollapseGroup_UserEquip.bal
+File279=ListCollapseGroup_UserEquip_device.bal
+File28=bk6.png
+File280=ListCollapseGroup_UserEquip_device_2.bal
+File281=ListCollapseGroup_UserRegister.bal
+File282=ListCollapseGroup2.bal
+File283=ListCollapseGroupProp.bal
+File284=ListCollapseGroupProp_2.bal
+File285=ListCollapseNonConformities.bal
+File286=listdoublelineitem.bal
+File287=listdoublelineitem_device_2.bal
+File288=ListItem_ViewSimpleList.bal
+File289=ListItemDocument.bal
+File29=calendarviewlayout.bal
+File290=ListItemDocumentValidate.bal
+File291=listviewlayout.bal
+File292=logo_45p.png
+File293=logo_90p.png
+File294=logo_monocromatico.png
+File295=logo_monocromatico_mono.png
+File296=logo_transgrua_mono.png
+File297=logotipo.png
+File298=mail2.png
+File299=main_menu_first_tab.bal
+File3=acail_distribuicao_epis.html
+File30=camerawindow.bal
+File300=main_menu_second_tab.bal
+File301=mainLayout_device.bal
+File302=mainLayout_device_2.bal
+File303=mainlayout_v2.bal
+File304=mainlayout_v2_demo.bal
+File305=MainMenulayout.bal
+File306=maps_layout.bal
+File307=mapviewlayout.bal
+File308=mobile_user_layout.bal
+File309=my_icon.png
+File31=camerawindow_inner_shot.bal
+File310=my_icon_blue.png
+File311=object_contractView.bal
+File312=object_contractView2.bal
+File313=object_documentsView.bal
+File314=object_documentsViewValidate.bal
+File315=object_editLayout.bal
+File316=object_generalView.bal
+File317=object_generalView2.bal
+File318=object_image_item.bal
+File319=object_image_title.bal
+File32=camerawindowmultiple.bal
+File320=object_warehouseView.bal
+File321=objectos.json
+File322=objects_contractsview.bal
+File323=objects_itemcontract.bal
+File324=objects_itemMapView.bal
+File325=objects_itemview.bal
+File326=objects_itemview_phone.bal
+File327=objects_itemview2.bal
+File328=objects_itemviewentity.bal
+File329=objects_listview.bal
+File33=car2.png
+File330=objects_mapview.bal
+File331=objects_mapview_goolge.bal
+File332=objects_plandatesview.bal
+File333=objects_planitemview.bal
+File334=objects_planningview.bal
+File335=objects_requests.bal
+File336=objects_requests_new.bal
+File337=ObjectSelectViewDialog.bal
+File338=objectsLayout.bal
+File339=orcamento.html
+File34=CheckListNew.bas
+File340=orion.db
+File341=orion_logo_128.png
+File342=orioncheckingsystem.png
+File343=p_black.png
+File344=p_blue.png
+File345=p_gray.png
+File346=p_green.png
+File347=p_orange.png
+File348=p_purple.png
+File349=p_red.png
+File35=checklistnewlayout.bal
+File350=p_white.png
+File351=p_yellow.png
+File352=page_content.html
+File353=page_content_images.html
+File354=page_content_last.html
+File355=page_content_nonconformities.html
+File356=page_content_observations.html
+File357=page_footer.html
+File358=page_header.html
+File359=page_id_first.html
+File36=checklistrecordlineview.bal
+File360=page_id_generico_first.html
+File361=page_id_resopre_first.html
+File362=page_identification_first.html
+File363=page_identification_first_score.html
+File364=page_identification_last.html
+File365=page_identification_next.html
+File366=page_resopre_footer.html
+File367=page_resopre_header.html
+File368=page_signature.html
+File369=param_item_list.bal
+File37=checklistrecordlineviewbuttons.bal
+File370=ParamItmeLine.bal
+File371=paramitmelineedit.bal
+File372=pedidos.json
+File373=pedidos_2.json
+File374=phone_mainmenulayout.bal
+File375=phone_object_editlayout.bal
+File376=phone_user_layout.bal
+File377=phone_user_operators_layout.bal
+File378=pins_black.png
+File379=pins_blue.png
+File38=checklistrecordlineviewchapter.bal
+File380=pins_box_black.png
+File381=pins_box_blue.png
+File382=pins_box_green.png
+File383=pins_box_grey.png
+File384=pins_box_orange.png
+File385=pins_box_purple.png
+File386=pins_box_red.png
+File387=pins_box_yellow.png
+File388=pins_green.png
+File389=pins_grey.png
+File39=checklistrecordlineviewsubchapter.bal
+File390=pins_m_black.png
+File391=pins_m_blue.png
+File392=pins_m_green.png
+File393=pins_m_grey.png
+File394=pins_m_orange.png
+File395=pins_m_purple.png
+File396=pins_m_red.png
+File397=pins_m_yellow.png
+File398=pins_orange.png
+File399=pins_purple.png
+File4=acail_reg_despesa.html
+File40=CL_checklistDocs.bal
+File400=pins_red.png
+File401=pins_white.png
+File402=pins_yellow.png
+File403=qr.jpg
+File404=qr.png
+File405=recordgroupitemrequest.bal
+File406=recordgrouptitle.bal
+File407=report_generator.bal
+File408=reports.png
+File409=reports_kpiItems.bal
+File41=CL_checklistRun.bal
+File410=reports_kpiItemsAll.bal
+File411=reports_kpiview.bal
+File412=reports_kpiviewAll.bal
+File413=reportsLayout.bal
+File414=request_clear.bal
+File415=Request_Information_Fields_View.bal
+File416=Request_Information_View.bal
+File417=request_item_list.bal
+File418=requests_calendarview.bal
+File419=requests_itemmapview.bal
+File42=cla_group_listview.bal
+File420=requests_itemmapview_new.bal
+File421=requests_listgroupview.bal
+File422=requests_listgroupview_device_3.bal
+File423=requests_listgroupview_device_3_phone.bal
+File424=requests_listgroupview_inner.bal
+File425=requests_listgroupview_inner_device.bal
+File426=requests_listgroupview_new.bal
+File427=requests_listgroupview_ori.bal
+File428=requests_listgroupview_separator.bal
+File429=requests_listgroupviewSecond_device_3.bal
+File43=cla_group_listview_test.bal
+File430=requests_listitemview.bal
+File431=requests_listitemview_action.bal
+File432=requests_listitemview_device.bal
+File433=requests_listitemview_old.bal
+File434=requests_listview.bal
+File435=requests_listview_device.bal
+File436=requests_listview_device_2.bal
+File437=requests_listview_device_3.bal
+File438=requests_listviewrequest.bal
+File439=requests_listviewrequest_device.bal
+File44=cla_group_listview_test2.bal
+File440=requests_listviewrequest_device_2.bal
+File441=requests_listviewrequest_device_3.bal
+File442=requests_listviewrequest2_device_3.bal
+File443=requests_mapview.bal
+File444=requests_mapview_google.bal
+File445=requestslayout.bal
+File446=requestslayout_device.bal
+File447=requestslayout_device_2.bal
+File448=right.png
+File449=right_phone.png
+File45=CLA_ITEM_ButtonB1.bal
+File450=scanner.bal
+File451=sendemaildialog.bal
+File452=task_item_detail_groupitem.bal
+File453=task_item_detail_lineitem.bal
+File454=task_item_detail_list.bal
+File455=task_item_detail_list_chk.bal
+File456=task_itemviewtyperequest.bal
+File457=taskListPreRequest.bal
+File458=taskListRequest.bal
+File459=tasks.json
+File46=CLA_ITEM_ButtonB1_Info.bal
+File460=tasks_actionitem.bal
+File461=tasks_actionsview.bal
+File462=tasks_alertitem.bal
+File463=tasks_alertsview.bal
+File464=tasks_itemviewchecklist.bal
+File465=tasks_itemviewchecklist_2.bal
+File466=tasks_itemviewchecklist_2_phone.bal
+File467=tasks_listview.bal
+File468=tasks_listviewactions.bal
+File469=tasks_taskitem.bal
+File47=CLA_ITEM_DateEdit.bal
+File470=tasks_tasksview.bal
+File471=tasks_typerequests.bal
+File472=tasksLayout.bal
+File473=template_edp.html
+File474=template_grandative_std.html
+File475=template_group.html
+File476=template_hemer.html
+File477=template_limpersado_guia.html
+File478=template_resopre_group.html
+File479=template1.html
+File48=CLA_ITEM_DateEdit_Info.bal
+File480=template10.html
+File481=template12.html
+File482=template12footer.html
+File483=template12header.html
+File484=template1-bo.html
+File485=template2.html
+File486=template20.html
+File487=template20_vcampervans.html
+File488=template20_vstorage.html
+File489=template3.html
+File49=CLA_ITEM_Editbox.bal
+File490=template4.html
+File491=template5.html
+File492=template5a.html
+File493=template6.html
+File494=template6a.html
+File495=template7.html
+File496=template7a.html
+File497=template9.html
+File498=test.bal
+File499=trackers.json
+File5=actions.png
+File50=CLA_ITEM_Editbox_device_2.bal
+File500=uparrow.png
+File501=user.json
+File502=user_DocumentItem.bal
+File503=user_EquipmentItem.bal
+File504=user_EquipmentItem_device_2.bal
+File505=UserDocumentsViewLayout.bal
+File506=UserEquipmentsViewLayout.bal
+File507=userLayout.bal
+File508=userLayout_device_2.bal
+File509=UserToolsViewLayout.bal
+File51=CLA_ITEM_Editbox_Horizontal_device.bal
+File510=userviewlayout.bal
+File511=userviewlayout_device.bal
+File512=userviewlayout_device_2.bal
+File513=V2_CLA_ITEM_Button.bal
+File514=V2_CLA_ITEM_Editbox_Double.bal
+File515=V2_CLA_ITEM_EditboxNum_Double.bal
+File516=v2_cla_item_information.bal
+File517=V2_CLA_ITEM_Information_Info.bal
+File518=V2_CLA_ITEM_RadioB1.bal
+File519=V2_CLA_ITEM_RadioB1_Info.bal
+File52=CLA_ITEM_Editbox_Horizontal_device_Info.bal
+File520=V2_CLA_ITEM_RadioB1_SP.bal
+File521=V2_CLA_ITEM_RadioB2.bal
+File522=V2_CLA_ITEM_RadioB2_Info.bal
+File523=V2_CLA_ITEM_RadioB2_SP.bal
+File524=V2_CLA_ITEM_RadioB3.bal
+File525=V2_CLA_ITEM_RadioB3_Info.bal
+File526=V2_CLA_ITEM_RadioB3_SP.bal
+File527=V2_CLA_ITEM_RadioB4.bal
+File528=V2_CLA_ITEM_RadioB4_Info.bal
+File529=V2_CLA_ITEM_RadioB4_SP.bal
+File53=CLA_ITEM_Editbox_Horizontal_device_SP.bal
+File530=V2_CLA_ITEM_RadioB5.bal
+File531=V2_CLA_ITEM_RadioB5_Info.bal
+File532=V2_CLA_ITEM_RadioB5_SP.bal
+File533=V2_CLA_ITEM_RadioB6.bal
+File534=V2_CLA_ITEM_RadioB6_Info.bal
+File535=V2_CLA_ITEM_RadioB6_SP.bal
+File536=vazio.png
+File537=vehicleItem.bal
+File538=vrcg.png
+File539=vrcg_business_logo.png
+File54=CLA_ITEM_Editbox_Info.bal
+File540=vrcg_logo_m1.png
+File541=vrcg_logo_m1_effect.png
+File542=wheelpicker.bal
+File543=worker.db
+File544=xevolution_business_logo.png
+File545=xevolution_mono_logo.png
+File55=CLA_ITEM_Editbox_Number.bal
+File56=CLA_ITEM_Editbox_Number_Info.bal
+File57=CLA_ITEM_Editbox_Number_SP.bal
+File58=cla_item_editbox_stock_plusminus.bal
+File59=cla_item_editbox_stock_plusminus_info.bal
+File6=alerts_actionitem.bal
+File60=CLA_ITEM_EditBox_ValueConfirm.bal
+File61=CLA_ITEM_EditBox_ValueConfirm_Info.bal
+File62=cla_item_editbox_valueconfirm_TEST.bal
+File63=cla_item_editbox_valueint.bal
+File64=cla_item_editbox_valueint_info.bal
+File65=CLA_ITEM_EditBox_ValueINT2Confirm.bal
+File66=CLA_ITEM_EditBox_ValueINTConfirm.bal
+File67=CLA_ITEM_EditBox_ValueINTConfirm_Info.bal
+File68=cla_item_editbox_valueintconfirm_test.bal
+File69=CLA_ITEM_Editbox2.bal
+File7=alerts_actionitem_new.bal
+File70=CLA_ITEM_Editbox2_device_2.bal
+File71=CLA_ITEM_EditFullText.bal
+File72=CLA_ITEM_GridList.bal
+File73=CLA_ITEM_GridList_device_2.bal
+File74=CLA_ITEM_GridList2Columns.bal
+File75=CLA_ITEM_GridListCols.bal
+File76=CLA_ITEM_GridListCols_device_2.bal
+File77=CLA_ITEM_GridListCols_HEADER.bal
+File78=CLA_ITEM_GridListCols_HEADER_device_2.bal
+File79=CLA_ITEM_GridListRequest.bal
+File8=alerts_actionitem2.bal
+File80=CLA_ITEM_GridListRequest2.bal
+File81=CLA_ITEM_GridListRequest2_device.bal
+File82=CLA_ITEM_GridListRequest2_device_2.bal
+File83=CLA_ITEM_RadioB1_device_2.bal
+File84=CLA_ITEM_RadioB2_Info.bal
+File85=CLA_ITEM_RadioB3.bal
+File86=CLA_ITEM_RadioB3_Info.bal
+File87=CLA_ITEM_RadioB4.bal
+File88=CLA_ITEM_RadioB4_Info.bal
+File89=CLA_ITEM_RadioB5.bal
+File9=alerts_actionsview.bal
+File90=CLA_ITEM_RadioB5_Info.bal
+File91=CLA_ITEM_RadioB6.bal
+File92=CLA_ITEM_RadioB6_Info.bal
+File93=CLA_ITEM_Ruler_Device.bal
+File94=CLA_ITEM_Ruler_Device_Info.bal
+File95=CLA_ITEM_Ruler_Device_SP.bal
+File96=CLA_ITEM_RulerNA_Device.bal
+File97=CLA_ITEM_RulerNA_Device_SP.bal
+File98=CLA_ITEM_Search.bal
+File99=CLA_ITEM_SelectBox_Device.bal
+FileGroup1=Default Group
+FileGroup10=Default Group
+FileGroup100=Default Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup113=Default Group
+FileGroup114=Default Group
+FileGroup115=Default Group
+FileGroup116=Default Group
+FileGroup117=Default Group
+FileGroup118=Default Group
+FileGroup119=Default Group
+FileGroup12=Default Group
+FileGroup120=Default Group
+FileGroup121=Default Group
+FileGroup122=Default Group
+FileGroup123=Default Group
+FileGroup124=Default Group
+FileGroup125=Default Group
+FileGroup126=Default Group
+FileGroup127=Default Group
+FileGroup128=Default Group
+FileGroup129=Default Group
+FileGroup13=Default Group
+FileGroup130=Default Group
+FileGroup131=Default Group
+FileGroup132=Default Group
+FileGroup133=Default Group
+FileGroup134=Default Group
+FileGroup135=Default Group
+FileGroup136=Default Group
+FileGroup137=Default Group
+FileGroup138=Default Group
+FileGroup139=Default Group
+FileGroup14=Default Group
+FileGroup140=Default Group
+FileGroup141=Default Group
+FileGroup142=Default Group
+FileGroup143=Default Group
+FileGroup144=Default Group
+FileGroup145=Default Group
+FileGroup146=Default Group
+FileGroup147=Default Group
+FileGroup148=Default Group
+FileGroup149=Default Group
+FileGroup15=Default Group
+FileGroup150=Default Group
+FileGroup151=Default Group
+FileGroup152=Default Group
+FileGroup153=Default Group
+FileGroup154=Default Group
+FileGroup155=Default Group
+FileGroup156=Default Group
+FileGroup157=Default Group
+FileGroup158=Default Group
+FileGroup159=Default Group
+FileGroup16=Default Group
+FileGroup160=Default Group
+FileGroup161=Default Group
+FileGroup162=Default Group
+FileGroup163=Default Group
+FileGroup164=Default Group
+FileGroup165=Default Group
+FileGroup166=Default Group
+FileGroup167=Default Group
+FileGroup168=Default Group
+FileGroup169=Default Group
+FileGroup17=Default Group
+FileGroup170=Default Group
+FileGroup171=Default Group
+FileGroup172=Default Group
+FileGroup173=Default Group
+FileGroup174=Default Group
+FileGroup175=Default Group
+FileGroup176=Default Group
+FileGroup177=Default Group
+FileGroup178=Default Group
+FileGroup179=Default Group
+FileGroup18=Default Group
+FileGroup180=Default Group
+FileGroup181=Default Group
+FileGroup182=Default Group
+FileGroup183=Default Group
+FileGroup184=Default Group
+FileGroup185=Default Group
+FileGroup186=Default Group
+FileGroup187=Default Group
+FileGroup188=Default Group
+FileGroup189=Default Group
+FileGroup19=Default Group
+FileGroup190=Default Group
+FileGroup191=Default Group
+FileGroup192=Default Group
+FileGroup193=Default Group
+FileGroup194=Default Group
+FileGroup195=Default Group
+FileGroup196=Default Group
+FileGroup197=Default Group
+FileGroup198=Default Group
+FileGroup199=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup200=Default Group
+FileGroup201=Default Group
+FileGroup202=Default Group
+FileGroup203=Default Group
+FileGroup204=Default Group
+FileGroup205=Default Group
+FileGroup206=Default Group
+FileGroup207=Default Group
+FileGroup208=Default Group
+FileGroup209=Default Group
+FileGroup21=Default Group
+FileGroup210=Default Group
+FileGroup211=Default Group
+FileGroup212=Default Group
+FileGroup213=Default Group
+FileGroup214=Default Group
+FileGroup215=Default Group
+FileGroup216=Default Group
+FileGroup217=Default Group
+FileGroup218=Default Group
+FileGroup219=Default Group
+FileGroup22=Default Group
+FileGroup220=Default Group
+FileGroup221=Default Group
+FileGroup222=Default Group
+FileGroup223=Default Group
+FileGroup224=Default Group
+FileGroup225=Default Group
+FileGroup226=Default Group
+FileGroup227=Default Group
+FileGroup228=Default Group
+FileGroup229=Default Group
+FileGroup23=Default Group
+FileGroup230=Default Group
+FileGroup231=Default Group
+FileGroup232=Default Group
+FileGroup233=Default Group
+FileGroup234=Default Group
+FileGroup235=Default Group
+FileGroup236=Default Group
+FileGroup237=Default Group
+FileGroup238=Default Group
+FileGroup239=Default Group
+FileGroup24=Default Group
+FileGroup240=Default Group
+FileGroup241=Default Group
+FileGroup242=Default Group
+FileGroup243=Default Group
+FileGroup244=Default Group
+FileGroup245=Default Group
+FileGroup246=Default Group
+FileGroup247=Default Group
+FileGroup248=Default Group
+FileGroup249=Default Group
+FileGroup25=Default Group
+FileGroup250=Default Group
+FileGroup251=Default Group
+FileGroup252=Default Group
+FileGroup253=Default Group
+FileGroup254=Default Group
+FileGroup255=Default Group
+FileGroup256=Default Group
+FileGroup257=Default Group
+FileGroup258=Default Group
+FileGroup259=Default Group
+FileGroup26=Default Group
+FileGroup260=Default Group
+FileGroup261=Default Group
+FileGroup262=Default Group
+FileGroup263=Default Group
+FileGroup264=Default Group
+FileGroup265=Default Group
+FileGroup266=Default Group
+FileGroup267=Default Group
+FileGroup268=Default Group
+FileGroup269=Default Group
+FileGroup27=Default Group
+FileGroup270=Default Group
+FileGroup271=Default Group
+FileGroup272=Default Group
+FileGroup273=Default Group
+FileGroup274=Default Group
+FileGroup275=Default Group
+FileGroup276=Default Group
+FileGroup277=Default Group
+FileGroup278=Default Group
+FileGroup279=Default Group
+FileGroup28=Default Group
+FileGroup280=Default Group
+FileGroup281=Default Group
+FileGroup282=Default Group
+FileGroup283=Default Group
+FileGroup284=Default Group
+FileGroup285=Default Group
+FileGroup286=Default Group
+FileGroup287=Default Group
+FileGroup288=Default Group
+FileGroup289=Default Group
+FileGroup29=Default Group
+FileGroup290=Default Group
+FileGroup291=Default Group
+FileGroup292=hone
+FileGroup293=Default Group
+FileGroup294=Default Group
+FileGroup295=Default Group
+FileGroup296=Default Group
+FileGroup297=hone
+FileGroup298=Default Group
+FileGroup299=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup300=Default Group
+FileGroup301=Default Group
+FileGroup302=Default Group
+FileGroup303=Default Group
+FileGroup304=Default Group
+FileGroup305=Default Group
+FileGroup306=Default Group
+FileGroup307=Default Group
+FileGroup308=Default Group
+FileGroup309=Default Group
+FileGroup31=Default Group
+FileGroup310=Default Group
+FileGroup311=Default Group
+FileGroup312=Default Group
+FileGroup313=Default Group
+FileGroup314=Default Group
+FileGroup315=Default Group
+FileGroup316=Default Group
+FileGroup317=Default Group
+FileGroup318=Default Group
+FileGroup319=Default Group
+FileGroup32=Default Group
+FileGroup320=Default Group
+FileGroup321=Default Group
+FileGroup322=Default Group
+FileGroup323=Default Group
+FileGroup324=Default Group
+FileGroup325=Default Group
+FileGroup326=Default Group
+FileGroup327=Default Group
+FileGroup328=Default Group
+FileGroup329=Default Group
+FileGroup33=Default Group
+FileGroup330=Default Group
+FileGroup331=Default Group
+FileGroup332=Default Group
+FileGroup333=Default Group
+FileGroup334=Default Group
+FileGroup335=Default Group
+FileGroup336=Default Group
+FileGroup337=Default Group
+FileGroup338=Default Group
+FileGroup339=Default Group
+FileGroup34=Default Group
+FileGroup340=Default Group
+FileGroup341=Default Group
+FileGroup342=Default Group
+FileGroup343=Default Group
+FileGroup344=Default Group
+FileGroup345=Default Group
+FileGroup346=Default Group
+FileGroup347=Default Group
+FileGroup348=Default Group
+FileGroup349=Default Group
+FileGroup35=Default Group
+FileGroup350=Default Group
+FileGroup351=Default Group
+FileGroup352=Default Group
+FileGroup353=Default Group
+FileGroup354=Default Group
+FileGroup355=Default Group
+FileGroup356=Default Group
+FileGroup357=Default Group
+FileGroup358=Default Group
+FileGroup359=Default Group
+FileGroup36=Default Group
+FileGroup360=Default Group
+FileGroup361=Default Group
+FileGroup362=Default Group
+FileGroup363=Default Group
+FileGroup364=Default Group
+FileGroup365=Default Group
+FileGroup366=Default Group
+FileGroup367=Default Group
+FileGroup368=Default Group
+FileGroup369=Default Group
+FileGroup37=Default Group
+FileGroup370=Default Group
+FileGroup371=Default Group
+FileGroup372=Default Group
+FileGroup373=Default Group
+FileGroup374=Default Group
+FileGroup375=Default Group
+FileGroup376=Default Group
+FileGroup377=Default Group
+FileGroup378=Default Group
+FileGroup379=Default Group
+FileGroup38=Default Group
+FileGroup380=Default Group
+FileGroup381=Default Group
+FileGroup382=Default Group
+FileGroup383=Default Group
+FileGroup384=Default Group
+FileGroup385=Default Group
+FileGroup386=Default Group
+FileGroup387=Default Group
+FileGroup388=Default Group
+FileGroup389=Default Group
+FileGroup39=Default Group
+FileGroup390=Default Group
+FileGroup391=Default Group
+FileGroup392=Default Group
+FileGroup393=Default Group
+FileGroup394=Default Group
+FileGroup395=Default Group
+FileGroup396=Default Group
+FileGroup397=Default Group
+FileGroup398=Default Group
+FileGroup399=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup400=Default Group
+FileGroup401=Default Group
+FileGroup402=Default Group
+FileGroup403=Default Group
+FileGroup404=Default Group
+FileGroup405=Default Group
+FileGroup406=Default Group
+FileGroup407=Default Group
+FileGroup408=Default Group
+FileGroup409=Default Group
+FileGroup41=Default Group
+FileGroup410=Default Group
+FileGroup411=Default Group
+FileGroup412=Default Group
+FileGroup413=Default Group
+FileGroup414=Default Group
+FileGroup415=Default Group
+FileGroup416=Default Group
+FileGroup417=Default Group
+FileGroup418=Default Group
+FileGroup419=Default Group
+FileGroup42=Default Group
+FileGroup420=Default Group
+FileGroup421=Default Group
+FileGroup422=Default Group
+FileGroup423=Default Group
+FileGroup424=Default Group
+FileGroup425=Default Group
+FileGroup426=Default Group
+FileGroup427=Default Group
+FileGroup428=Default Group
+FileGroup429=Default Group
+FileGroup43=Default Group
+FileGroup430=Default Group
+FileGroup431=Default Group
+FileGroup432=Default Group
+FileGroup433=Default Group
+FileGroup434=Default Group
+FileGroup435=Default Group
+FileGroup436=Default Group
+FileGroup437=Default Group
+FileGroup438=Default Group
+FileGroup439=Default Group
+FileGroup44=Default Group
+FileGroup440=Default Group
+FileGroup441=Default Group
+FileGroup442=Default Group
+FileGroup443=Default Group
+FileGroup444=Default Group
+FileGroup445=Default Group
+FileGroup446=Default Group
+FileGroup447=Default Group
+FileGroup448=Default Group
+FileGroup449=Default Group
+FileGroup45=Default Group
+FileGroup450=Default Group
+FileGroup451=Default Group
+FileGroup452=Default Group
+FileGroup453=Default Group
+FileGroup454=Default Group
+FileGroup455=Default Group
+FileGroup456=Default Group
+FileGroup457=Default Group
+FileGroup458=Default Group
+FileGroup459=Default Group
+FileGroup46=Default Group
+FileGroup460=Default Group
+FileGroup461=Default Group
+FileGroup462=Default Group
+FileGroup463=Default Group
+FileGroup464=Default Group
+FileGroup465=Default Group
+FileGroup466=Default Group
+FileGroup467=Default Group
+FileGroup468=Default Group
+FileGroup469=Default Group
+FileGroup47=Default Group
+FileGroup470=Default Group
+FileGroup471=Default Group
+FileGroup472=Default Group
+FileGroup473=Default Group
+FileGroup474=Default Group
+FileGroup475=Default Group
+FileGroup476=Default Group
+FileGroup477=Default Group
+FileGroup478=Default Group
+FileGroup479=Default Group
+FileGroup48=Default Group
+FileGroup480=Default Group
+FileGroup481=Default Group
+FileGroup482=Default Group
+FileGroup483=Default Group
+FileGroup484=Default Group
+FileGroup485=Default Group
+FileGroup486=Default Group
+FileGroup487=Default Group
+FileGroup488=Default Group
+FileGroup489=Default Group
+FileGroup49=Default Group
+FileGroup490=Default Group
+FileGroup491=Default Group
+FileGroup492=Default Group
+FileGroup493=Default Group
+FileGroup494=Default Group
+FileGroup495=Default Group
+FileGroup496=Default Group
+FileGroup497=Default Group
+FileGroup498=Default Group
+FileGroup499=Default Group
+FileGroup5=Default Group
+FileGroup50=Default Group
+FileGroup500=Default Group
+FileGroup501=Default Group
+FileGroup502=Default Group
+FileGroup503=Default Group
+FileGroup504=Default Group
+FileGroup505=Default Group
+FileGroup506=Default Group
+FileGroup507=Default Group
+FileGroup508=Default Group
+FileGroup509=Default Group
+FileGroup51=Default Group
+FileGroup510=Default Group
+FileGroup511=Default Group
+FileGroup512=Default Group
+FileGroup513=Default Group
+FileGroup514=Default Group
+FileGroup515=Default Group
+FileGroup516=Default Group
+FileGroup517=Default Group
+FileGroup518=Default Group
+FileGroup519=Default Group
+FileGroup52=Default Group
+FileGroup520=Default Group
+FileGroup521=Default Group
+FileGroup522=Default Group
+FileGroup523=Default Group
+FileGroup524=Default Group
+FileGroup525=Default Group
+FileGroup526=Default Group
+FileGroup527=Default Group
+FileGroup528=Default Group
+FileGroup529=Default Group
+FileGroup53=Default Group
+FileGroup530=Default Group
+FileGroup531=Default Group
+FileGroup532=Default Group
+FileGroup533=Default Group
+FileGroup534=Default Group
+FileGroup535=Default Group
+FileGroup536=Default Group
+FileGroup537=Default Group
+FileGroup538=Default Group
+FileGroup539=Default Group
+FileGroup54=Default Group
+FileGroup540=Default Group
+FileGroup541=Default Group
+FileGroup542=Default Group
+FileGroup543=Default Group
+FileGroup544=Default Group
+FileGroup545=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=Default Group
+FileGroup62=Default Group
+FileGroup63=Default Group
+FileGroup64=Default Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=Default Group
+FileGroup68=Default Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=Default Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=Default Group
+FileGroup96=Default Group
+FileGroup97=Default Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Main Forms
+Library1=core
+Library10=runtimepermissions
+Library11=phone
+Library12=viewsex
+Library13=stringutils
+Library14=ime
+Library15=sql
+Library16=camera
+Library17=randomaccessfile
+Library18=xcustomlistview
+Library19=xui
+Library2=gps
+Library20=android_charts
+Library21=appcompat
+Library22=byteconverter
+Library23=cgupdown
+Library24=clipboard
+Library25=fusedlocationprovider
+Library26=googlemaps
+Library27=encryption
+Library28=dialogs
+Library29=materialdatetimepicker
+Library3=reflection
+Library30=menuonanyview
+Library31=mlwifi
+Library32=net
+Library33=pdfviewer
+Library34=ss_base64convert
+Library35=stringfunctions
+Library36=tabstripviewpager
+Library37=palmohtmltopdf
+Library38=xui views
+Library39=contentresolver
+Library4=bitmapcreator
+Library40=qrcodereaderview
+Library41=printing
+Library42=sd_bt_printer
+Library43=threading
+Library5=dateutils
+Library6=json
+Library7=javaobject
+Library8=okhttp
+Library9=okhttputils2
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="29"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~SetApplicationAttribute(android:largeHeap,"true")~\n~'CreateResourceFromFile(Macro, Themes.DarkTheme)~\n~'End of default text.~\n~~\n~AddManifestText(<uses-permission~\n~	android:name="android.permission.WRITE_EXTERNAL_STORAGE"~\n~	android:maxSdkVersion="19" />~\n~)~\n~AddManifestText(<uses-permission ~\n~android:name="android.permission.INTERNET" />~\n~)~\n~~\n~AddManifestText(<uses-feature android:name="android.hardware.telephony" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera" android:required="false" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.autofocus" android:required="true" />)~\n~AddManifestText(<uses-feature android:name="android.hardware.camera.flash" android:required="false" />)~\n~~\n~AddPermission("android.permission.WAKE_LOCK")~\n~AddPermission("android.permission.DEVICE_POWER")~\n~~\n~AddPermission(android.permission.SEND_SMS) ' Allows an application to send SMS messages.~\n~AddPermission(android.permission.INSTALL_PACKAGES) ' Allows an application to install packages.~\n~AddPermission("android.permission.READ_PHONE_STATE")~\n~AddPermission("android.permission.VIBRATE")~\n~AddPermission("android.permission.CAMERA")~\n~AddPermission("android.permission.FLASHLIGHT")~\n~AddPermission("android.hardware.camera")~\n~~\n~AddApplicationText(~\n~  <provider~\n~  android:name="android.support.v4.content.FileProvider"~\n~  android:authorities="$PACKAGE$.provider"~\n~  android:exported="false"~\n~  android:grantUriPermissions="true">~\n~  <meta-data~\n~  android:name="android.support.FILE_PROVIDER_PATHS"~\n~  android:resource="@xml/provider_paths"/>~\n~  </provider>~\n~)~\n~CreateResource(xml, provider_paths,~\n~   <external-path name="root" path="" />~\n~)~\n~AddManifestText(<uses-permission ~\n~android:name="android.permission.ACCESS_FINE_LOCATION" />~\n~)~\n~'************ Google Play Services Base ************~\n~AddApplicationText(~\n~   <activity android:name="com.google.android.gms.common.api.GoogleApiActivity"~\n~  android:theme="@android:style/Theme.Translucent.NoTitleBar"~\n~  android:exported="false"/>~\n~    <meta-data~\n~  android:name="com.google.android.gms.version"~\n~  android:value="@integer/google_play_services_version" />~\n~)~\n~'************ Google Play Services Base (end) ************~\n~AddApplicationText(<meta-data~\n~    android:name="com.google.android.gms.vision.DEPENDENCIES"~\n~    android:value="barcode,,face" />~\n~)~\n~	~\n~'	you must add one of these two permissions~\n~'	the permission you add will define the accuracy of location updates~\n~AddPermission(android.permission.ACCESS_FINE_LOCATION)~\n~'	AddPermission(android.permission.ACCESS_COARSE_LOCATION)~\n~AddPermission(android.permission.ACCESS_NETWORK_STATE)~\n~AddPermission(android.permission.ACCESS_WIFI_STATE)~\n~AddPermission(android.permission.CHANGE_WIFI_STATE)~\n~AddApplicationText(~\n~<uses-library~\n~      android:name="org.apache.http.legacy"~\n~      android:required="false" />~\n~)~\n~AddApplicationText(~\n~<meta-data~\n~  android:name="com.google.android.geo.API_KEY"~\n~  android:value="AIzaSyD80wHumtgPImuxF_7Zk_aluqxAYsrtCOo"/>~\n~)~\n~~\n~
+Module1=Alerts
+Module10=B4XRulerPicker
+Module11=B4XStateButton
+Module12=BackgroundUpdateService
+Module13=Badger
+Module14=BarcodeScanner
+Module15=CameraActivity
+Module16=CameraActivity_InnerShot
+Module17=CameraActivity2
+Module18=CameraExClass
+Module19=CheckList3
+Module2=AnotherDatePicker
+Module20=CheckListNew
+Module21=ColorWheelDialog
+Module22=Common
+Module23=Comms
+Module24=ConfigParameters
+Module25=Consts
+Module26=CustomListViewCollapse
+Module27=DataBaseUtils
+Module28=DataUpdate
+Module29=DBStructures
+Module3=Api
+Module30=DBUtils
+Module31=DialogItemActions
+Module32=ExpandedListView
+Module33=FileProvider
+Module34=Force_GC
+Module35=HelpDescriptors
+Module36=ImageEdit
+Module37=LocationService
+Module38=Logs
+Module39=MainMenu
+Module4=AppActionDialogs
+Module40=MapsActivity
+Module41=MonthViewCalendar
+Module42=NewSync
+Module43=notas
+Module44=ObjectEdit
+Module45=Objects
+Module46=Report
+Module47=ReportView
+Module48=requests3
+Module49=ShareCode
+Module5=AppDialogs
+Module50=SignatureCapture
+Module51=Starter
+Module52=StructAlerts
+Module53=StructChecklist
+Module54=StructChecklistItems
+Module55=StructObjects
+Module56=Structures
+Module57=TabStripViewPagerExtendet
+Module58=TasksCL2
+Module59=TIniFile
+Module6=AppFirstInstallDialog
+Module60=Types
+Module61=UpdateService
+Module62=User
+Module63=UserService
+Module64=Utils
+Module7=B4XComboBox2
+Module8=B4XEval
+Module9=B4XListPanel
+NumberOfFiles=545
+NumberOfLibraries=43
+NumberOfModules=64
+Version=10.5
+@EndOfDesignText@
+#Region  Project Attributes 
+'	#ApplicationLabel: VRCG-ACAIL 2.4
+'	#ApplicationLabel: VRCG-SCMS 2.4
+'	*********** GRANDATIVE ************
+'   #ApplicationLabel: VRCG-SIMGA 2.4
+'   #ApplicationLabel: VRCG-TRIALGA 2.4
+'	#ApplicationLabel: VRCG-GA 2.4
+'	***********************************
+'	#ApplicationLabel: VRCG-BAX 2.4
+'	#ApplicationLabel: VRCG-EDP 2.4
+'	#ApplicationLabel: VRCG-PRT 2.4
+'	#ApplicationLabel: VRCG-JMLX 2.4
+'	#ApplicationLabel: VRCG-GRNLNK 2.4
+'	#ApplicationLabel: VRCG-ITG 2.4
+'	#ApplicationLabel: VRCG-LPS 2.4
+'	***********************************
+'	#ApplicationLabel: VRCG-DEMO 2.4
+'	***********************************
+'	#ApplicationLabel: VRCG-AGT 2.4
+'	***********************************
+'	#ApplicationLabel: VRCG-STR 2.4
+'	#ApplicationLabel: VRCG-ERG 2.4
+'	#ApplicationLabel: VRCG-FGIL 2.4
+'	#ApplicationLabel: VRCG-HMR 2.4
+'	#ApplicationLabel: VRCG-ASC 2.4
+'	#ApplicationLabel: VRCG-RPRE 2.4
+'	#ApplicationLabel: VRCG-BRF 2.4
+'	#ApplicationLabel: VRCG-EGTAS 2.4
+'	#ApplicationLabel: VRCG-NVE 2.4
+'	#ApplicationLabel: VRCG-ANN 2.4
+'	#ApplicationLabel: VRCG-TRTS 2.4
+'	#ApplicationLabel: VRCG-GPSRS 2.4
+'	#ApplicationLabel: VRCG-VSEGP 2.4
+'	#ApplicationLabel: VRCG-PSIL 2.4
+'	#ApplicationLabel: VRCG-JFM 2.4
+'	#ApplicationLabel: VRCG-SWBR 2.4
+'	#ApplicationLabel: VRCG-SMFEL 2.4
+'	#ApplicationLabel: VRCG-TRG 2.4
+'	#ApplicationLabel: VRCG-ACL 2.4
+'	#ApplicationLabel: VRCG-UBER 2.4
+'	#ApplicationLabel: VRCG-SLV 2.4
+'	#ApplicationLabel: VRCG-LUX 2.4
+'	#ApplicationLabel: VRCG-JRS 2.4
+'	#ApplicationLabel: VRCG-VMG 2.4
+'   #ApplicationLabel: VRCG-TG 2.4
+'   #ApplicationLabel: VRCG-SEV 2.4
+'************************************
+	#ApplicationLabel: VRCG-DEVDEMO 2.4
+'	#ApplicationLabel: VRCG-DEVEDP 2.4
+'	#ApplicationLabel: VRCG-DEVSWBR 2.4
+'	#ApplicationLabel: VRCG-DEVTRG 2.4
+'	#ApplicationLabel: VRCG-DEVPAL 2.4
+'	#ApplicationLabel: VRCG-DEVGBM 2.4
+'	#ApplicationLabel: VRCG-DEVVTX 2.4
+'	#ApplicationLabel: VRCG-DEVVUL 2.4
+'   #ApplicationLabel: VRCG-TRIAL01 2.4
+'	#ApplicationLabel: VRCG-TRIALFC 2.4
+'************************************
+
+	#VersionCode: 1
+'	#VersionName: Vodafone RCG  v.2.4
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: landscape
+	#CanInstallToExternalStorage: True
+	#AdditionalJar: com.android.support:support-v4
+	#AdditionalJar: com.google.android.gms:play-services-vision
+	#AdditionalJar: com.google.android.gms:play-services-location
+	#AdditionalJar: com.google.android.gms:play-services-maps
+	#AdditionalJar: com.android.support:design
+	#ExcludeClasses: .games, .ads, .fitness, .wearable, .cast, .nearby
+	#ExcludeClasses: .tagmanager, .analytics, .wallet, .plus, .gcm
+	#BridgeLogger: True
+	#MultiDex: True
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: True
+	#IncludeTitle: False
+#End Region
+
+Sub Process_Globals
+	Private TimeStart As Timer
+	Public AppStarted As Boolean
+	Public mainShowDialogResult As Int = 0
+	Public Started As Boolean = False
+	Public WaitToConfirm As Boolean = False
+	Public isLoginDone As Boolean = False
+	Public isMainScreen As Boolean = False
+	Public Device As Phone
+'	Public IsFirsttime As Boolean = False
+	Public AppBuildVersion As String = "2.4.29"
+	Public AppBuildVersionDate As String = "2021-02-25"
+	Public VersionTagcode As String = "VERSION_2429"
+	Public keepal As Boolean = True
+	Public DB_Size As Long = 0
+	Public CurrentBuild As String = ""
+	
+	'***************************************************************
+	' VARIAVEIS DO SISTEMA A PASSAR NOS ENDPOINTS
+	'***************************************************************
+	
+	Public DeviceBrand As String = ""
+	Public DeviceModel As String = ""
+	Public DeviceMacAddress As String = ""
+	Public DeviceAuthorization As String = ""
+	Public DeviceInstance As String = ""
+	
+End Sub
+
+Sub Globals
+	Private mainPanelSplash As Panel
+	Private mainPanSplashImage As ImageView
+	Private mainPanSplashLogo As ImageView
+	Private mainSplashProgress As ProgressBar
+	
+	Private GC As Force_GC
+	
+	Private MainPopMenu As MenuOnAnyView
+	Public LGO_PasswordMode As Boolean = True
+	Private NetErrorTryCount As Int = 0
+	Private mainLayout As String
+	Private ButtonAuthBack As Button
+	Private ButtonAuthNext As Button
+	Private ButtonLoginEnter As Button
+	Private ButtonLoginExit As Button
+	Private ButtonLoginReset As Button
+	Private ButtonWelcomeNext As Button
+	Private EditAuthorization As EditText
+	Private EditInstance As EditText
+	Private EditPassword As EditText
+	Private EditUserName As EditText
+	Private mainSplashImage As ImageView
+	Private Panel_Authorization As Panel
+	Private Panel_Config As Panel
+	Private Panel_Login As Panel
+	Private Panel_Login_Validation As Panel
+	Private Panel_Verification As Panel
+	Private Panel_Welcome As Panel
+	Private SelectLanguage As Spinner
+	Private SelectOrientation As Spinner
+	Private LabelVersion As Label
+	Private ButtonAppNetwork As Button
+	Private mainSplashImageEffect As ImageView
+	Private mainFirstInstall As Label
+	Private isFirstInstall As Boolean = False
+	Private mainPanSplashCustomLogo As ImageView
+	
+	Private MainLayoutPanel As Panel
+	Private LoginPanelIconImageView As ImageView
+	
+	Private LoginValidationPanelIconImageView As ImageView
+	Private VarificationPanelIconImageView As ImageView
+	Private AuthorizationPanelIconImageView As ImageView
+	Private WelcomePanelIconImageView As ImageView
+	Private CompanyImageView As ImageView
+
+	Private AppTitle As Label
+	Private TimeStartCounter As Int = 0
+	Private phone As Phone
+	
+	Private butSaveQRCode As Button
+	Private butCancelQRCode As Button
+	Private QRCodeReader As QRCodeReaderView
+	Private QRCodePanel As Panel
+	Private QRCodeKeyReceived As String = ""
+	Private getQRCode As Button
+	Private LiteUpdateTagCodes As String
+	Private LoginUpdateFileName As String
+		
+	Private LabelControloAcesso As Label
+	Private LabelNomeUtilizador As Label
+	Private LabelPasswordUtilizador As Label
+	Private LabelTituloCredenciais As Label
+	Private LabelWelcomeWarning As Label
+	Private LabelWelcomeEvolutionCheck As Label
+	Private LabelHelpAutorizacao As Label 'Introduza nos campos respectivos o código da Instância e o código de Autorização. Estes dados deverão ser submetidos pela plataforma ReadyCheckGo através da aplicação "BackOffice" e enviados por email para cada utilizador/dispositivo móvel.Em caso de dúvida contacte o Administrador de sistema para facultar a respectiva informação.
+	Private LabelAutorizacao As Label 'Autorização da aplicação
+	Private LabelCodigoInstancia As Label 'Código da Instância
+	Private LabelCodigoAutorizacao As Label 'Código de Autorização
+	Private LabelValidacaoLogin As Label 'Aguarde por favor! A validar o código de Utilizador e a palavra Chave submetidas.
+	Private LabelValidacaoAcesso As Label 'Validação de Acesso
+	Private LabelCheckValidacao As Label 'Aguarde por favor! A aplicação está a validar os dados de Verificação e Autorização na plataforma ReadyCheckGo. Uma vez submetidos e validados, esta informação deixará de ser apresentada.
+	Private LabelVerificacao As Label 'Verificação
+	Private PanelDownloadInicial As Panel
+	Private LabelDownloadInicialTitle As Label
+	Private ProgressoInicial As ProgressBar
+	Private ProgressoInicial2 As ProgressBar
+	Private LabelDownloadInicialFases As Label
+	Private LabelTarefa As Label
+
+	' **************************************************************
+	' DIALOGO FORÇA PASSWORD
+	' **************************************************************
+	Private newpass1 As EditText
+	Private newpass2 As EditText
+	Private LogoBackEVC As ImageView
+	Private CurrentOrientation As Int
+	
+End Sub
+
+Sub GetDefaultLanguage As String
+	
+	Dim r As Reflector
+	r.Target = r.RunStaticMethod("java.util.Locale", "getDefault", Null, Null)
+	Log(r.RunMethod("getDisplayName"))
+	Log(r.RunMethod("getCountry"))
+	Log(r.RunMethod("getLanguage"))
+	Return r.RunMethod("getLanguage")
+	
+End Sub
+
+Sub Call_CheckWebAccess
+	Try
+		CallSub(Starter, "CheckWebAccess")
+	Catch
+		Log(LastException)
+		Utils.WriteErrors2Log(LastException)
+	End Try
+End Sub
+
+Sub SetLanguage
+	'**********************************************************************************************
+	' ALTERACAO PC
+	' APANHA A LINGUAGEM DEFINIDA NO ANDROID PARA O PRIMEIRO ECRAN DE LOGIN E MENSAGENS INICIAIS
+	'**********************************************************************************************
+	
+	'APANHAR O DEFAULT LANGUAGE
+	
+	If ShareCode.DEVICE_LANGUAGE_STR = "" Then
+		ShareCode.DEVICE_LANGUAGE_STR = GetDefaultLanguage.ToUpperCase
+	End If
+		
+	Log(ShareCode.DEVICE_LANGUAGE_STR)
+	
+	If Utils.NE(ShareCode.DEVICE_LANGUAGE_STR) Then
+		ShareCode.CheckTranslations("PT")
+	Else
+		ShareCode.CheckTranslations(ShareCode.DEVICE_LANGUAGE_STR)
+	End If
+	'**********************************************************************************************
+End Sub
+
+Sub SetDeviceInfo
+	ShareCode.DEVICE_BRAND = Device.Manufacturer
+	ShareCode.DEVICE_MODEL = Device.Model
+	ShareCode.DEVICE_TYPE = Device.Product
+	
+	Dim MARCA As String = ShareCode.DEVICE_BRAND.ToUpperCase
+	Dim MODELO As String = ShareCode.DEVICE_MODEL.ToUpperCase
+	DeviceBrand = MARCA
+	DeviceModel = MODELO
+	
+	Try
+		DeviceMacAddress = newGetMAC.ToUpperCase
+	Catch
+		Log(LastException)
+		Utils.WriteErrors2Log(LastException)
+		DeviceMacAddress = ""
+	End Try
+	
+	ShareCode.GlobalReportviewSleepTimer = 50
+	
+'	*************************************************
+	
+	Select Case MARCA
+		Case "LENOVO"
+			If MODELO = "LENOVO TB-7504X" Then
+				ShareCode.ISPHONE = True
+			End If
+		Case "SAMSUNG"
+			If MODELO = "SM-A105FN" Or MODELO = "SM-A217F" Then
+				ShareCode.ISPHONE = True
+			End If
+		Case "HUAWEI"
+			ShareCode.GlobalReportviewSleepTimer = 500
+		Case "ALCATEL"
+			
+		Case "XIAOMI"
+			If MODELO = "DANDELION" Or MODELO = "NOTE 9S" Or MODELO = "REDMI NOTE 9S" Or MODELO = "REDMI NOTE 7" Or MODELO = "MI NOTE 10 LITE" Then
+				ShareCode.ISPHONE = True
+			End If
+		Case "TCL"
+			If MODELO = "8068_EEA" Then
+				ShareCode.ISPHONE = True
+			End If
+	End Select
+End Sub
+
+Sub SetActivityLayout
+	If ((ShareCode.APPL_ACCOUNT.ToUpperCase = "DEMO") Or (ShareCode.APPL_ACCOUNT.ToUpperCase = "AGENTES")) Then
+		mainLayout = "mainlayout_v2_demo"
+	Else
+		mainLayout = "mainlayout_v2"
+	End If
+	
+	Activity.LoadLayout(mainLayout)
+End Sub
+
+Sub SetFTPUser
+	If ShareCode.IsDevelopment Then
+		ShareCode.APP_FTP_USER = "DevEvolutionCheck"
+	Else
+		ShareCode.APP_FTP_USER = "EvolutionCheck"
+	End If
+End Sub
+
+Sub CheckDeviceOrientation
+	If mainPanelSplash.Width > mainPanelSplash.Height Then
+		CurrentOrientation = 0
+	Else
+		CurrentOrientation = 1
+	End If
+
+	If ShareCode.ISPHONE And CurrentOrientation = 0 Then
+		Msgbox2Async($"A orientação do dispositivo está definida como landscape (Horizontal)${CRLF}Esta definição pode causar erros na aplicação. Continuar a execução ?"$, ShareCode.GeneralAtentionTitle, "Sim", "", "Não", Null, False)
+		Wait For Msgbox_Result (Result As Int)
+		If Result = DialogResponse.NEGATIVE Then
+			ExitApplication
+		End If
+	else if Not(ShareCode.ISPHONE) And CurrentOrientation = 1 Then
+		Msgbox2Async($"A orientação do dispositivo está definida como portrait (Vertical)${CRLF}Esta definição pode causar erros na aplicação. Continuar a execução ?"$, ShareCode.GeneralAtentionTitle, "Sim", "", "Não", Null, False)
+		Wait For Msgbox_Result (Result As Int)
+		If Result = DialogResponse.NEGATIVE Then
+			ExitApplication
+		End If
+	End If
+		
+	If (ShareCode.ISPHONE) Then
+		ShareCode.DEVICE_ORIENTATION = 1
+		Device.SetScreenOrientation(ShareCode.DEVICE_ORIENTATION)
+	Else
+		ShareCode.DEVICE_ORIENTATION = 0
+		Device.SetScreenOrientation(ShareCode.DEVICE_ORIENTATION)
+	End If
+End Sub
+
+Sub SetTextLabels
+	'**************************************************************
+	' carregar Textos traduziveis
+	mainFirstInstall.Text = ShareCode.mainlayoutmainFirstInstall
+	ButtonLoginEnter.text = ShareCode.mainlayoutButtonLoginEnter
+	ButtonLoginExit.text = ShareCode.mainlayoutButtonLoginExit
+	ButtonLoginReset.text = ShareCode.mainlayoutButtonLoginReset
+	LabelTituloCredenciais.text = ShareCode.mainlayoutLabelTituloCredenciais
+	LabelControloAcesso.text = ShareCode.mainlayoutLabelControloAcesso
+	LabelNomeUtilizador.text = ShareCode.mainlayoutLabelNomeUtilizador
+	LabelPasswordUtilizador.text = ShareCode.mainlayoutLabelPasswordUtilizador
+	ButtonAuthNext.Text = ShareCode.mainlayoutButtonAuthNext
+	ButtonAuthBack.Text = ShareCode.mainlayoutButtonAuthback
+	LabelWelcomeWarning.Text = ShareCode.mainlayoutLabelWelcomeWarning
+	LabelWelcomeEvolutionCheck.Text=ShareCode.mainlayoutLabelWelcomeEvolutionCheck
+	ButtonAuthBack.Text=ShareCode.mainlayoutButtonAuthBack
+	ButtonWelcomeNext.Text=ShareCode.mainlayoutButtonWelcomeNext
+	ButtonAuthNext.Text=ShareCode.mainlayoutButtonAuthNext
+	LabelHelpAutorizacao.Text=ShareCode.mainlayoutLabelHelpAutorizacao
+	LabelAutorizacao.Text=ShareCode.mainlayoutLabelAutorizacao
+	LabelCodigoInstancia.Text=ShareCode.mainlayoutLabelCodigoInstancia
+	LabelCodigoAutorizacao.Text=ShareCode.mainlayoutLabelCodigoAutorizacao
+	LabelValidacaoLogin.Text = ShareCode.mainlayoutLabelValidacaoLogin
+	LabelValidacaoAcesso.text = ShareCode.mainlayoutLabelValidacaoAcesso
+	LabelCheckValidacao.text = ShareCode.mainlayoutLabelCheckValidacao
+	LabelVerificacao.text = ShareCode.mainlayoutLabelVerificacao
+	
+	ShareCode.APP_VersionNocodeName = AppBuildVersion
+	LabelVersion.Text = ShareCode.APP_VersionNocodeName
+	 
+End Sub
+
+Sub Check_Installed_Date
+	'*************************************************************************
+	'SE EXISTIR O FICHEIRO 'date_installed.log' ENTAO JA FOI INSTALADO E PRECISAMOS DE SABER QUANDO
+	If File.Exists(Starter.SharedFolder,$"date_installed.log"$) Then
+		ShareCode.Installed_Date = File.ReadString(Starter.SharedFolder,$"date_installed.log"$)
+	Else
+		ShareCode.Installed_Date = ""
+	End If
+End Sub
+
+Sub Delete_srv_Files
+	For Each FileName As String In File.ListFiles(Starter.InternalFolder)
+		If FileName.EndsWith(".reqsvr") Or FileName.EndsWith(".objsvr") Then
+			File.Delete(Starter.InternalFolder, FileName)
+		End If
+	Next
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'*************************************************************************************
+	' @author felipemrvieira
+	'
+	' Refatoração desta sub visando a simplificação e a aplicação de boas práticas
+	'
+	' Pontos a rever:
+	' - Verificar a necessidade de se instanciar a ScanList e ListOfCodes2Compare aqui
+	'*************************************************************************************
+	
+	Call_CheckWebAccess
+	SetLanguage
+	SetDeviceInfo
+	SetActivityLayout
+	SetFTPUser
+	CheckDeviceOrientation
+	SetTextLabels
+	
+	LogoBackEVC.Visible = False
+	
+	ShareCode.ScanList.Initialize
+	ShareCode.ListOfCodes2Compare.Initialize
+	
+	Delete_srv_Files
+	Check_Installed_Date
+
+End Sub
+
+Sub checkDeviceSpecificParameters(SP As Boolean) As ResumableSub
+	
+	ShareCode.DEVICE_BRAND = Device.Manufacturer
+	ShareCode.DEVICE_MODEL = Device.Model
+	ShareCode.DEVICE_TYPE = Device.Product
+	
+	Dim MARCA As String = ShareCode.DEVICE_BRAND.ToUpperCase
+	Dim MODELO As String = ShareCode.DEVICE_MODEL.ToUpperCase
+	
+	Select Case MARCA
+		Case "LENOVO"
+			If MODELO = "TB-7504X" Then
+				ShareCode.DEVICE_ORIENTATION = 1
+				Device.SetScreenOrientation(1)
+				Device.SetScreenOrientation(ShareCode.DEVICE_ORIENTATION)
+			End If
+		Case "SAMSUNG"
+			
+		Case "HUAWEI"
+			
+		Case "ALCATEL"
+			
+		Case Else
+							
+	End Select
+	
+	Return True
+End Sub
+
+Sub SetShowWhenLocked
+	Dim r As Reflector
+	r.Target = r.GetActivity
+	r.Target = r.RunMethod("getWindow")
+	r.RunMethod2("addFlags", 6815872, "java.lang.int")
+	'r.RunMethod2("clearFlags", 6815872, "java.lang.int")  ' To remove
+End Sub
+
+Sub GetAuthorizationToUseDeviceResources
+	Starter.rp.CheckAndRequest(Starter.rp.PERMISSION_SEND_SMS)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		Starter.APP_SEND_SMS = True
+	End If
+	
+	Starter.rp.CheckAndRequest(Starter.rp.PERMISSION_ACCESS_FINE_LOCATION)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		Starter.APP_FINE_LOCATION_ACCESS = True
+	End If
+	
+	Starter.rp.CheckAndRequest(Starter.rp.PERMISSION_CAMERA)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		Starter.APP_CAMERA_ACCESS = True
+	End If
+	
+	Starter.rp.CheckAndRequest(Starter.rp.PERMISSION_WRITE_EXTERNAL_STORAGE)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		Starter.APP_CAMERA_ACCESS = True
+	End If
+	
+	Starter.rp.CheckAndRequest(Starter.rp.PERMISSION_READ_EXTERNAL_STORAGE)
+	Wait For Activity_PermissionResult (Permission As String, Result As Boolean)
+	If Result Then
+		Starter.APP_CAMERA_ACCESS = True
+	End If
+	
+	If (Not(Starter.APP_FINE_LOCATION_ACCESS) And Not(Starter.APP_CAMERA_ACCESS)) Then
+		Activity.Finish
+	Else
+		StartService(LocationService)
+	End If
+End Sub
+
+Sub Activity_Resume
+	
+	If (Starter.APP_FINE_LOCATION_ACCESS) Then
+		If Not(LocationService.FusedLocationProvider1.IsInitialized) Then
+			StartService(LocationService)
+		End If
+	End If
+'	SetShowWhenLocked
+
+	'Fire forced garbage collection
+	GC.Initialize
+	GC.Fire
+	
+	GoStartApp
+'	
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	Log("Activity_Pause")
+End Sub
+
+Sub SetEnvironment(Ambiente As String)
+	Select Case Ambiente
+		Case "DEMO"
+'	DEMO (demo)
+			EditAuthorization.Text = "RT123-C324D-XD01"
+			EditInstance.Text = "PT20180913-2105-003"
+'	{"kui": "PT20180913-2105-003", "kua":"RT123-C324D-XD01" }
+		Case "ACAIL"
+'	ACAIL (acail)
+			EditAuthorization.Text = "RT123-C324D-X801"
+			EditInstance.Text = "PT20180913-2105-008"
+'	{"kui": "PT20180913-2105-008", "kua":"RT123-C324D-X800" }
+		Case "DEVEL"
+'	DEVEL 
+			EditAuthorization.Text = "RT123-C324D-ASXD"
+			EditInstance.Text = "PT20180913-2105-004"
+		Case "SCMS"
+'	SCMS (scms)
+			EditAuthorization.Text = "RT123-C324D-ASX1"
+			EditInstance.Text = "PT20190913-2105-002"
+		Case "GA"
+'	GrandAtive (ga)
+			EditAuthorization.Text = "RT123-C324D-X601"
+			EditInstance.Text = "PT20180913-2105-006"
+			ShareCode.EmailOldModel = True
+'	{"kui": "PT20180913-2105-006", "kua":"RT123-C324D-X601" }
+		Case "SIMGA"
+'	simgrandAtive (simga)
+			EditAuthorization.Text = "RT123-C324D-X600"
+			EditInstance.Text = "PT20180913-2106-006"
+			ShareCode.EmailOldModel = True
+'	{"kui": "PT20180913-2106-006", "kua":"RT123-C324D-X600" }
+		Case "EDP"
+'	EDP (edp)
+			EditAuthorization.Text = "RT123-C324D-XE11"
+			EditInstance.Text = "PT20180913-2105-011"
+		Case "AGT"
+'	Agentes (agt)
+			EditAuthorization.Text = "RT123-C324D-X101"
+			EditInstance.Text = "PT20180913-2105-010"
+		Case "BAX"
+'	Baxi (bax)
+			EditAuthorization.Text = "RT123-C324D-BX01"
+			EditInstance.Text = "PT20190909-0000-001"
+'	{"kui": "PT20190909-0000-001", "kua":"RT123-C324D-BX01" }
+		Case "NVE"
+			' 	NVE (nve)
+			EditAuthorization.Text = "RT123-C324D-NV01"
+			EditInstance.Text = "PT20190910-0000-001"
+		Case "STR"
+'	STARO (str)
+			EditAuthorization.Text = "RT123-C324D-ST01"
+			EditInstance.Text = "PT20180913-2105-113"
+'	{"kui": "PT20180913-2105-113", "kua":"RT123-C324D-ST01" }
+		Case "PRT"
+'	PRINTCRIATIVA (prt)
+			EditAuthorization.Text = "RT123-C324D-PC010"
+			EditInstance.Text = "PT20190919-1600-001"
+		Case "JMLX"
+'	JOMALUX (jmlx)
+			EditAuthorization.Text = "RT123-C324D-AJ01"
+			EditInstance.Text = "PT20180913-2105-001"
+		Case "GRNLNK"
+'	GROUNDLINK (grnlnk)
+			EditAuthorization.Text = "RT123-C324D-GL01"
+			EditInstance.Text = "PT20191018-1500-001"
+		Case "ITG"
+'	ITG (itg)
+			EditAuthorization.Text = "RT123-C324D-IT010"
+			EditInstance.Text = "PT20190919-1600-003"
+'	{"kui": "PT20190919-1600-003", "kua":"RT123-C324D-IT010" }
+		Case "LPS"
+'	LIMPERSADO (lps)
+			EditAuthorization.Text = "RT123-C324D-LS011"
+			EditInstance.Text = "PT20190919-1600-002"
+		Case "ERG"
+'	ERGUELOP (erg)
+			EditAuthorization.Text = "RT123-C324D-EL011"
+			EditInstance.Text = "PT20190919-1600-005"
+			ShareCode.EmailOldModel = True
+'	{"kui": "PT20190919-1600-005", "kua":"RT123-C324D-EL011" }
+		Case "FGIL"
+'	FGIL (fgil)
+			EditAuthorization.Text = "RT123-C324D-FG01"
+			EditInstance.Text = "PT20190801-1947-111"
+'	{"kui": "PT20190801-1947-111", "kua":"RT123-C324D-FG01" }
+		Case "HMR"
+'	HEMER (hmr)
+			EditAuthorization.Text = "RT123-C324D-H001"
+			EditInstance.Text = "PT20190913-2105-012"
+			ShareCode.EmailOldModel = True
+'	{"kui": "PT20190913-2105-012", "kua":"RT123-C324D-H001" }
+		Case "RPRE"
+'	RESOPRE (rpre)
+			EditAuthorization.Text = "RT123-C324D-RP01"
+			EditInstance.Text = "PT20191121-1009-001"
+'	{"kui": "PT20191121-1009-001", "kua":"RT123-C324D-RP01" }
+		Case "BRF"
+'	Brasfone (brf)
+			EditAuthorization.Text = "RT123-C324D-BR01"
+			EditInstance.Text = "PT20190807-1933-001"
+'	{"kui": "PT20190807-1933-001", "kua":"RT123-C324D-BR01" }
+		Case "ASC"
+'	ASCENSILIS (asc)
+			EditAuthorization.Text = " RT123-C324D-AS01"
+			EditInstance.Text = "PT20200907-0907-001"
+		Case "EGTAS"
+'	ENGITAGUS (egtas)
+			EditAuthorization.Text = " RT123-C324D-ET01"
+			EditInstance.Text = "PT20200227-1707-001"
+		Case "TRTS"
+'	TETRIS (trts)
+			EditAuthorization.Text = "RT123-C324D-TR01"
+			EditInstance.Text = "PT20200203-1900-001"
+		Case "GPSRS"
+'	GRUPO SOARES (gpsrs)
+			EditAuthorization.Text = "RT123-C324D-GS01"
+			EditInstance.Text = "PT20200127-0900-001"
+		Case "ANN"
+			''	Nunes (ann)
+			EditAuthorization.Text = "RT123-C324D-AN01"
+			EditInstance.Text = "PT20200214-1800-001"
+'	{"kui": "PT20200214-1800-001", "kua":"RT123-C324D-AN01" }
+		Case "VSEGP"
+'	VFDSEGP  (vsegp)
+			EditAuthorization.Text = "RT123-C324D-VF01"
+			EditInstance.Text = "PT20200218-1730-001"
+'	{"kui": "PT20200218-1730-001", "kua":"RT123-C324D-VF01" }
+		Case "PSIL"
+'	powersil  (psil)
+			EditAuthorization.Text = "RT123-C324D-PS01"
+			EditInstance.Text = "PT20200306-1611-001"
+'	{"kui": "PT20200306-1611-001", "kua":"RT123-C324D-PS01" }
+		Case "JFM"
+'	jfmafra  (jfm)
+			EditAuthorization.Text = "RT123-C324D-JM01"
+			EditInstance.Text = "PT20200411-1400-001"
+'	{"kui": "PT20200411-1400-001", "kua":"RT123-C324D-JM01" }
+		Case "SWBR"
+'	showbrilha (swbr)
+			EditAuthorization.Text = "RT123-C324D-SB01"
+			EditInstance.Text = "PT20200323-1800-001"
+'	{"kui": "PT20200323-1800-001", "kua":"RT123-C324D-SB01" }
+		Case "SMFEL"
+'	somafel (smfel)
+			EditAuthorization.Text = "RT123-C324D-SF01"
+			EditInstance.Text = "PT20200615-1215-001"
+'	{"kui": "PT20200615-1215-001", "kua":"RT123-C324D-SF01" }
+		Case "TRG"
+'	troisgest (trg)
+			EditAuthorization.Text = "RT123-C324D-TG01"
+			EditInstance.Text = "PT20200710-1910-001"
+'	{"kui": "PT20200615-1215-001", "kua":"RT123-C324D-SF01" }
+		Case "ACL"
+'	areacelular (acl)
+			EditAuthorization.Text = "RT123-C324D-AC01"
+			EditInstance.Text = "PT20200716-1600-001"
+'	{"kui": "PT20200615-1215-001", "kua":"RT123-C324D-SF01" }
+		Case "UBR"
+'	areacelular (ubr)
+			EditAuthorization.Text = "RT123-C324D-X699"
+			EditInstance.Text = "PT20180913-2105-005"
+'	{"kui": "PT20200615-1215-001", "kua":"RT123-C324D-SF01" }
+		Case "SLV"
+			' silvavinha (slv)
+			EditAuthorization.Text = "RT123-C324D-SV01"
+			EditInstance.Text = "PT20200811-1036-001"
+'	{"kui": "PT20200811-1036-001", "kua":"RT123-C324D-SV00" }
+		Case "LUX"
+			' luxarclima (lux)
+			EditAuthorization.Text = "RT123-C324D-LC01"
+			EditInstance.Text = "PT20200914-1206-001"
+'	{"kui": "PT20200914-1206-001", "kua":"RT123-C324D-LC01" }
+		Case "JRS"
+			' jardins do restelo (jrs)
+			EditAuthorization.Text = "RT123-C324D-JR01"
+			EditInstance.Text = "PT20200914-1139-001"
+'	{"kui": "PT20200914-1139-001", "kua":"RT123-C324D-JR01" }
+		Case "VMG"
+			'  (vmg)
+			EditAuthorization.Text = "RT123-C324D-XD10"
+			EditInstance.Text = "PT20200909-1200-001"
+		Case "TG"
+			' Transgrua (tg)
+			EditAuthorization.Text = ""
+			EditInstance.Text = ""
+		Case "SEV"
+'			sanforevents  (sev)
+			EditAuthorization.Text = "RT123-C324D-SFE01"
+			EditInstance.Text = "PT20210118-1213-001"
+			'************************************************
+		Case "DEVEDP"
+'	DEVEDP (devedp)
+			EditAuthorization.Text = "RT123-C324D-XE00"
+			EditInstance.Text = "PT20180913-2106-011"
+			ShareCode.IsDevelopment = True
+		Case "DEVSWBR"
+'	showbrilha (devswbr)
+			EditAuthorization.Text = "RT123-C324D-SB00"
+			EditInstance.Text = "PT20200323-DEV0-001"
+			ShareCode.IsDevelopment = True
+		Case "DEVTRG"
+'	Transgrua (devtrg)
+			EditAuthorization.Text = "RT123-C324D-TG01"
+			EditInstance.Text = "PT20201021-DEV2-001"
+			ShareCode.IsDevelopment = True
+		Case "DEVPAL"
+'	Patelo Alegria (devpal)
+			EditAuthorization.Text = "RT123-C324D-PA01"
+			EditInstance.Text = "PT20201102-0941-001"
+			ShareCode.IsDevelopment = True
+		Case "DEVGBM"
+'	GuimaBombas DEV (devgbm)
+			EditAuthorization.Text = "RT123-C324D-GB01"
+			EditInstance.Text = "PT20201016-DEV1-001"
+			ShareCode.IsDevelopment = True
+		Case "DEVVTX"
+'	DEV Vitamix (devvtx)
+			EditAuthorization.Text = "RT123-C324D-VT01"
+			EditInstance.Text = "PT20201011-DEV0-001"
+			ShareCode.IsDevelopment = True
+		Case "DEVVUL"
+'	DEV Vitamix (devvul)
+			EditAuthorization.Text = "RT123-C324D-VL01"
+			EditInstance.Text = "PT20210111-DEV5-001"
+			ShareCode.IsDevelopment = True
+		Case "TRIAL01"
+'	TRIAL01 (trial01)
+			EditAuthorization.Text = "RT123-C324D-TR101"
+			EditInstance.Text = "PT20210113-1217-001"
+			ShareCode.IsDevelopment = True
+		Case "TRIALFC"
+'	TRIALFC (trialfc)
+			EditAuthorization.Text = "RT123-C324D-TFC01"
+			EditInstance.Text = "PT20210126-1135-001"
+		Case "DEVDEMO"
+'	DEVDEMO (devdemo)
+			EditAuthorization.Text = "RT123-C324D-RT00"
+			EditInstance.Text = "PT20201110-DEV4-001"
+			ShareCode.IsDevelopment = True
+	End Select
+End Sub
+
+Sub SetWidgetColors
+	'	Set Widgets Background Color To MainColor
+	Utils.SetViewBackgroundColorToMainColor(MainLayoutPanel)
+	Utils.SetViewBackgroundColorToMainColor(ButtonLoginEnter)
+	ButtonLoginReset.TextColor = Consts.ColorMain
+	Utils.SetViewBackgroundColorToMainColor(ButtonAuthNext)
+	Utils.SetViewBackgroundColorToMainColor(ButtonWelcomeNext)
+End Sub
+
+Sub SetLogos
+	LoginPanelIconImageView.Bitmap = Consts.AppLogo
+	LoginPanelIconImageView.Gravity = Gravity.CENTER
+	
+	CompanyImageView.Bitmap = Consts.CompanyImage
+	CompanyImageView.Gravity = Gravity.FILL
+	
+	LoginValidationPanelIconImageView.Bitmap = Consts.AppLogo
+	LoginValidationPanelIconImageView.Gravity = Gravity.CENTER
+	
+	VarificationPanelIconImageView.Bitmap = Consts.AppLogo
+	VarificationPanelIconImageView.Gravity = Gravity.CENTER
+	
+	AuthorizationPanelIconImageView.Bitmap = Consts.AppLogo
+	AuthorizationPanelIconImageView.Gravity = Gravity.CENTER
+	
+	WelcomePanelIconImageView.Bitmap = Consts.AppLogo
+	WelcomePanelIconImageView.Gravity = Gravity.CENTER
+
+	mainPanSplashCustomLogo.Gravity = Gravity.CENTER
+	'mainPanSplashCustomLogo.Width = Consts.LogoWidth
+	
+	'Log($"Inicialização de BMP: ${ShareCode.APP_MAIN_LOGO}"$)
+	If (Utils.NNE(ShareCode.APP_MAIN_LOGO)) Then
+		mainPanSplashCustomLogo.SetBackgroundImage(Utils.B64ToBitmap(ShareCode.APP_MAIN_LOGO))
+	End If
+End Sub
+
+Sub SetPanelByInstallationStatus
+	
+	'*************************************************************************
+	' VERIFICAÇÃO DA EXISTENCIA DO FICHEIRO DE CONTROLO DE INSTALACAO INCOMPLETA
+	'*************************************************************************
+	Dim Reinstallation As Boolean = False
+	
+	If File.Exists(Starter.SharedFolder,"FIRSTINSTALL_IN_PROGRESS") Then
+		Reinstallation = True
+	End If
+	
+	
+	If ((ShareCode.APPL_CONFIRMED = 0) And (Starter.CurrentFlowPosition = 0)) Then
+		isFirstInstall = True
+		Starter.FirstInstall = isFirstInstall
+		Panel_Config.Visible = True
+	else If ((ShareCode.APPL_CONFIRMED = 0) And (Starter.CurrentFlowPosition = 1)) Then
+		isFirstInstall = True
+		Panel_Authorization.Visible = True
+		Starter.FirstInstall = isFirstInstall
+	else if Reinstallation Then
+		isFirstInstall = True
+		Starter.FirstInstall = isFirstInstall
+		Dim rs As ResumableSub = FirstInstallCompleteProcedure
+		Wait For(rs) Complete (R As Boolean)
+					
+		If Not(R)Then
+			MsgboxAsync(ShareCode.AvisoErroComms,ShareCode.GeneralAlertTitle)
+			Starter.APP_IN_EXECUTION = False
+		End If
+						
+		ResetPanels
+		Panel_Login.Visible = True
+		Starter.CurrentFlowPosition = 3
+		DBStructures.getConfigApp(ShareCode.APP_TOKEN)
+		Starter.APP_IN_EXECUTION = True
+	Else
+		Panel_Login.Visible = True
+	End If
+End Sub
+
+Sub StartComsService
+	Try
+		StartService(Comms)
+	Catch
+		Log(LastException)
+		Utils.WriteErrors2Log(LastException)
+	End Try
+End Sub
+
+Sub SetBuildInfo As String
+	'************************************************************************
+	' ALTERACAO PC
+	' INSTANCIANDO A APPLABEL; PERMITE QUE O SISTEMA SELECCIONE AUTOMATICAMENTE
+	' AS KEYS CORRESPONDENTES SEM TER DE ANDAR A ALTERAR EM DOIS LADOS
+	' E PODENDO DE FUTURO USAR A MESMA BUILD PARA VRCG E EVOLUTIONCHECK
+	'	#ApplicationLabel: VRCG-DEMO 2.2
+	'************************************************************************
+	Dim CurrentAppLabel As String = Application.LabelName.ToUpperCase
+	CurrentBuild = "VRCG"
+	Dim CurrentVersion As String = "2.4"
+	Dim Ambiente As String = "DEMO"
+	Dim Author As String = "xevolution"
+	Dim BuildConfig As String = "" ' PACKAGENAME NAO DISPONIVEL AINDA PARA EDICAO POR CODIGO, MAS PARA USO FUTURO
+	
+	If CurrentAppLabel.Contains("VRCG") Then
+		CurrentBuild = "VRCG"
+	Else
+		CurrentBuild = "EVC"
+	End If
+	
+	Dim PosicaoEspaco As Int = CurrentAppLabel.IndexOf(" ")
+	If PosicaoEspaco > 1 Then
+		CurrentVersion = CurrentAppLabel.SubString(PosicaoEspaco).Trim
+	End If
+
+	Ambiente = CurrentAppLabel.Replace($"${CurrentBuild}-"$,"").Replace($" ${CurrentVersion}"$,"").Trim
+	BuildConfig = $"${Author.ToLowerCase}.${CurrentBuild.ToLowerCase}.${Ambiente.ToLowerCase}v${CurrentVersion.Replace(".","")}"$
+	Return Ambiente
+End Sub
+
+Sub GoStartApp
+
+	'*************************************************************************************
+	' @author felipemrvieira
+	'
+	' GetAuthDeviceAccess renomeado para GetAuthorizationToUseDeviceResources
+	'
+	' Pontos a rever:
+	'  - Starter.CurrentWorkActivity = Me
+	'  - Verificar escopo de DeviceAuthorization e DeviceInstance redefinidos aqui
+	'*************************************************************************************
+	
+	
+	' TimeStart_Tick handles this timer
+	TimeStart.Initialize("TimeStart", 40)
+	TimeStart.Enabled = False
+	
+	Starter.CurrentWorkActivity = Me
+
+	SetWidgetColors
+
+	AppTitle.Text = Consts.AppTitle
+		
+	SelectLanguage.Add("Português")
+	SelectLanguage.SelectedIndex = 0
+	
+	SelectOrientation.Add("Orientação Landscape")
+	SelectOrientation.Add("Orientação Portrait")
+	SelectOrientation.SelectedIndex = ShareCode.DEVICE_ORIENTATION
+	
+	GetAuthorizationToUseDeviceResources
+	Utils.SetProgressDrawableExt(mainSplashProgress,"TOP_BOTTOM", Array As Int(Consts.ColorWhite, Consts.ColorWhite), 3dip)
+	
+	Dim Ambiente As String = SetBuildInfo
+	SetEnvironment(Ambiente)
+	
+	Public DeviceAuthorization As String = EditAuthorization.text
+	Public DeviceInstance As String = EditInstance.text
+	
+	' LOAD LOGOS
+	Dim authData As Authorization = Types.MakeAuthorization(EditInstance.text, EditAuthorization.text, ShareCode.APP_VERSION, ShareCode.APP_DOMAIN)
+	getMainLogo(authData)
+	getMainLogoMini(authData)
+	
+	SetLogos
+
+	Starter.FirstInstall = (ShareCode.APPL_CONFIRMED = 0) Or (ShareCode.FIRST_INSTALL = 0)
+		
+	EditUserName.Text = ShareCode.APP_LAST_USER '"user1"
+	EditPassword.Text = "" '"12345678"
+	
+	StartComsService
+	ResetPanels
+	SetPanelByInstallationStatus
+	
+End Sub
+
+Sub CheckAppVersion As ResumableSub
+
+	Sleep(100)
+	Dim ServerAddress As String = $"https://${ShareCode.APP_DOMAIN}.${ShareCode.APPL_HOST}/api/orion/device/update"$
+	Log(ServerAddress)
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("authorization", ShareCode.APP_Authorization)
+	params.Put("_token", ShareCode.APP_TOKEN)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+    
+	Dim data As String =   JSON.ToPrettyString(1)
+
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	Job.PostString(ServerAddress, data)
+	Job.GetRequest.SetContentType("application/json")
+
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		Try
+			Dim JSON1 As JSONParser
+			JSON1.Initialize(Job.GetString())
+			Dim MapJSON As Map = JSON1.NextObject
+'			Dim message As String = MapJSON.Get("message")
+'			Dim status As String = MapJSON.Get("status")
+
+			
+			Dim JSON2 As JSONParser
+			JSON2.Initialize(MapJSON.Get("data"))
+			Dim MapJSONData As Map = JSON2.NextObject
+						 
+			Dim filename As String = MapJSONData.Get("filename")
+			Dim version As String = MapJSONData.Get("version")
+			Dim releaseDate As String = MapJSONData.Get("release_date")
+			Dim dueDate As String = MapJSONData.Get("due_date")
+			Dim remove As Int = MapJSONData.Get("remove")
+			Dim  APPL_AUTH As String = Utils.SelectFieldFromLocalSQLWRKConfigTable("authorization")
+			Dim  APPL_INSTANCE As String = Utils.SelectFieldFromLocalSQLWRKConfigTable("instance")
+			
+			Sleep(100)
+			
+			If DateTime.DateParse(DateTime.Date(DateTime.Now)) <= DateTime.DateParse(dueDate) Then
+				Msgbox2Async("Existe uma versão mais recente da aplicação. Deseja Actualizar?", ShareCode.GeneralAlertTitle, ShareCode.Option_YES,"", ShareCode.Option_NO, Null,False)
+				Wait For Msgbox_Result (Res As Int)
+				If Res = DialogResponse.POSITIVE Then
+				
+					Starter.AppState.WriteString("APP_START", "APPL_AUTH", APPL_AUTH)
+					Starter.AppState.WriteString("APP_START", "APPL_INSTANCE", APPL_INSTANCE)
+					Starter.AppState.WriteInteger("APP_START", "RESET_APPLICATION", 1)
+						
+					DeleteLocalDatabase(remove)
+
+					Wait For (DownloadAPK(filename)) Complete (Result As Boolean)
+					
+				End If
+				
+			Else If DateTime.DateParse(DateTime.Date(DateTime.Now)) > DateTime.DateParse(dueDate) Then
+					
+				Msgbox2Async(ShareCode.AvisoNovoAPK, ShareCode.GeneralAlertTitle, ShareCode.Option_YES,"", ShareCode.Option_NO, Null,False)
+				Wait For Msgbox_Result (Res As Int)
+				If Res = DialogResponse.POSITIVE Then
+
+					Starter.AppState.WriteString("APP_START", "APPL_AUTH", APPL_AUTH)
+					Starter.AppState.WriteString("APP_START", "APPL_INSTANCE", APPL_INSTANCE)
+					Starter.AppState.WriteInteger("APP_START", "RESET_APPLICATION", 1)
+						
+					DeleteLocalDatabase(remove)
+
+					Wait For (DownloadAPK(filename)) Complete (Result As Boolean)
+				Else
+					Return True
+				End If
+	
+			End If
+		
+		Catch
+			Log(LastException)
+			Utils.WriteErrors2Log(LastException)
+'			AddCounters(progress, dlg)
+			Log(Job.ErrorMessage)
+			Utils.logError("Download", ShareCode.SESS_User, Job.ErrorMessage)
+			Job.Release
+			Return False
+		End Try
+		
+	End If
+	Log(LastException)
+	Utils.WriteErrors2Log(LastException)
+	Job.Release
+	Return False
+End Sub
+
+Sub DeleteLocalDatabase(remove As Int)
+					
+	If(remove = 1) Then
+													
+		If(File.Exists(Starter.Provider.SharedFolder, "orion.db")) Then
+			File.Delete(Starter.Provider.SharedFolder, "orion.db" )
+		End If
+						
+		If(File.Exists(Starter.Provider.SharedFolder, "evolutioncheck.db3")) Then
+			File.Delete(Starter.Provider.SharedFolder, "evolutioncheck.db3" )
+		End If
+						
+		If(File.Exists(Starter.Provider.SharedFolder, "worker.db")) Then
+			File.Delete(Starter.Provider.SharedFolder, "worker.db" )
+		End If
+	End If
+						
+	
+End Sub
+
+Sub DownloadEvolutionCheckDbWithFTP(filename As String) As ResumableSub
+	Dim myFTP As FTP
+	myFTP.Initialize("ftp", $"${ShareCode.APPL_ACCOUNT.ToLowerCase}.${ShareCode.APPL_HOST}"$, 21, $"${ShareCode.APP_FTP_USER}@${ShareCode.APPL_HOST}"$, "..VRCG@EvolutionCheck20!9")
+	myFTP.PassiveMode = True
+'	Dim ctm As CustomTrustManager
+'	ctm.InitializeAcceptAll
+'	myFTP.SetCustomSSLTrustManager(ctm)
+	myFTP.TimeoutMs =240000
+	Log(filename)
+	Dim sf As Object = Starter.GlobalFTP.DownloadFile("/" & ShareCode.APP_DOMAIN & "/db/" & filename, False, Starter.Provider.SharedFolder, filename)
+	Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+	If Success Then
+		Log(filename & " file was download successfully")
+		myFTP.Close
+		Return True
+	Else
+		myFTP.Close
+		Return False
+		Log("Error downloading file " & filename)
+	End If
+End Sub
+
+Sub DownloadAPK(Filename As String) As ResumableSub
+	
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	Wait For (CheckInstallationRequirements) Complete (Result As Boolean)
+	
+	If Result Then
+		ProgressDialogShow(ShareCode.AvisoDownloadAPK)
+		Job.Download($"${Consts.AppWebSiteLink}/deliver/${Filename}"$)
+		
+		Wait For (Job) JobDone(Job As HttpJob)
+		If Job.Success = True Then
+			
+			Dim out As  OutputStream
+			out = File.OpenOutput(Starter.Provider.SharedFolder,Filename,False)
+			File.Copy2(Job.GetInputStream,out)
+			out.Close
+			
+			Job.Release
+			SendInstallIntent(Filename)
+			ProgressDialogHide
+			Return True
+		End If
+			
+		ProgressDialogHide
+	End If
+	
+	Log(LastException)
+	Utils.WriteErrors2Log(LastException)
+	Job.Release
+	Return False
+	
+End Sub
+
+Private Sub CheckInstallationRequirements As ResumableSub
+	If File.ExternalWritable = False Then
+		MsgboxAsync(ShareCode.AvisoNotSDCard, ShareCode.GeneralAlertTitle)
+		Return False
+	Else If phone.SdkVersion >= 26 And CanRequestPackageInstalls = False Then
+		
+		MsgboxAsync(ShareCode.AvisoInstalarApp, ShareCode.GeneralAtentionTitle)
+		Wait For Msgbox_Result(Result As Int)
+		Dim in As Intent
+		in.Initialize("android.settings.MANAGE_UNKNOWN_APP_SOURCES", "package:" & Application.PackageName)
+		StartActivity(in)
+		Wait For Activity_Resume '<-- wait for Activity_Resume
+		Return CanRequestPackageInstalls
+		
+	Else If CheckNonMarketAppsEnabled = False Then
+		MsgboxAsync(ShareCode.AvisoInstalarFontes1 & CRLF & ShareCode.AvisoInstalarFontes2 & CRLF & ShareCode.AvisoInstalarFontes3, ShareCode.GeneralAtentionTitle)
+		Return False
+	Else
+		Return True
+	End If
+End Sub
+
+Private Sub CanRequestPackageInstalls As Boolean
+	Dim ctxt As JavaObject
+	ctxt.InitializeContext
+	Dim PackageManager As JavaObject = ctxt.RunMethod("getPackageManager", Null)
+	Return PackageManager.RunMethod("canRequestPackageInstalls", Null)
+End Sub
+
+Private Sub CheckNonMarketAppsEnabled As Boolean
+	If phone.SdkVersion >= 26 Then Return True
+	If phone.SdkVersion < 17 Or phone.SdkVersion >= 21 Then
+		Return phone.GetSettings("install_non_market_apps") = "1"
+	Else
+		Dim context As JavaObject
+		context.InitializeContext
+		Dim resolver As JavaObject = context.RunMethod("getContentResolver", Null)
+		Dim global As JavaObject
+		global.InitializeStatic("android.provider.Settings.Global")
+		Return global.RunMethod("getString", Array(resolver, "install_non_market_apps")) = "1"
+	End If
+End Sub
+
+Private Sub SendInstallIntent(FileName As String)
+	Dim i As Intent
+	If phone.SdkVersion >= 24 Then
+		i.Initialize("android.intent.action.INSTALL_PACKAGE", Starter.Provider.GetFileUri(FileName))
+		i.Flags = Bit.Or(i.Flags, 1) 'FLAG_GRANT_READ_URI_PERMISSION
+	Else
+		i.Initialize(i.ACTION_VIEW, "file://" & File.Combine(Starter.Provider.SharedFolder, FileName))
+		i.SetType("application/vnd.android.package-archive")
+	End If
+
+	Log(LastException)
+	Utils.WriteErrors2Log(LastException)
+	StartActivity(i)
+End Sub
+
+Sub FileFolderTest()
+    
+	Private rp As RuntimePermissions
+	Dim PermissionsGoodFlag As Boolean = True
+ 
+	If PermissionsGoodFlag Then
+		rp.CheckAndRequest(rp.PERMISSION_READ_EXTERNAL_STORAGE)
+		Wait For Activity_PermissionResult (Permission As String, YaeOrNay As Boolean)
+		If YaeOrNay = False Then
+			PermissionsGoodFlag = False
+		End If
+	End If
+ 
+	If PermissionsGoodFlag Then
+		rp.CheckAndRequest(rp.PERMISSION_WRITE_EXTERNAL_STORAGE)
+		Wait For Activity_PermissionResult (Permission As String, YaeOrNay As Boolean)
+		If YaeOrNay = False Then
+			PermissionsGoodFlag = False
+		End If
+	End If
+ 
+	Log("PermissionsGoodFlag = " & PermissionsGoodFlag)
+	
+	Private Provider As FileProvider
+	Provider.Initialize
+	Provider.GetApkFileUri()
+        
+End Sub
+
+Sub GetAppVersion(date As String) As ResumableSub
+
+End Sub
+
+Sub WindowStatusUpdate
+	LabelVersion.Text = ShareCode.APP_VersionNocodeName
+	ButtonAppNetwork.Enabled = False
+	ButtonAppNetwork.TextColor = Consts.ColorLightSilver
+	If (ShareCode.APP_WORKING_LOCAL) Then
+		ButtonAppNetwork.Enabled = True
+		ButtonAppNetwork.TextColor = Consts.ColorRedOrange
+	End If
+End Sub
+	
+Sub SetCompanyImageGravity
+	Dim VRCGLogo As Bitmap = LoadBitmap(File.DirAssets, "icon_100px.png")
+	If VRCGLogo = Consts.AppLogo Then
+		CompanyImageView.Gravity = Gravity.CENTER
+	Else
+		CompanyImageView.Gravity = Gravity.FILL
+	End If
+End Sub
+
+Sub ResetPanels
+	Panel_Config.Visible = False
+	Panel_Authorization.Visible = False
+	Panel_Verification.Visible = False
+	Panel_Login.Visible = False
+	Panel_Login_Validation.Visible = False
+	PanelDownloadInicial.Visible = False
+End Sub
+
+Sub ButtonWelcomeNext_Click
+	'*************************************************************************************
+	' Pontos a rever:
+	' - Starter.CurrentFlowPosition = 1 verificar o uso
+	'*************************************************************************************
+	
+	If Not(ShareCode.DEVICE_ORIENTATION = SelectOrientation.SelectedIndex) Then
+		ShareCode.DEVICE_ORIENTATION = SelectOrientation.SelectedIndex
+		Device.SetScreenOrientation(SelectOrientation.SelectedIndex)
+	Else
+		If ShareCode.APP_WORKING_LOCAL Then
+			MsgboxAsync(ShareCode.AuthorizationData_NoConnection_Validate, ShareCode.GeneralAlertTitle)
+		Else
+			ResetPanels
+			Panel_Authorization.Visible = True
+			Starter.CurrentFlowPosition = 1
+		End If
+	End If
+End Sub
+
+Sub ButtonLoginReset_Click
+	'MsgboxAsync("Funcionalidade a fechar!", "Nota")
+End Sub
+
+Sub ButtonLoginExit_Click
+	Activity.Finish
+End Sub
+
+Sub ButtonLoginEnter_Click
+	If ShareCode.APP_WORKING_LOCAL Then
+		Dim i As Int = Msgbox2(ShareCode.OffLineMessage_Confirm, ShareCode.GeneralAlertTitle, ShareCode.Option_YES, ShareCode.Option_CANCEL, ShareCode.Option_NO,  Null)
+		If (i=DialogResponse.POSITIVE) Then
+			' VERIFICA LOCAL
+			If Not(Utils.isNullOrEmpty(EditUserName.text)) And Not(Utils.isNullOrEmpty(EditPassword.text)) Then
+				ResetPanels
+				Panel_Login_Validation.Visible = True
+				Starter.CurrentFlowPosition = 3
+				Sleep(500)
+				
+				SetLogin(EditUserName.text, EditPassword.text)
+'				ResetPanels
+'				TimeStart.Enabled = True
+			Else
+				MsgboxAsync(ShareCode.Login_NoData, ShareCode.GeneralAlertTitle)
+			End If
+		Else If (i=DialogResponse.NEGATIVE) Then
+			' Volta ao login
+		Else
+			Activity.Finish
+		End If
+	Else
+		If Not(Utils.isNullOrEmpty(EditUserName.text)) And Not(Utils.isNullOrEmpty(EditPassword.text)) Then
+			ResetPanels
+			Panel_Login_Validation.Visible = True
+			Sleep(500)
+			Starter.CurrentFlowPosition = 3123
+			
+			ResetPanels
+			Panel_Login_Validation.Visible = True
+			Sleep(500)
+			Starter.CurrentFlowPosition = 3
+			
+			SetLogin(EditUserName.text, EditPassword.text)
+'			CheckPassReset(uname, ForcePassword)
+		Else
+			MsgboxAsync(ShareCode.Login_NoData, ShareCode.GeneralAlertTitle)
+		End If
+	End If
+End Sub
+
+Sub CloseAllServices
+	Try
+		CancelScheduledService(Comms)
+		StopService(Comms)
+		CancelScheduledService(BackgroundUpdateService)
+		StopService(BackgroundUpdateService)
+		CancelScheduledService(LocationService)
+		StopService(LocationService)
+		CancelScheduledService(Logs)
+		StopService(Logs)
+		CancelScheduledService(Starter)
+		StopService(Starter)
+		CancelScheduledService(UpdateService)
+		StopService(UpdateService)
+		CancelScheduledService(UserService)
+		StopService(UserService)
+	Catch
+		Log(LastException)
+		Utils.WriteErrors2Log(LastException)
+	End Try
+End Sub
+
+Sub ActivityFinish
+	CloseAllServices
+	Log("closing")
+	Dim jo As JavaObject
+	jo.InitializeContext
+	jo.RunMethod("finishAffinity", Null)
+	ExitApplication
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	If KeyCode = KeyCodes.KEYCODE_BACK Then
+		Dim Result As Int
+		Result = Msgbox2(ShareCode.ApplicationExit, ShareCode.GeneralAlertTitle, ShareCode.Option_YES, ShareCode.Option_NO, "", Null)
+		If Result = DialogResponse.POSITIVE Then
+			ActivityFinish
+		End If
+	End If
+	Return True
+End Sub
+
+Sub ActivityNewLogin
+	mainSplashImageEffect.Visible = False
+	ResetPanels
+	Panel_Login.Visible = True
+	Starter.CurrentFlowPosition = 3
+End Sub
+
+Sub RestartApp(newOri As Int)
+	mainSplashImageEffect.Visible = False
+	ShareCode.DEVICE_ORIENTATION = newOri
+	Device.SetScreenOrientation(newOri)
+	GoStartApp
+End Sub
+
+Sub ButtonAuthNext_Click
+	Log("ButtonAuthNext_Click")
+	If ShareCode.APP_WORKING_LOCAL Then
+		MsgboxAsync(ShareCode.AuthorizationData_NoConnection_Validate, ShareCode.GeneralAlertTitle)
+	Else
+		If Not(Utils.isNullOrEmpty(EditInstance.text)) And Not(Utils.isNullOrEmpty(EditAuthorization.text)) Then
+			'ProgressDialogShow("A inicializar o primeiro arranque ...")
+			Dim authData As Authorization = Types.MakeAuthorization(EditInstance.text, EditAuthorization.text, ShareCode.APP_VERSION, ShareCode.APP_DOMAIN)
+			ResetPanels
+			Panel_Verification.Visible = True
+			SetAuthorization(authData)
+		Else
+			MsgboxAsync(ShareCode.AuthorizationData_NoData, ShareCode.GeneralAlertTitle)
+		End If
+	End If
+End Sub
+
+Sub ButtonAuthBack_Click
+	ResetPanels
+	Panel_Config.Visible = True
+	Starter.CurrentFlowPosition = 0
+End Sub
+
+Sub GetDeviceParamsFromDatabase
+	ShareCode.DEVICE_PARAM_AS_OBS2DETAILS = 0
+		
+	ShareCode.DEVICE_ONLY_TECHORUSER 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_ONLY_TECHORUSER"), 0)
+	ShareCode.DEVICE_SHOW_REQUEST_ID 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_SHOW_REQUEST_ID"), 0)
+	ShareCode.DEVICE_PARAM_DATA_CONFIRM 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_DATA_CONFIRM"), 0)
+	ShareCode.DEVICE_PARAM_AVAILABILITY 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_AVAILABILITY"), 0)
+	ShareCode.DEVICE_PARAM_FAVORITES 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_FAVORITES"), 0)
+	ShareCode.DEVICE_PARAM_PAUSE_REQUEST 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_PAUSE_REQUEST"), 0)
+	ShareCode.DEVICE_PARAM_PAUSE_TECH 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_PAUSE_TECH"), 0)
+	ShareCode.DEVICE_REQUEST_UPLOAD_ONEXECUTION = Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_UPLOAD_ONEXECUTION"), 0)
+	ShareCode.DEVICE_REQUEST_AUTOUPDT_ONALERT 	= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_AUTOUPDT_ONALERT"), 0)
+	ShareCode.DEVICE_AS_SEND_IMMEDIATLY 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_AS_SEND_IMMEDIATLY"), 0)
+	ShareCode.DEVICE_REQUEST_HIDECANCELED 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_HIDECANCELED"), 0)
+	ShareCode.DEVICE_AUTOUPDATE_ONLOGIN 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_AUTOUPDATE_ONLOGIN"), 0)
+	ShareCode.DEVICE_AUTO_EXPAND_FIRST 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_AUTO_EXPAND_FIRST"), 0)
+	ShareCode.DEVICE_AUTO_EXPAND_CHECKLIST 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_AUTO_EXPAND_CHECKLIST"), 0)
+	ShareCode.DEVICE_DEFAULT_ROUTE 				= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_DEFAULT_ROUTE"), 0)
+	ShareCode.DEVICE_AS_INCLUDE_OBS_FIRST 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_AS_INCLUDE_OBS_FIRST"), 0)
+	ShareCode.DEVICE_PARAM_PRINT_DRAFT 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_PRINT_DRAFT"), 0)
+	ShareCode.DEVICE_SHOW_REQUEST_ROUTE 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_SHOW_REQUEST_ROUTE"), 0)
+	ShareCode.DEVICE_REQUEST_PUSH_OTHER 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_PUSH_OTHER"), 0)
+	ShareCode.DEVICE_PARAM_PHOTO_QUALITY 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_PHOTO_QUALITY"), 0)
+		
+	ShareCode.DEVICE_REOPEN_CHECKLISTS 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REOPEN_CHECKLISTS"), 0)
+'		ShareCode.REQUEST_REOPEN_ONLY_ORANGE		= Utils.IfNullOrEmpty(DBStructures.getParamState("REQUEST_REOPEN_ONLY_ORANGE"), 0)
+	ShareCode.DEVICE_REQUEST_SIGNATURE_TRG 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_SIGNATURE_TRG"), 0)
+	ShareCode.DEVICE_REQUEST_PUSH_OTHER_AUTH 	= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_PUSH_OTHER_AUTH"), 0)
+	ShareCode.DEVICE_PARAM_ORIENTATION 			= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_ORIENTATION"), 0)
+	ShareCode.DEVICE_PARAM_PHOTO_FONTSIZE 		= Utils.IfNullOrEmpty(DBStructures.getParamStateField("DEVICE_PARAM_PHOTO_FONTSIZE", "value"), 12)
+	ShareCode.DEVICE_PARAM_PHOTO_HEIGHT 		= Utils.IfNullOrEmpty(DBStructures.getParamStateField("DEVICE_PARAM_PHOTO_HEIGHT", "value"), 615)
+	ShareCode.DEVICE_PARAM_PHOTO_WIDTH 			= Utils.IfNullOrEmpty(DBStructures.getParamStateField("DEVICE_PARAM_PHOTO_WIDTH", "value"), 820)
+	ShareCode.DEVICE_REQUEST_CAN_DELETE_OWNED 	= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_REQUEST_CAN_DELETE_OWNED"), 0)
+	ShareCode.DEVICE_PARAM_PHOTO_FILETYPE 		= Utils.IfNullOrEmpty(DBStructures.getParamStateField("DEVICE_PARAM_PHOTO_FILETYPE", "value"), "PNG")
+	ShareCode.DEVICE_PARAM_PULL 				= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_PULL"), 0)
+	ShareCode.DEVICE_PARAM_ROUTES 				= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_ROUTES"), 0)
+		
+	ShareCode.DEVICE_PARAM_GENERATEREPORT 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_GENERATEREPORT"), 1)
+		
+	ShareCode.DEVICE_PARAM_RESYNC_REQUESTS 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_RESYNC_REQUESTS"), 1)
+	ShareCode.DEVICE_PARAM_RUNCL_NOTYPEREQUEST 	= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_RUNCL_NOTYPEREQUEST"), 1)
+	ShareCode.DEVICE_PARAM_FOTO_EVIDENCE 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_FOTO_EVIDENCE"), 1)
+	ShareCode.DEVICE_PARAM_DRAW_EVIDENCE 		= Utils.IfNullOrEmpty(DBStructures.getParamState("DEVICE_PARAM_DRAW_EVIDENCE"), 1)
+		
+	ShareCode.DEVICE_PARAM_SENDREPORT 					= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_SENDREPORT"), 1)
+	ShareCode.DEVICE_PARAM_CANCHANGE_OBJECT 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_CANCHANGE_OBJECT"), 1)
+	ShareCode.DEVICE_PARAM_CANCHANGE_ENTITY 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_CANCHANGE_ENTITY"), 1)
+	ShareCode.DEVICE_PARAM_REQUEST_CANDUPLICATE 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_CANDUPLICATE"), 1)
+	ShareCode.DEVICE_PARAM_REQUEST_ASSIGNTO 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_ASSIGNTO"), 1)
+	ShareCode.DEVICE_PARAM_REQUEST_ASSTO_MUSTACCEPT 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_ASSTO_MUSTACCEPT"), 1)
+	ShareCode.DEVICE_PARAM_REQUEST_INFOTITLE_CANCHANGE 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_INFOTITLE_CANCHANGE"), 0)
+	ShareCode.DEVICE_PARAM_REQUEST_CLTITLE_CANCHANGE 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_CLTITLE_CANCHANGE"), 0)
+	ShareCode.DEVICE_PARAM_ADDITIONAL_USERS_REGISTER 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ADDITIONAL_USERS_REGISTER"), 1)
+	ShareCode.DEVICE_PARAM_LOGIN_MUSTSELECT_COMAPNY 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_LOGIN_MUSTSELECT_COMAPNY"), 1)
+	ShareCode.DEVICE_PARAM_LOGIN_MUSTSELECT_ENVIRONMENT = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_LOGIN_MUSTSELECT_ENVIRONMENT"), 1)
+	ShareCode.DEVICE_PARAM_LOGIN_PASSWORDCHANGE_FIRSTTIME = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_LOGIN_PASSWORDCHANGE_FIRSTTIME"), 1)
+	ShareCode.DEVICE_PARAM_LOGIN_ALLOW_QRCODE_CONTROL 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_LOGIN_ALLOW_QRCODE_CONTROL"), 1)
+	ShareCode.DEVICE_PARAM_LOGIN_ALLOW_FACIAL_CONTROL 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_LOGIN_ALLOW_FACIAL_CONTROL"), 1)
+	ShareCode.DEVICE_PARAM_REQUEST_ENDDATE_CONTROL 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_ENDDATE_CONTROL"), 0)
+	ShareCode.DEVICE_PARAM_REQUEST_ENDDATE_INDAY_SHOW	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_REQUEST_ENDDATE_INDAY_SHOW"), 0)
+		
+	ShareCode.DEVICE_REQUEST_SHOWNEWICON_ONALERT 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_REQUEST_SHOWNEWICON_ONALERT"), 0)
+	ShareCode.DEVICE_PARAM_OBJECT_ALLOW_NEW_REQUEST 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_OBJECT_ALLOW_NEW_REQUEST"), 0)
+	ShareCode.DEVICE_PARAM_OBJECT_ALLOW_VIEW_ALL 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_OBJECT_ALLOW_VIEW_ALL"), 0)
+	ShareCode.DEVICE_PARAM_OBJECT_ALLOW_EVIDENCE_ASSOCIATE = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_OBJECT_ALLOW_EVIDENCE_ASSOCIATE"), 0)
+	ShareCode.DEVICE_PARAM_OBJECT_ALLOW_REQUESTS_TAB 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_OBJECT_ALLOW_REQUESTS_TAB"), 0)
+	ShareCode.DEVICE_PARAM_OBJECT_ALLOW_RELATIONS_JUMP 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_OBJECT_ALLOW_RELATIONS_JUMP"), 0)
+	ShareCode.DEVICE_REQUEST_UPDATE_SERVER_ONCLOSE 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_REQUEST_UPDATE_SERVER_ONCLOSE"), 0)
+	ShareCode.DEVICE_CHECKLIST_ALLDOCS_IN_OBJECT 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_ALLDOCS_IN_OBJECT"), 0)
+	ShareCode.DEVICE_PARAM_DEFAULT_DATE_PERIOD 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_DEFAULT_DATE_PERIOD"), 0)
+	ShareCode.DEVICE_REQUEST_SHOW_DATE_DIVIDER 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_REQUEST_SHOW_DATE_DIVIDER"), 0)
+	
+	ShareCode.DEVICE_CHECKLIST_SVRIMGUDP_ONCLOSE 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_SVRIMGUDP_ONCLOSE"), 0)
+	ShareCode.DEVICE_CHECKLIST_SVRIMGUDP_WIDTH_TRIGGER 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_SVRIMGUDP_WIDTH_TRIGGER"), 0)
+	ShareCode.DEVICE_ASKTOUPDATE_ONLOGIN 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_ASKTOUPDATE_ONLOGIN"), 0)
+	ShareCode.DEVICE_CHECKLIST_INCLUDE_PUBLIC_GALLERY 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_INCLUDE_PUBLIC_GALLERY"), 0)
+	ShareCode.DEVICE_PARAM_ACCESS_REQUESTS 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_REQUESTS"), 1)
+	ShareCode.DEVICE_PARAM_ACCESS_REPORTS 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_REPORTS"), 1)
+	ShareCode.DEVICE_PARAM_ACCESS_ALERTS 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_ALERTS"), 1)
+	ShareCode.DEVICE_PARAM_ACCESS_OBJECTS 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_OBJECTS"), 1)
+	ShareCode.DEVICE_PARAM_ACCESS_TASKS 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_TASKS"), 1)
+	ShareCode.DEVICE_PARAM_ACCESS_MYDATA 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACCESS_MYDATA"), 1)
+	ShareCode.DEVICE_REQUEST_CUSTOMORDER 				= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_REQUEST_CUSTOMORDER"), 0)
+	
+	ShareCode.DEVICE_CHECKLIST_STARTON_MYDATA 			= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_STARTON_MYDATA"), 0)
+	ShareCode.DEVICE_CHECKLIST_MYDATA_DOCS_ONTOP 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_MYDATA_DOCS_ONTOP"), 0)
+	
+	ShareCode.DEVICE_CHECKLIST_OBJECTMANDATORY_ONEND 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_OBJECTMANDATORY_ONEND"), 0)
+	ShareCode.DEVICE_CHECKLIST_SIGANTUREMANDATORY_ONEND = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_SIGANTUREMANDATORY_ONEND"), 0)
+	ShareCode.DEVICE_PARAM_ACTIVATE_PRINTMODULE 		= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_ACTIVATE_PRINTMODULE"), 0)
+	ShareCode.DEVICE_PARAM_TESTCONNECTED_PRINT_ONLOGIN 	= Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_TESTCONNECTED_PRINT_ONLOGIN"), 0)
+	ShareCode.DEVICE_CHECKLIST_AUTORETURN_AFTER_FOTOSHOT = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_AUTORETURN_AFTER_FOTOSHOT"), 0)
+	ShareCode.DEVICE_CHECKLIST_AUTORETURN_AFTER_SUBSACTION = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_AUTORETURN_AFTER_SUBSACTION"), 0)
+	ShareCode.DEVICE_CHECKLIST_COPY_ASDETAILS_TO_OBS = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_COPY_ASDETAILS_TO_OBS"), 0)
+	ShareCode.DEVICE_CHECKLIST_AUTORETURN_AFTER_SIGNATURE = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_CHECKLIST_AUTORETURN_AFTER_SIGNATURE"), 0)
+		
+	ShareCode.DEVICE_PARAM_INVERTED_FOTO_DEVICE = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_INVERTED_FOTO_DEVICE"), 0)
+	ShareCode.DEVICE_PARAM_INVERTED_HORIZ_FOTO_DEVICE = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_PARAM_INVERTED_HORIZ_FOTO_DEVICE"), 0)
+		
+	ShareCode.DEVICE_REPORT_DATE_FROM_CHECKLIST = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_REPORT_DATE_FROM_CHECKLIST"), 1)
+		
+	ShareCode.DEVICE_TYPEREQUEST_START_NEWWAY = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_TYPEREQUEST_START_NEWWAY"), 0)
+	ShareCode.DEVICE_TYPEREQUEST_DEFINE_START_NEWWAY = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_TYPEREQUEST_DEFINE_START_NEWWAY"), 0)
+		
+	ShareCode.DEVICE_EMAIL_OLD_MODEL = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_EMAIL_OLD_MODEL"), 1)
+	ShareCode.EmailOldModel = Utils.Int2Bool(ShareCode.DEVICE_EMAIL_OLD_MODEL)
+		
+	ShareCode.DEVICE_SHOW_GLOBAL_SEARCH = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_SHOW_GLOBAL_SEARCH"), 0)
+		
+'		ShareCode.DEVICE_SYNC_NEWWAY = Utils.ifnullorempty(DBStructures.getparamstate("DEVICE_SYNC_NEWWAY"), 0)
+		
+	If ShareCode.APP_DOMAIN.ToLowerCase = "demo" Or ShareCode.APP_DOMAIN.ToLowerCase = "devdemo" Or ShareCode.APP_DOMAIN.ToLowerCase = "itg" Then
+		ShareCode.DEVICE_SHOW_GLOBAL_SEARCH=1
+	End If
+		
+	If ShareCode.APP_DOMAIN.ToLowerCase = "engitagus" Then
+		ShareCode.DEVICE_REPORT_DATE_FROM_CHECKLIST=0
+	End If
+
+	ShareCode.DEVICE_DEF_FONT_SIZE = ShareCode.DEVICE_PARAM_PHOTO_FONTSIZE
+	ShareCode.DEVICE_DEF_QUALITY = ShareCode.DEVICE_PARAM_PHOTO_QUALITY
+	ShareCode.DEVICE_DEF_IMG_FILETYPE = ShareCode.DEVICE_PARAM_PHOTO_FILETYPE
+	ShareCode.DEVICE_DEF_IMG_WIDTH = ShareCode.DEVICE_PARAM_PHOTO_WIDTH
+	ShareCode.DEVICE_DEF_IMG_HEIGHT = ShareCode.DEVICE_PARAM_PHOTO_HEIGHT
+		
+	ShareCode.STS005 = Utils.Int2Bool(ShareCode.DEVICE_REQUEST_HIDECANCELED)
+		
+End Sub
+
+Sub TimeStart_Tick
+	Log("TimeStart_Tick")
+	TimeStartCounter = TimeStartCounter + 1
+	mainSplashProgress.Progress = TimeStartCounter 'mainSplashProgress.Progress + 1
+	'If (mainSplashProgress.Progress >= 100) Then
+	If (TimeStartCounter >= 10) Then
+		
+		TimeStart.Enabled = False
+		mainSplashProgress.Visible = False
+		mainSplashProgress.Progress = 0
+		mainSplashImageEffect.Visible = True
+		
+		GetDeviceParamsFromDatabase
+		
+		Starter.MakingLogin = True
+
+		SetFTPUser
+	
+				
+		' *********************************************************************************
+		' ALTERACAO PC
+		' VERIFICA SE ESTA EM MODO LOCAL, SE NAO:
+		' PASSA PARA DATAUPDATE
+		' SE SIM:
+		' PASSA PARA O MENU PRINCIPAL
+		' *********************************************************************************
+		If Not(ShareCode.APP_WORKING_LOCAL) Then
+			Log("-----------  Não é local")
+'			If Not(ShareCode.FIRSTLOGININDEVICE) And Not(ShareCode.FIRSTDAILYLOGIN) Then
+'			If Not(ShareCode.FIRSTLOGININDEVICE) Then
+'				CallSubDelayed2(MainMenu, "StartTheActivity", True)
+'			Else
+'				CallSubDelayed(DataUpdate, "FirstSubFromLogin")
+'			End If
+
+			CallSubDelayed(DataUpdate, "FirstSubFromLogin")
+			
+		Else
+			Log("-----------  Aplicação em modo local")
+			CallSubDelayed2(MainMenu, "StartTheActivity", True)
+		End If
+
+		ShareCode.SetAnimation("zoom_enter", "zoom_exit")
+	End If
+	Log("**  START LOG_SERVICE  : " & mainSplashProgress.Progress & TimeStartCounter)
+	
+End Sub
+
+Sub getMainLogo(authData As Authorization)
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("instance",authData.Instance)
+	params.Put("authorization",authData.Authorization)
+	params.Put("version", authData.Version)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String =   JSON.ToPrettyString(1)
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	ShareCode.APP_URL  = $"https://${ShareCode.APP_DOMAIN}.${ShareCode.APPL_HOST}/api/"$
+	Dim addr As String = ShareCode.APP_URL & ShareCode.APP_ConfirmLinkMainLogo
+	Job.PostString(addr, data )
+	Job.GetRequest.SetContentType("application/json")
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		ShareCode.APP_MAIN_LOGO = Job.GetString
+		Starter.AppState.WriteString("APP_START", "APP_MAIN_LOGO", ShareCode.APP_MAIN_LOGO)
+		Starter.AppState.Flush
+		If (Utils.NNE(ShareCode.APP_MAIN_LOGO)) Then
+			mainPanSplashCustomLogo.SetBackgroundImage(Utils.B64ToBitmap(ShareCode.APP_MAIN_LOGO))
+		End If
+	End If
+End Sub
+
+Sub getMainLogoMini(authData As Authorization)
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("instance",authData.Instance)
+	params.Put("authorization",authData.Authorization)
+	params.Put("version", authData.Version)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String =   JSON.ToPrettyString(1)
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	ShareCode.APP_URL  = "https://" & ShareCode.APP_DOMAIN & $".${ShareCode.APPL_HOST}/api/"$
+	Dim addr As String = ShareCode.APP_URL & ShareCode.APP_ConfirmLinkMainLogoMini
+	Job.PostString(addr, data )
+	Job.GetRequest.SetContentType("application/json")
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		ShareCode.APP_MAIN_LOGO_MINI = Job.GetString
+'		Log(Job.GetString)
+		Starter.AppState.WriteString("APP_START", "APP_MAIN_LOGO_MINI", ShareCode.APP_MAIN_LOGO_MINI)
+		Starter.AppState.Flush
+	End If
+End Sub
+
+Sub getLoginMainLogo As ResumableSub
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String =   JSON.ToPrettyString(1)
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	Dim addr As String = $"https://${ShareCode.APP_DOMAIN}.${ShareCode.APPL_HOST}/api/orion/mobile/login/logo"$
+	Job.PostString(addr, data )
+	Job.GetRequest.SetContentType("application/json")
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		ShareCode.APP_MAIN_LOGO = Job.GetString
+		Starter.AppState.WriteString("APP_START", "APP_MAIN_LOGO", ShareCode.APP_MAIN_LOGO)
+		Starter.AppState.Flush
+		If (Utils.NNE(ShareCode.APP_MAIN_LOGO)) Then
+			mainPanSplashCustomLogo.SetBackgroundImage(Utils.B64ToBitmap(ShareCode.APP_MAIN_LOGO))
+		End If
+	End If
+	Return True
+End Sub
+
+Sub getLoginMainLogoMini As ResumableSub
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String =   JSON.ToPrettyString(1)
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	Dim addr As String = $"https://${ShareCode.APP_DOMAIN}.${ShareCode.APPL_HOST}/api/orion/mobile/login/logo/mini"$
+	Job.PostString(addr, data )
+	Job.GetRequest.SetContentType("application/json")
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		ShareCode.APP_MAIN_LOGO_MINI = Job.GetString
+		Starter.AppState.WriteString("APP_START", "APP_MAIN_LOGO_MINI", ShareCode.APP_MAIN_LOGO_MINI)
+		Starter.AppState.Flush
+	End If
+	Return True
+End Sub
+
+Sub CreateAuthParams(Instance As String, Authorization As String, Version As String) As Map
+	Dim params As Map
+	params.Initialize
+	params.Clear
+'	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("instance", Instance)
+	params.Put("authorization", Authorization)
+	params.Put("version", Version)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+	params.Put("_user", ShareCode.SESS_User)
+	
+	Return params
+End Sub
+'*************************************************************************
+' IGNORAR A MENSAGEM DE ALERTA/ERRO DO IDE!!!
+' IGNORE ALERT/ERROR MESSAGE FROM IDE!!!
+'*************************************************************************
+Sub SetAuthorization(authData As Authorization)
+
+	'*************************************************************************************
+	' @author felipemrvieira
+	'
+	' Pontos a rever:
+	' - ShareCode.FirstInstallBD = 0
+	'*************************************************************************************
+
+	Dim params As Map = CreateAuthParams(authData.Instance, authData.Authorization, authData.Version)
+
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String = JSON.ToPrettyString(1)
+	
+	Dim Job As HttpJob
+	Job.Initialize("",Me)
+	'Dim OK As Boolean = False
+	ShareCode.APP_DOMAIN = "demo"
+	ShareCode.APP_URL  = "https://" & ShareCode.APP_DOMAIN & $".${ShareCode.APPL_HOST}/api/"$
+	Dim addr As String = ShareCode.APP_URL & ShareCode.APP_ConfirmLink
+	
+	Log("************************************************************")
+	Log($" 		INITIAL : ${ShareCode.APP_DOMAIN} "$)
+	Log($" 		URL : ${ShareCode.APP_URL} "$)
+	Log($" 		addr : ${addr} "$)
+	Log("************************************************************")
+
+	Job.PostString(addr, data )
+	Job.GetRequest.SetContentType("application/json")
+	
+
+	'******************************************************
+	' FIRSTINSTALL USANDO O METODO DE DOWNLOAD DA BD
+	ShareCode.FirstInstallBD = 0
+	'******************************************************
+	' UTILIZAR O METODO JSON PARA A SSINCRONIZAÇÕES
+	ShareCode.newreturn = 1
+	'******************************************************
+'	ShareCode.IsInCheckExecution = False
+
+	Wait For (Job) JobDone(Job As HttpJob)
+	'
+	If Job.Success Then
+		Log(Job.GetString)
+		
+		'OK = True
+		Dim ResultStr As String = Job.GetString
+		If (Starter.StrFunc.Left(ResultStr, 1) = "[") Then
+			ResultStr = Starter.StrFunc.Trim(Starter.StrFunc.Mid(ResultStr, 2, Starter.StrFunc.Len(ResultStr)-1))
+		End If
+		
+		Dim JSON1 As JSONParser
+		JSON1.Initialize(ResultStr)
+		Dim MapJSON As Map = JSON1.NextObject
+		Dim Active As Int = MapJSON.Get("active")
+		
+		Try
+			If (Active = 1) Then
+				Dim Registered As Int = MapJSON.Get("registered")
+				ShareCode.APP_TOKEN = MapJSON.Get("_token")
+				ShareCode.APP_DOMAIN = MapJSON.Get("subdomain")
+				
+				If Not(ShareCode.APP_DOMAIN = authData.SubDomain) Then
+					authData.SubDomain = ShareCode.APP_DOMAIN
+					ShareCode.APP_URL  = "https://" & ShareCode.APP_DOMAIN & $".${ShareCode.APPL_HOST}/api/"$
+				End If
+				
+				Log("************************************************************")
+				Log($" 		REGISTER : ${ShareCode.APP_DOMAIN} "$)
+				Log("************************************************************")
+			
+				Log(ShareCode.APP_TOKEN)
+				
+				Dim ActiveAndNotRegistered As Boolean = (Active = 1) And (Registered = 0)
+				If ActiveAndNotRegistered Then
+					
+					WaitToConfirm = False
+					
+					ShareCode.APPL_CONFIRMED = 1
+					Starter.AppState.WriteInteger("APP_START", "APPL_CONFIRMED", ShareCode.APPL_CONFIRMED)
+					ShareCode.APPL_ACCOUNT = ShareCode.APP_DOMAIN
+					Starter.AppState.WriteString("APP_START", "APPL_ACCOUNT", ShareCode.APPL_ACCOUNT)
+					Starter.AppState.Flush
+					
+					prc_SaveToJSON(authData)
+					Sleep(200)
+					getMainLogo(authData)
+					getMainLogoMini(authData)
+					
+'					ShareCode.APP_ISDEV = Starter.AppState.ReadInteger("APP_START", "APPL_ISDEV", 0)
+
+					'***************************************************************
+					' ALTERACAO PC
+					' CHAMA OS PROCEDIMENTOS DE CARREGAMENTO DOS FICHEIROS MESTRES
+					' NOVO LAYOUT DE DATAUPDATE INICIAL E ROTINAS LOCAIS
+					'***************************************************************
+					ResetPanels
+					
+					Dim res As ResumableSub = FirstInstallCompleteProcedure
+					Wait For(res) Complete (result As Boolean)
+					
+					If Not(result)Then
+						MsgboxAsync(ShareCode.AvisoErroComms,ShareCode.GeneralAlertTitle)
+						Starter.APP_IN_EXECUTION = False
+					End If
+						
+					ResetPanels
+					Panel_Login.Visible = True
+					Starter.CurrentFlowPosition = 3
+					DBStructures.getConfigApp(ShareCode.APP_TOKEN)
+					Starter.APP_IN_EXECUTION = True
+				Else
+					If (Registered = 1) Then
+						MsgboxAsync(ShareCode.AuthorizationData_Registered, ShareCode.GeneralAlertTitle )
+					Else
+						MsgboxAsync(ShareCode.AuthorizationData_Invalid, ShareCode.GeneralAlertTitle )
+					End If
+					Sleep(100)
+					ResetPanels
+					Panel_Authorization.Visible = True
+					Starter.CurrentFlowPosition = 1
+				End If
+			Else
+				MsgboxAsync(ShareCode.AuthorizationData_Invalid, ShareCode.GeneralAlertTitle )
+				Sleep(100)
+				ResetPanels
+				Panel_Authorization.Visible = True
+				Starter.CurrentFlowPosition = 1
+			End If
+		Catch
+			Log(LastException)
+			Utils.WriteErrors2Log(LastException)
+			MsgboxAsync(ShareCode.AuthorizationData_NoServer, ShareCode.GeneralAlertTitle )
+			Sleep(100)
+			ResetPanels
+			Panel_Authorization.Visible = True
+			Starter.CurrentFlowPosition = 1
+		End Try
+		
+		
+	Else
+		Dim i As Int = Msgbox2(ShareCode.AuthorizationData_NoServer, ShareCode.GeneralAlertTitle, ShareCode.Option_TRY, ShareCode.Option_CANCEL, "", Null)
+		If (i=DialogResponse.POSITIVE) Then
+			ResetPanels
+			Panel_Authorization.Visible = True
+			Starter.CurrentFlowPosition = 1
+		Else
+			Activity.Finish
+		End If
+	
+	End If
+	Job.Release
+'	ApplDialog.CloseDialog(DialogResponse.POSITIVE)
+End Sub
+
+'===================================================================================================================
+'	TIPO: REGISTO
+'	ACÇÃO: CONFIRMA O REGISTO DO DISPOSITIVO E DEVOLVE CONFIRMAÇÃO DO HOST
+'	RETORNA: MAP da Chamada iniciada por JOB
+'===================================================================================================================
+Sub prc_SaveToJSON(authData As Authorization)
+	Dim Mapping As Map
+	Mapping.Initialize
+	Mapping.Put("instance", authData.Instance)
+	Mapping.Put("authorization", authData.Authorization)
+	Mapping.Put("version", authData.Version)
+	Mapping.Put("versionid", authData.Version)
+	Mapping.Put("confirmed", ShareCode.APPL_CONFIRMED)
+	Mapping.Put("token", ShareCode.APP_TOKEN)
+	Mapping.Put("orientation", ShareCode.DEVICE_ORIENTATION)
+	Mapping.Put("subdomain", authData.SubDomain)
+	
+	Dim Condition As Map
+	Condition.Initialize
+	Condition.Put("id", 1)
+	
+	If (DBStructures.getConfigValuesExists) Then
+		Utils.UpdateRecord2WithLog(Starter.LocalSQLWRK, "config", Mapping, Condition,"","")
+	Else
+		Mapping.Put("id", 1)
+		Dim lstMap As List
+		lstMap.Initialize
+		lstMap.Add(Mapping)
+		DBUtils.InsertMaps(Starter.LocalSQLWRK, "config", lstMap)
+	End If
+	
+	ShareCode.APP_Instance = authData.Instance
+	ShareCode.APP_Authorization = authData.Authorization
+	
+	Dim lst As List = Utils.ListOfPairs( Array As String($"instance=>${authData.Instance}"$, $"authorization=>${authData.Authorization}"$ ), "")
+	Dim Job As HttpJob = Utils.CallJobAPI(ShareCode.APP_RegisterDevice, lst, Me, "AuthRegister")
+	Wait For (Job) JobDone(Job As HttpJob)
+	If Job.Success Then
+		
+		Dim JobMap As Map = Utils.JobAPIMAP(Job)
+		Dim Status As Int = JobMap.Get("status")
+		If Status = 1 Then
+			Starter.AppState.WriteInteger("APP_START", "APPL_CONFIRMED", ShareCode.APPL_CONFIRMED)
+			Dim Host As String = JobMap.Get("host")
+'			Dim dev_account As Int = JobMap.Get("dev_account")
+			
+			If Not(ShareCode.APPL_HOST = Host) Then
+				ShareCode.APPL_HOST = Host
+				Starter.AppState.WriteString("APP_START", "APPL_HOST", Host)
+			End If
+			
+			Starter.AppState.Flush
+		Else
+			WaitToConfirm = True
+			ShareCode.APPL_CONFIRMED = 0
+		End If
+	Else
+		WaitToConfirm = True
+		ShareCode.APPL_CONFIRMED = 0
+	End If
+	Job.Release
+
+	If (WaitToConfirm) And (ShareCode.APPL_CONFIRMED = 0) Then
+		Dim i As Int = Msgbox2(ShareCode.AuthorizationData_RegisteredError, ShareCode.GeneralAlertTitle, ShareCode.Option_TRY, ShareCode.Option_CANCELEXIT, "", Null)
+		
+		If (i=DialogResponse.POSITIVE) Then
+			ResetPanels
+			Panel_Login.Visible = False
+			Panel_Authorization.Visible = True
+			Starter.CurrentFlowPosition = 1
+			
+			Starter.AppState.WriteInteger("APP_START", "APPL_CONFIRMED", ShareCode.APPL_CONFIRMED)
+			Starter.AppState.Flush
+		Else
+			ActivityFinish
+		End If
+	End If
+	mainFirstInstall.visible = True
+End Sub
+
+
+Sub ButtonAppNetwork_Click
+	
+	MsgboxAsync(ShareCode.ConnectionBreak, ShareCode.GeneralNoteTitle)
+	
+End Sub
+
+Sub ForceResetPassword(Reset As Boolean, uname As String)
+		
+	'****************************************************************
+	' VERIFICACAO DA OPCAO DE RESET FORÇADO DA PASSWORD VINDA DO BO
+	'****************************************************************
+				
+	If Reset Then
+		Dim appldialog As CustomLayoutDialog
+		Dim sf As Object = appldialog.ShowAsync("Alteração palavra passe", "Confirmar", "Cancelar", "", Null, False)
+	
+		Utils.SetDialogColors(sf, Consts.ColorWhite, Consts.ColorGray, 3, 5)
+		If Not(ShareCode.ISPHONE) Then
+			appldialog.SetSize(60%x, 40%y)
+		Else
+			appldialog.SetSize(60%x, 40%y)
+		End If
+		Wait For (sf) Dialog_Ready(pnl As Panel)
+		pnl.LoadLayout("dialogoforcepassword")
+					
+					
+		If newpass1.Text = "" Or newpass2.Text = "" Then
+			appldialog.GetButton(DialogResponse.POSITIVE).Enabled = False
+		End If
+					
+		If newpass2.text <> newpass1.Text Then
+			appldialog.GetButton(DialogResponse.POSITIVE).Enabled = False
+		End If
+					
+		Wait For (sf) Dialog_Result(res As Int)
+				
+		If res = DialogResponse.POSITIVE Then
+
+			ShareCode.newpass = newpass2.Text
+		
+			Dim params As Map
+			params.Initialize
+			params.Clear
+			params.Put("_token",ShareCode.APP_TOKEN)
+			params.Put("_user", uname)
+			params.Put("_key", ShareCode.newpass)
+			params.Put("versionTagcode", VersionTagcode)
+			params.Put("_authorization", DeviceAuthorization)
+			params.Put("_instance", DeviceInstance)
+			params.put("_deviceBrand", DeviceBrand)
+			params.put("_deviceModel", DeviceModel)
+			params.put("_deviceMacAddress", DeviceMacAddress)
+						
+			Dim sccommand As String = $"username='${ShareCode.SESS_OPER_UserName}', password='${ShareCode.newpass}'"$
+			Log(sccommand)
+			
+			Dim JSON As JSONGenerator
+			JSON.Initialize(params)
+			Dim data As String =   JSON.ToPrettyString(1)
+			Log(data)
+			Dim Job As HttpJob
+			Job.Initialize("",Me)
+		
+			Dim ConfUser As String = ShareCode.APP_URL & "orion/mobile/User/change/password"
+			Log(ConfUser)
+			Job.PostString(ConfUser, data )
+			Job.GetRequest.SetContentType("application/json")
+			ShareCode.newpass = ""
+			Wait For (Job) JobDone(Job As HttpJob)
+			If Job.Success Then
+				MsgboxAsync("A Password foi alterada",ShareCode.GeneralInfoTitle)
+				Log(Job.GetString)
+				Dim ResultStr As String = Job.GetString
+				Log(ResultStr)
+			End If
+		
+		Else
+			ShareCode.newpass = "Null"
+	
+			If ShareCode.newpass = "Null" Then
+				'Volta para o login
+			End If
+
+		End If
+					
+					
+	End If
+End Sub
+
+Sub SetUserInfo(Record As Cursor, uname As String) 
+	If (Record.GetString("title") <> "") Then
+		ShareCode.SESS_User = Record.GetString("tagcode")
+		ShareCode.SESS_UWDUKEY = uname
+		ShareCode.SESS_WareHouse = Record.GetString("warehouse")
+		ShareCode.USR_STATE = Record.GetInt("available")
+		ShareCode.SESS_UserName = Record.GetString("title")
+		ShareCode.SESS_UserProfile = Record.GetString("profile_tagcode")
+		ShareCode.SESS_UserTeam = ""
+
+		ShareCode.SESS_OPER_User = ShareCode.SESS_User
+		ShareCode.SESS_OPER_UserName = ShareCode.SESS_UserName
+		ShareCode.SESS_OPER_UWDUKEY = uname
+
+		ShareCode.APP_LAST_USER = ShareCode.SESS_UWDUKEY
+	End If
+End Sub
+
+Sub CreateUserAuthParams(uname As String, upass As String) As String
+	Dim params As Map
+	params.Initialize
+	params.Clear
+	params.Put("_token",ShareCode.APP_TOKEN)
+	params.Put("_user", uname)
+	params.Put("_key", upass)
+	params.Put("versionTagcode", VersionTagcode)
+	params.Put("_authorization", DeviceAuthorization)
+	params.Put("_instance", DeviceInstance)
+	params.put("_deviceBrand", DeviceBrand)
+	params.put("_deviceModel", DeviceModel)
+	params.put("_deviceMacAddress", DeviceMacAddress)
+			
+	Dim sccommand As String = $"username='${uname}', password='${upass}'"$
+	Log(sccommand)
+			
+	Dim JSON As JSONGenerator
+	JSON.Initialize(params)
+	Dim data As String = JSON.ToPrettyString(1)
+	Log(data)
+	
+	Return data
+End Sub
+
+Sub UpdateLocalUser(RecordTech As Cursor, update_at As String, uname As String, tech As Map, utech As Map, udtech As Map, user_tagcode As String)
+	Log("... Updating")
+	Dim datacheck As String = RecordTech.GetString("updated_at")
+	Dim GravaLocal As Int = 0
+	If (Utils.IfNullOrEmpty(datacheck, "") <> update_at) Then
+		Log("... Make update")
+		Dim InsertListm As Map
+		InsertListm.Initialize
+		InsertListm.Put("username", uname)
+		Try
+			Utils.UpdateRecord2WithLog(Starter.LocalSQLEVC, "dta_technicals", tech, InsertListm,uname,"")
+			Sleep(100)
+			GravaLocal = GravaLocal +1
+		Catch
+			Log($"ERRO UPDATE dta_technicals :: ${LastException}"$)
+			Utils.logError("Actualizar Técnicos", ShareCode.SESS_OPER_User, LastException)
+		End Try
+							
+		Dim tgcode As String = tech.Get("user_tagcode")
+						
+		Dim InsertListm As Map
+		InsertListm.Initialize
+		InsertListm.Put("tagcode", tgcode)
+		Dim nC As Int = DBStructures.GetCountOfEVC("aut_users", $" and tagcode='${user_tagcode}'"$)
+		If nC = 0 Then
+			Try
+				Dim InsertList As List
+				InsertList.Initialize
+				InsertList.Add(utech)
+'									DBUtils.InsertMaps(Starter.LocalSQLEVC, "aut_users", InsertList)
+				Utils.InsertMapsWithLog(Starter.LocalSQLEVC, 0, "aut_users", InsertList,"","")
+				Sleep(100)
+				GravaLocal = GravaLocal +1
+			Catch
+				Log($"ERRO INSERT aut_users :: ${LastException}"$)
+				Utils.logError("Inserir Utilizadores", ShareCode.SESS_OPER_User, LastException)
+			End Try
+		Else
+			Try
+'									DBUtils.UpdateRecord2(Starter.LocalSQLEVC, "aut_users", utech, InsertListm)
+				Utils.UpdateRecord2WithLog(Starter.LocalSQLEVC, "aut_users", utech, InsertListm,uname,"")
+				Sleep(100)
+				GravaLocal = GravaLocal +1
+			Catch
+				Log($"ERRO UPDATE aut_users :: ${LastException}"$)
+				Utils.logError("Actualizar Utilizadores", ShareCode.SESS_OPER_User, LastException)
+			End Try
+		End If
+							
+							
+		Dim InsertListm As Map
+		InsertListm.Initialize
+		InsertListm.Put("user_tagcode", tgcode)
+		Try
+'								DBUtils.UpdateRecord2(Starter.LocalSQLEVC, "aut_users_details", udtech, InsertListm)
+			Utils.UpdateRecord2WithLog(Starter.LocalSQLEVC, "aut_users_details", udtech, InsertListm,uname,"")
+			Sleep(100)
+			GravaLocal = GravaLocal +1
+		Catch
+			Log($"ERRO UPDATE aut_users_details :: ${LastException}"$)
+			Utils.logError("Actualizar Detalhes Utilizador", ShareCode.SESS_OPER_User, LastException)
+		End Try
+
+	End If
+End Sub
+
+Sub CreateLocalUser(tech As Map, utech As Map, udtech As Map)
+	'**********************************************
+	' REGISTO DE UTILIZADOR NÃO EXISTE ?
+	'**********************************************
+	Log("... Inserting")
+	Dim InsertList As List
+	InsertList.Initialize
+	InsertList.Add(tech)
+	Try
+'							DBUtils.InsertMaps(Starter.LocalSQLEVC, "dta_technicals", InsertList)
+		Utils.InsertMapsWithLog(Starter.LocalSQLEVC, 0, "dta_technicals", InsertList,"","")
+		Sleep(100)
+'							GravaLocal = GravaLocal +1
+	Catch
+		Log($"ERRO INSERT dta_technicals :: ${LastException}"$)
+		Utils.logError("Inserir Técnicos", ShareCode.SESS_OPER_User, LastException)
+	End Try
+						
+						
+	Dim InsertList As List
+	InsertList.Initialize
+	InsertList.Add(utech)
+	Try
+'							DBUtils.InsertMaps(Starter.LocalSQLEVC, "aut_users", InsertList)
+		Utils.InsertMapsWithLog(Starter.LocalSQLEVC, 0, "aut_users", InsertList,"","")
+		Sleep(100)
+'							GravaLocal = GravaLocal +1
+	Catch
+		Log($"ERRO INSERT aut_users :: ${LastException}"$)
+		Utils.logError("Inserir Utilizadores", ShareCode.SESS_OPER_User, LastException)
+	End Try
+						
+	Dim InsertList As List
+	InsertList.Initialize
+	InsertList.Add(udtech)
+	Try
+'							DBUtils.InsertMaps(Starter.LocalSQLEVC, "aut_users_details", InsertList)
+		Utils.InsertMapsWithLog(Starter.LocalSQLEVC, 0, "aut_users_details", InsertList,"","")
+		Sleep(100)
+'							GravaLocal = GravaLocal +1
+	Catch
+		Log($"ERRO INSERT aut_users_details :: ${LastException}"$)
+		Utils.logError("Inserir Detalhes Utilizador", ShareCode.SESS_OPER_User, LastException)
+	End Try
+End Sub
+
+Sub CreateOrUpdateLocalUser(MapJSON As Map, uname As String )
+	Dim tech As Map = MapJSON.Get("tech")
+	Dim utech As Map = MapJSON.Get("utech")
+	Dim udtech As Map = MapJSON.Get("udtech")
+	Dim UserIn As Map = MapJSON.Get("user")		
+	Dim update_at As String = Utils.IfNullOrEmpty(UserIn.Get("update_at"), "")
+	Dim user_tagcode As String = UserIn.Get("user_tagcode")
+					
+	Private RecordTech As Cursor
+	RecordTech = Starter.LocalSQLEVC.ExecQuery($"Select * from dta_technicals where username='${uname}'"$)
+	'**********************************************
+	' REGISTO DE UTILIZADOR JÁ EXISTE ?
+	'**********************************************
+	If RecordTech.RowCount > 0 Then
+		RecordTech.Position = 0
+		UpdateLocalUser(RecordTech, update_at, uname, tech, utech, udtech, user_tagcode)
+						
+	Else
+		CreateLocalUser(tech, utech, udtech)
+	End If
+	RecordTech.Close
+					
+End Sub
+
+Sub SetUserLanguage
+	If Utils.NNE(ShareCode.UserLanguage) Then
+		ShareCode.CheckTranslations(ShareCode.UserLanguage)
+	Else
+		ShareCode.CheckTranslations("PT")
+	End If
+End Sub
+
+Sub CreateLoginsLog
+	Dim MapLogins As Map
+						
+	If Not(MapLogins.IsInitialized) Then
+		MapLogins.Initialize
+	Else
+		MapLogins.Clear
+	End If
+						
+	If File.Exists(Starter.SharedFolder,"logins.log") Then
+							
+		MapLogins = File.ReadMap(Starter.SharedFolder,"logins.log")
+		Log("==================================================")
+		Log("logins.log")
+		For i = 0 To MapLogins.Size - 1
+			Log("Key: " & MapLogins.GetKeyAt(i))
+			Log("Value: " & MapLogins.GetValueAt(i))
+		Next
+		Log("==================================================")
+		Dim CurrentUserLastLogin As String = MapLogins.Get(ShareCode.SESS_OPER_User)
+							
+		If Utils.NNE(CurrentUserLastLogin) Then
+			ShareCode.FIRSTLOGININDEVICE = False
+
+			If Utils.GetCurrentDate = CurrentUserLastLogin Then
+				ShareCode.FIRSTDAILYLOGIN = False
+			Else
+				ShareCode.FIRSTDAILYLOGIN = True
+			End If
+								
+			MapLogins.Put(ShareCode.SESS_OPER_User,Utils.GetCurrentDate)
+			File.WriteMap(Starter.SharedFolder,"logins.log", MapLogins)
+		Else
+			MapLogins.Put(ShareCode.SESS_OPER_User,Utils.GetCurrentDate)
+			File.WriteMap(Starter.SharedFolder,"logins.log", MapLogins)
+			ShareCode.FIRSTDAILYLOGIN = True
+			ShareCode.FIRSTLOGININDEVICE = True
+		End If
+	Else
+		MapLogins.Put(ShareCode.SESS_OPER_User,Utils.GetCurrentDate)
+		File.WriteMap(Starter.SharedFolder,"logins.log", MapLogins)
+		ShareCode.FIRSTDAILYLOGIN = True
+		ShareCode.FIRSTLOGININDEVICE = True
+							
+		Dim updfile As String = $"${ShareCode.SESS_OPER_User}_upd.log"$
+		If File.Exists(Starter.InternalFolder,updfile) Then
+			File.Delete(Starter.InternalFolder,updfile)
+		End If
+	End If
+						
+	Log("==================================================")
+	Log($"FIRSTDAILYLOGIN : ${ShareCode.FIRSTDAILYLOGIN}"$)
+	Log($"FIRSTLOGININDEVICE : ${ShareCode.FIRSTLOGININDEVICE}"$)
+	Log("==================================================")
+End Sub
+
+Sub SetLogin(uname As String, upass As String)
+	'*************************************************************************************
+	' @author felipemrvieira
+	'
+	' Pontos a rever:
+	' - ShareCode.APPDATE_STARTRANGE e ShareCode.APPDATE_ENDRANGE precisam ser setados fora daqui
+	'	pois violam o princípio SRP do SOLID. Já eram setados em Starter > Service_Start > SetAppInfo
+	' - CurrentLoginUser foi definido em Process_Globals e setado aqui, mas nao é utilizado em nenhum lugar.(removido para liberar memória)
+	' - Verificar uso da variável GravaLocal
+	'*************************************************************************************
+	
+	Dim OK As Boolean = False
+	Dim CallAgain As Boolean = False
+	DBStructures.getCurrentConfigValues
+	
+	ShareCode.APP_URL  = "https://" & ShareCode.APP_DOMAIN & $".${ShareCode.APPL_HOST}/api/"$
+	
+	If ((uname <> "") And (upass <> "")) Then
+		
+		If ShareCode.APP_WORKING_LOCAL Then
+			
+			Private Row As Int = 0
+			Private Record As Cursor
+			' Busca os dados do técnico em dta_technicals que tenham username e keypad passados no login
+			' Realiza junção com a tabela aut_users para pegar profile_tagcode, email e available
+			' Realiza junção com a tabela aut_users_details para pegar warehouse, vehicleplate, vehicle, photo
+			Dim SQLScript As String = $"SELECT ifnull(b.profile_tagcode, '') AS profile_tagcode, ifnull(b.email,'') AS email, a.*,
+										ifnull(c.warehouse,'') AS warehouse, c.vehicleplate, c.vehicle, c.photo, b.available
+										from dta_technicals AS a 
+										LEFT JOIN aut_users AS b ON (b.tagcode=a.user_tagcode)
+										left join aut_users_details as c on (c.user_tagcode=a.user_tagcode)
+										where a.username='${uname}' and a.keypad='${upass}'"$
+			Record = Starter.LocalSQLEVC.ExecQuery(SQLScript)
+
+			If Record.RowCount > 0 Then
+				Record.Position = Row
+				SetUserInfo(Record, uname)
+				OK = True
+			Else
+				
+				Msgbox2Async(ShareCode.LoginMessage_NOTOK, ShareCode.GeneralErrorTitle, ShareCode.Option_TRY, ShareCode.Option_CANCEL, "", Null, False)
+				Wait For Msgbox_Result (Result As Int)
+				If Result = DialogResponse.POSITIVE Then
+					CallAgain = True
+					ResetPanels
+					Panel_Login.Visible = True
+					Starter.CurrentFlowPosition = 3
+				Else
+					OK = False
+				End If
+			End If
+			Record.Close
+		Else
+			Private UserAuthParams As String = CreateUserAuthParams(uname, upass)
+			Dim ConfUser As String = ShareCode.APP_URL & ShareCode.APP_ConfirmUser
+			
+			Dim Job As HttpJob
+			Job.Initialize("",Me)
+			Job.PostString(ConfUser, UserAuthParams )
+			Job.GetRequest.SetContentType("application/json")
+	
+			Wait For (Job) JobDone(Job As HttpJob)
+			If Job.Success Then
+				
+				Log(Job.GetString)
+				Dim ResultStr As String = Job.GetString
+				Log("================================================================")
+				Log("                          AUTENTICAÇÃO                          ")
+				Log("================================================================")
+				Log(ResultStr)
+				Log("================================================================")
+				
+				Dim JSON1 As JSONParser
+				
+				If (Starter.StrFunc.Left(ResultStr, 1) = "[") Then
+					ResultStr = Starter.StrFunc.Trim(Starter.StrFunc.Mid(ResultStr, 2, Starter.StrFunc.Len(ResultStr)-1))
+				End If
+				
+				JSON1.Initialize(ResultStr)
+				Dim MapJSON As Map = JSON1.NextObject
+				Dim Active As Int = MapJSON.Get("status")
+				
+					
+				'*************************************************************
+				' ALTERACAO PC - CODIGO DO PAIS VEM NO ulang, NO JSON
+				' VEM O PARAMETRO PAR FORCAR A ALTERACAO DA PASSWORD
+				'*************************************************************
+				'TIP: LINGUAGEM DO UTILIZADOR EM ULANG, NO JSON
+				ShareCode.UserLanguage = MapJSON.Get("ulang")
+								
+				Log("================================================")
+				Log("LINGUAGEM DEFINIDA NO UTILIZADOR")
+				Log("================================================")
+				Log($"${uname}:${ShareCode.UserLanguage}"$)
+				Log("================================================")
+
+'				Dim ForcePassword As Boolean = Utils.Int2Bool(MapJSON.Get("unewpwd"))
+				Dim ForcePassword As Boolean = False
+				ForcePassword = False
+				
+				ForceResetPassword(ForcePassword, uname)
+			
+												
+				If (Active = 1) Then
+					' Verificar e actualizar restantes dados
+					Utils.LogUserAction("TUSRLGOT_1", Me)
+					Sleep(250)
+					
+					CreateOrUpdateLocalUser(MapJSON, uname)
+					
+					Dim UserIn As Map = MapJSON.Get("user")
+					Dim pwdrequest As Int = UserIn.Get("pwdrequest")
+					Dim Tagcode As String = UserIn.Get("tagcode")
+					Dim profile_tagcode As String = UserIn.Get("profile_tagcode")
+					Dim WareHouse As String = Utils.IfNullOrEmpty(UserIn.Get("warehouse"), "")
+					Dim Available As Int = UserIn.Get("available")
+					
+					' Reset password request
+					If (pwdrequest = 0) Then
+						
+						ShareCode.SESS_User = Tagcode
+						ShareCode.SESS_UserName = UserIn.Get("name")
+						ShareCode.SESS_UWDUKEY = UserIn.Get("username")
+						ShareCode.SESS_UserProfile = profile_tagcode
+						
+						ShareCode.SESS_BLOCK_OPTIONS = False '(UserIn.Get("profile_tagcode") = "PRF_USER")
+						
+						ShareCode.SESS_OPER_User = ShareCode.SESS_User
+						ShareCode.SESS_OPER_UserName = ShareCode.SESS_UserName
+						ShareCode.SESS_OPER_UWDUKEY = ShareCode.SESS_UWDUKEY
+						
+						ShareCode.SESS_WareHouse = WareHouse
+						ShareCode.USR_STATE = Available
+						ShareCode.APP_LAST_USER = ShareCode.SESS_UWDUKEY
+						
+						Starter.AppState.WriteString("APP_START", "LAST_USER", ShareCode.APP_LAST_USER)
+						Starter.AppState.Flush
+						'****************************************************************************
+						' ALTERAÇÂO PC
+						' CAMPO ShareCode.UserLAnguage JA ESTARA PREENCHIDO PELA VARIAVEL RETORNADA
+						' PELO JSON NO LOGIN, SE ESTIVER VAZIA, RETORNA O DEFAULT PARA PT
+						'****************************************************************************
+						
+						SetUserLanguage
+						
+						'******************************************************************************************
+						' ALTERACAO PC
+						' ROTINA PARA VERIFICAR SE ESTE E O PRIMEIRO LOGIN NO DEVICE OU DO DIA PARA O UTILIZADOR
+						'******************************************************************************************
+						CreateLoginsLog
+						
+						OK = True
+											
+						Dim rrpac As ResumableSub = getLoginMainLogo
+						Wait For(rrpac) Complete (Finito As Boolean)
+						
+						Dim rrpac As ResumableSub = getLoginMainLogoMini
+						Wait For(rrpac) Complete (Finito As Boolean)
+						
+					else If (pwdrequest = 1) Then
+						MsgboxAsync(ShareCode.LoginResetExists, ShareCode.GeneralAlertTitle)
+						CallAgain = True
+						ResetPanels
+						Panel_Login.Visible = True
+						Starter.CurrentFlowPosition = 3
+					else If (pwdrequest = 2) Then
+						'DialogLogin.setResetPwdDialog("Main", upass)
+						OK = True
+					End If
+					
+								
+				Else 'User is not active
+					Msgbox2Async(ShareCode.LoginMessage_NOTOK, ShareCode.GeneralErrorTitle, ShareCode.Option_TRY, ShareCode.Option_CANCEL, "", Null, False)
+					Wait For Msgbox_Result (Result As Int)
+					If Result = DialogResponse.POSITIVE Then
+						CallAgain = True
+						ResetPanels
+						Panel_Login.Visible = True
+						Starter.CurrentFlowPosition = 3
+					Else		
+						OK = False
+					End If
+				End If
+
+			Else ' Job.Success = False
+				Msgbox2Async(ShareCode.LoginServerError, ShareCode.GeneralErrorTitle, ShareCode.Option_TRY, ShareCode.Option_CANCEL, "", Null, False)
+				Wait For Msgbox_Result (Result As Int)
+				If Result = DialogResponse.POSITIVE Then
+					OK = True
+					CallAgain = True
+					ResetPanels
+					Panel_Login.Visible = True
+					Starter.CurrentFlowPosition = 3
+				Else
+					OK = False
+				End If
+			End If
+			Job.Release
+		End If
+	Else 'Empty field
+		MsgboxAsync(ShareCode.AllFieldsMandatoryMessage, ShareCode.GeneralAlertTitle )
+		CallAgain = True
+		ResetPanels
+		Panel_Login.Visible = True
+		Starter.CurrentFlowPosition = 3
+	End If
+	
+	'backupActivityStates
+	If Not(CallAgain) Then
+		If (OK = True) Then
+			prc_LoginClose
+			Sleep(500)
+			ResetPanels
+			TimeStart.Enabled = True
+		Else
+			Activity.Finish
+		End If
+	End If
+	
+
+End Sub
+
+Sub prc_LoginClose
+	'DBUtils.ClearTable(, "loc_userssession")
+	If Not(Utils.DBDataExists(Starter.LocalSQLWRK, $"select * from loc_userssession where session='${Starter.LocalSessionCode}' and username='${ShareCode.SESS_UWDUKEY}'"$)) Then
+		Dim params As Map
+		params.Initialize
+		params.Put("session", Starter.LocalSessionCode)
+		params.Put("username", ShareCode.SESS_UWDUKEY)
+		params.Put("tagcode", ShareCode.SESS_User)
+		params.Put("name", ShareCode.SESS_UserName)
+		params.Put("active", 1)
+		params.Put("login", 1)
+		Dim InsertList As List
+		InsertList.Initialize
+		InsertList.Add(params)
+		DBUtils.InsertMaps(Starter.LocalSQLWRK, "loc_userssession", InsertList)
+	End If
+	If Not(isFirstInstall) Then
+		mainFirstInstall.visible = True
+		mainFirstInstall.Text = "A iniciar a aplicação. Aguarde por favor."
+	End If
+	
+	Log("*************************  START UPDATE_SERVICE  ************************")
+'	Dim sSQL As String = "delete from dta_requests"
+'	Starter.LocalSQLEVC.ExecNonQuery(sSQL)
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_relations")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_entities")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_fields")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_notes")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_objects")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_values")
+'	Starter.LocalSQLEVC.ExecNonQuery("delete from dta_requests_values_images")
+	
+	Starter.AppState.WriteString("APP_START", "LAST_USER", ShareCode.SESS_UWDUKEY)
+	Starter.AppState.WriteString("APP_START", "LAST_ACCESS", Utils.GetCurrDatetimeT("T"))
+	Starter.AppState.Flush
+'	Log("*************************  START UPDATE_SERVICE  ************************")
+
+	If Not(File.Exists(Starter.SharedFolder, "AppState.txt")) Then
+		File.Copy(Starter.InternalFolder, "AppState.set", Starter.SharedFolder, "AppState.txt")
+	End If
+
+
+		
+'	Else
+'		Try
+'			Dim Filter22 As AppFirstInstallMainDialog
+'			Filter22.Initialize
+'			Filter22.DownloadAllTables(Me, "A actualizar dados ...", $"Aguarde por favor, este procedimento poderá demorar algum tempo dependendo da quantidade de informação e da velocidade de comunicação."$)
+'		Catch
+'			Log(LastException)
+'		End Try
+'		DownLoadUpdateReturn3
+		
+'	End If
+	
+'	Log("*************************  START LOG_SERVICE  ************************")
+'	StartService(Logs)
+'	TimeStart.Enabled = True
+'	LGO_PasswordMode = True
+'	WindowStatusUpdate
+	'BadgeCheckUpdate
+End Sub
+
+Sub QRCodeReader_result_found(retval As String)
+	QRCodeKeyReceived = retval
+	butSaveQRCode.Enabled = True
+End Sub
+
+Sub butCancelQRCode_Click
+	QRCodeReader.stopScan
+	QRCodeReader.Visible = False
+	Sleep(0)
+	QRCodePanel.Visible = False
+	QRCodeKeyReceived = ""
+End Sub
+
+Sub butSaveQRCode_Click
+	If (Utils.NNE(QRCodeKeyReceived)) Then
+		Dim JSON1 As JSONParser
+		JSON1.Initialize(QRCodeKeyReceived)
+		Dim MapJSON As Map = JSON1.NextObject
+		Dim kui As String = MapJSON.Get("kui")
+		Dim kua As String = MapJSON.Get("kua")
+'		{"kui": "PT20190909-0000-001", "kua":"RT123-C324D-BX01" }
+		EditAuthorization.Text = kua
+		EditInstance.Text = kui
+	End If
+	QRCodeReader.stopScan
+	QRCodeReader.Visible = False
+	Sleep(0)
+	QRCodePanel.Visible = False
+	butSaveQRCode.Enabled = False
+End Sub
+
+Sub getQRCode_Click
+	
+	QRCodePanel.Visible = True
+	QRCodeReader.Visible = True
+	QRCodeReader.startScan
+	Sleep(0)
+End Sub
+
+Sub RemoveAllLocalInfoAndSqlFiles As ResumableSub
+	
+	Dim LocaRes As Boolean = False
+	Wait For (File.ListFilesAsync(Starter.Provider.SharedFolder)) Complete (Success As Boolean, Files As List)
+	If Success Then
+		For Each F As String In Files
+			If F.ToLowerCase.EndsWith(".info") And Not(F.ToLowerCase.StartsWith("firstinstall")) Then
+				File.Delete(Starter.SharedFolder,F)
+			End If
+		Next
+		LocaRes = True
+	Else
+		LocaRes = False
+	End If
+	
+	Wait For (File.ListFilesAsync(Starter.SharedFolder)) Complete (Success As Boolean, Files As List)
+	If Success Then
+		For Each F As String In Files
+			If F.ToLowerCase.EndsWith(".sql") And Not(F.ToLowerCase.StartsWith("firstinstall")) Then
+				File.Delete(Starter.SharedFolder,F)
+			End If
+		Next
+		LocaRes = True
+	Else
+		LocaRes = False
+	End If
+	
+	Return LocaRes
+	
+End Sub
+
+Private Sub FIRST_FTP_DownloadProgress(ServerPath As String, TotalDownloaded As Long, Total As Long)
+	UpdateProgressBar(DB_Size,TotalDownloaded)
+	Sleep(50)
+End Sub
+
+Sub Check_FIRSTINSTALL_IN_PROGRESS
+	'*****************************************************************************************
+	' CRIAR UM FICHEIRO DE CONTROLO DA INSTALAÇÃO, QUE SERÁ APAGADO NO FINAL DA MESMA
+	' SE O FICHEIRO EXISTIR SIGNIFICA QUE A INSTALACAO NAO TERMINOU CORRECTAMENTE
+	'*****************************************************************************************
+	If File.Exists(Starter.SharedFolder,"FIRSTINSTALL_IN_PROGRESS") Then
+		
+'			Msgbox2Async($"O sistema detectou uma instalação anterior incompleta !${CRLF}Por favor reinstale a aplicação, desinstalando a actual primeiro."$,ShareCode.GeneralAlertTitle, "OK", "", "", Null, False)
+		Msgbox2Async($"O sistema detectou uma instalação anterior incompleta !${CRLF}A instalação vai Reiniciar."$,ShareCode.GeneralAlertTitle, "OK", "", "", Null, False)
+		Wait For Msgbox_Result (Result As Int)
+		If Result = DialogResponse.POSITIVE Then
+'				ExitApplication
+		End If
+	
+	End If
+	
+	File.writestring(Starter.SharedFolder,"FIRSTINSTALL_IN_PROGRESS",Utils.GetCurrDatetime)
+End Sub
+
+Sub DeleteAndCopyDatabase
+	' APAGA A BD PARA VOLTAR A INSERIR OS REGISTOS
+	Starter.LocalSQLEVC.Close
+	If File.Exists(Starter.SharedFolder, "evolutioncheck.db3") Then
+		File.Delete(Starter.SharedFolder, "evolutioncheck.db3" )
+	End If
+	Sleep(250)
+	
+	If Not(File.Exists(Starter.SharedFolder, "evolutioncheck.db3")) Then
+		File.Copy(File.DirAssets, "evolutioncheck.db3", Starter.SharedFolder, "evolutioncheck.db3" )
+	End If
+	Sleep(250)
+	
+	If Not(Starter.LocalSQLEVC.IsInitialized) Then Starter.LocalSQLEVC.Initialize(Starter.SharedFolder, "evolutioncheck.db3", True)
+	Sleep(100)
+End Sub
+
+Sub CheckIf_files_IsGreaterThanZero(SqlFilesTotal As Int)
+	If SqlFilesTotal = 0 Then
+				
+		If File.Exists(Starter.SharedFolder,$"date_installed.log"$) Then
+			File.Delete(Starter.SharedFolder,$"date_installed.log"$)
+			ShareCode.Installed_Date = ""
+		End If
+			
+		Msgbox2Async($"UM OU MAIS FICHEIROS DE INSTALAÇÃO NÃO FORAM DESCARREGADOS${CRLF}POR FAVOR TENTE DE NOVO, OU CONTACTE O SUPORTE!"$, ShareCode.GeneralAlertTitle, "OK", "", "", Null, False)
+		Wait For Msgbox_Result (Result As Int)
+		If Result = DialogResponse.POSITIVE Then
+			ExitApplication
+		End If
+	End If
+End Sub
+
+Sub SetInfo(FIRST_INSTALL_INFO As String)
+	' LE O NUMERO DE FICHEIROS EXISTENTES NO FIRSTINSTALL.INFO
+	Dim JsonStruct As String = File.readstring(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+	Dim parser As JSONParser
+	parser.Initialize(JsonStruct)
+	Dim root As Map = parser.NextObject
+			
+	Dim DataHora As String = root.Get("datetime")
+	File.writeString(Starter.SharedFolder,$"date_installed.log"$, DataHora)
+	ShareCode.Installed_Date = DataHora
+	File.writeString(Starter.InternalFolder,$"${ShareCode.SESS_OPER_User}_autosync.log"$, DataHora)
+			
+	Dim SqlFilesTotal As Int = root.Get("files")
+'	Dim inserts As List = root.Get("inserts")
+	Dim date As String = DataHora
+	Utils.UpdateLiteUpdateDateTime(date)
+	DBStructures.UpdateWorkerDbLastUpdate(date)
+	
+	CheckIf_SqlFilesTotal_IsEqualToZero(SqlFilesTotal)
+End Sub
+
+Sub Read_FIRST_INSTALL_INFO(FIRST_INSTALL_INFO As String, TesteJson As String) As Int
+	If TesteJson.Contains("{") Then
+		Dim JsonStruct As String = File.readstring(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+		Dim parser As JSONParser
+		parser.Initialize(JsonStruct)
+		Dim root As Map = parser.NextObject
+		Dim DataHora As String = root.Get("datetime")
+		File.writeString(Starter.SharedFolder,$"date_installed.log"$, DataHora)
+		File.writeString(Starter.InternalFolder,$"${ShareCode.SESS_OPER_User}_autosync.log"$, DataHora)
+		Dim SqlFilesTotal As Int = root.Get("files")
+		Dim inserts As List = root.Get("inserts")
+		Dim date As String = DataHora
+		Utils.UpdateLiteUpdateDateTime(date)
+		DBStructures.UpdateWorkerDbLastUpdate(date)
+	Else
+		Dim List1 As List
+		List1 = File.ReadList(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+		SqlFilesTotal = List1.Get(0) ' Numero de ficheiros para download
+		Dim date As String = List1.Get(1)
+		Utils.UpdateLiteUpdateDateTime(date)
+		DBStructures.UpdateWorkerDbLastUpdate(date)
+	End If
+	Return SqlFilesTotal
+End Sub
+
+Sub Read_FIRST_INSTALL_INFO_List(FIRST_INSTALL_INFO As String) As Int
+	Dim List1 As List
+	List1 = File.ReadList(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+	Dim SqlFilesTotal As Int = List1.Get(0) ' Numero de ficheiros para download
+	Dim date As String = List1.Get(1)
+	Utils.UpdateLiteUpdateDateTime(date)
+	DBStructures.UpdateWorkerDbLastUpdate(date)
+	
+	Return SqlFilesTotal
+End Sub
+
+Sub CheckIf_SqlFilesTotal_IsEqualToZero(SqlFilesTotal As Int)
+	If SqlFilesTotal = 0 Then
+			
+		If File.Exists(Starter.SharedFolder,$"date_installed.log"$) Then
+			File.Delete(Starter.SharedFolder,$"date_installed.log"$)
+			ShareCode.Installed_Date = ""
+		End If
+			
+		Msgbox2Async($"UM OU MAIS FICHEIROS DE INSTALAÇÃO NÃO FORAM DESCARREGADOS${CRLF}POR FAVOR TENTE DE NOVO, OU CONTACTE O SUPORTE!"$, ShareCode.GeneralAlertTitle, "OK", "", "", Null, False)
+		Wait For Msgbox_Result (Result As Int)
+		If Result = DialogResponse.POSITIVE Then
+			ExitApplication
+		End If
+			
+	End If
+End Sub
+
+Sub DownloadSQLFiles(SqlFilesTotal As Int, firstInstallFilesName As String) As ResumableSub
+	Dim GlobalFTP As FTP
+	GlobalFTP.Initialize("ftp", $"${ShareCode.APPL_ACCOUNT.ToLowerCase}.${ShareCode.APPL_HOST}"$, 21, $"${ShareCode.APP_FTP_USER}@${ShareCode.APPL_HOST}"$, "..VRCG@EvolutionCheck20!9")
+	GlobalFTP.PassiveMode = True
+	GlobalFTP.TimeoutMs = 240000
+			
+	For i = 1 To SqlFilesTotal
+		LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDados & $" ${i}/${SqlFilesTotal}"$
+		Dim fileN As String = $"${firstInstallFilesName}${i}.sql"$
+				
+		If(File.Exists(Starter.Provider.SharedFolder, fileN)) Then
+			File.Delete(Starter.Provider.SharedFolder, fileN)
+		End If
+			
+		'Log(fileN)
+			
+		Dim sf As Object = GlobalFTP.DownloadFile("/" & ShareCode.APP_DOMAIN & "/db/" & fileN, False, Starter.Provider.SharedFolder, fileN)
+		Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+		If Success Then
+			Log(fileN & " file was download successfully")
+		Else
+			Log("Error downloading file " & fileN)
+					
+			Dim MsgFatal As String = $"Ocorreu um Erro ao descarregar um dos ficheiros mestres.${CRLF}Ficheiro FIRSTINTALL${i}.SQL${CRLF}A aplicação vai terminar !${CRLF}Por favor verifique o acesso à internet e reinstale a aplicação, depois de desinstalar a actual !"$
+			Msgbox2Async(MsgFatal, ShareCode.GeneralAlertTitle, "OK", "", "", Null, False)
+					
+			If File.Exists(Starter.SharedFolder,$"date_installed.log"$) Then
+				File.Delete(Starter.SharedFolder,$"date_installed.log"$)
+				ShareCode.Installed_Date = ""
+			End If
+					
+			Wait For Msgbox_Result (Result As Int)
+					
+			If Result = DialogResponse.POSITIVE Then
+				ExitApplication
+			End If
+					
+		End If
+				
+		UpdateProgressBar(SqlFilesTotal,i)
+			
+	Next
+	GlobalFTP.Close
+	
+	Return Null
+End Sub
+
+Sub ReadAndExecuteSQLFiles(SqlFilesTotal As Int, firstInstallFilesName As String) As ResumableSub
+	For i = 1 To SqlFilesTotal
+		Dim TotalLinesOfScripts As Int = 0
+		LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleCarregarDados & $" ${i}/${SqlFilesTotal}"$
+		Dim fileN As String = $"${firstInstallFilesName}${i}.sql"$
+				
+		Dim List1 As List
+				
+		If (List1.IsInitialized) Then
+			List1.Clear
+		Else
+			List1.Initialize
+		End If
+				
+		Try
+			List1 = File.ReadList(Starter.Provider.SharedFolder, fileN)
+			TotalLinesOfScripts = List1.Size
+		Catch
+			Log(LastException)
+			Utils.WriteErrors2Log(LastException)
+		End Try
+				
+		UpdateProgressBar2(100,0)
+		ProgressoInicial2.visible = True
+		LabelTarefa.Visible = True
+				
+		For n = 0 To List1.Size -1
+			LabelTarefa.Text = ShareCode.MsgExecProcAct & $" ${n}/${TotalLinesOfScripts}"$
+			Dim Script2Execute As String = List1.Get(n)
+			Utils.SaveSQLToLog("Main",Script2Execute, "")
+			UpdateProgressBar2(TotalLinesOfScripts,n)
+			Sleep(1)
+		Next
+				
+		ProgressoInicial2.visible = False
+		LabelTarefa.Visible = False
+		UpdateProgressBar(SqlFilesTotal,i)
+		Sleep(1)
+	Next
+	
+	Return Null
+End Sub
+
+Sub DownloadFilesToTemplatesFolder(GlobalFTP As FTP)
+	'*****************************************************************************************
+	' DOWNLOAD DOS FICHEIROS NA PASTA DOCS/TEMPLATES/
+	'*****************************************************************************************
+	Log("************************************************************")
+	Log("/docs/templates")
+	Log("************************************************************")
+	UpdateProgressBar(100,0)
+	LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra
+	Dim FTPTEMPLATESLIST As List
+	Dim TotalTemplates As Int = 0
+		
+	Dim sfl As Object = GlobalFTP.List("/" & ShareCode.APP_DOMAIN & "/docs/templates/")
+
+	
+	Wait For (sfl) FTP_ListCompleted (ServerPath As String, Success As Boolean, Folders() As FTPEntry, files() As FTPEntry)
+	If Success Then
+		
+'			For l1 = 0 To Files.Length - 1
+'				Log($"/docs/templates/ : ${Files(l1).Name}"$)
+'			Next
+
+		
+		If (files.Length >= 1) Then
+			FTPTEMPLATESLIST.Initialize
+			For i = 0 To files.Length - 1
+				Dim fName2 As String = files(i).Name
+				If (fName2.EndsWith(".png")) Or (fName2.EndsWith(".jpg"))  Or (fName2.EndsWith(".jpeg"))  Or _
+						(fName2.EndsWith(".pdf"))  Or (fName2.EndsWith(".doc"))  Or (fName2.EndsWith(".docx"))  Or _
+						(fName2.EndsWith(".xls"))  Or (fName2.EndsWith(".xlsx"))  Or _
+						(fName2.EndsWith(".ppt")) Or (fName2.EndsWith(".pptx")) Or (fName2.EndsWith(".html")) Or _ 
+						Not((fName2.StartsWith("REPORT"))) Or (fName2.StartsWith("dictionary")) Then
+					FTPTEMPLATESLIST.Add(files(i).Name)
+				End If
+			Next
+		End If
+	Else
+		Utils.ShowProcinLog("Main","FirstIntallCompleteProcedure","error getting files list from /docs/templates/")
+	End If
+		
+	If (FTPTEMPLATESLIST.IsInitialized) Then
+		If (FTPTEMPLATESLIST.Size>=1) Then
+			TotalTemplates = FTPTEMPLATESLIST.Size-1
+			For i=0 To FTPTEMPLATESLIST.Size-1
+				LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra & $"(/docs/templates/) ${i}/${TotalTemplates}"$
+				Dim fName2 As String = FTPTEMPLATESLIST.Get(i)
+				Log(fName2)
+				Try
+					Dim sf As Object = GlobalFTP.DownloadFile("/" & ShareCode.APP_DOMAIN & "/docs/templates/" & fName2, False, Starter.InternalFolder, fName2)
+					Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+					If Success Then
+						Log("/docs/templates/ : file was download successfully")
+					Else
+
+						Log("/docs/templates/ : Error downloading file")
+					End If
+					'End If
+				Catch
+					Log(LastException)
+					Utils.WriteErrors2Log(LastException)
+				End Try
+				UpdateProgressBar(TotalTemplates,i)
+			Next
+		End If
+	End If
+		
+End Sub
+
+Sub DownloadFilesToDocsFolder(GlobalFTP As FTP)
+	'*****************************************************************************************
+	' DOWNLOAD DOS FICHEIROS NA PASTA DOCS
+	'*****************************************************************************************
+	LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra
+	Log("************************************************************")
+	Log($" 		INITIAL : ${ShareCode.APPL_HOST}/${ShareCode.APP_DOMAIN} "$)
+	Log("/docs/")
+	Log("************************************************************")
+	
+	Dim FTPDOCSLIST As List
+	Dim TotalDocs As Int = 0
+		
+	Dim sfl As Object = GlobalFTP.List("/" & ShareCode.APP_DOMAIN & "/docs/")
+
+	
+	Wait For (sfl) FTP_ListCompleted (ServerPath As String, Success As Boolean, Folders() As FTPEntry, files() As FTPEntry)
+	If Success Then
+		
+'			For l1 = 0 To Files.Length - 1
+'				Log($"/docs/ : ${Files(l1).Name}"$)
+'			Next
+
+		Dim LMDate As Long = Utils.GetLastNDaysLong(1) '.GetLastMonthDateLong
+		
+		If (files.Length >= 1) Then
+			FTPDOCSLIST.Initialize
+			For i = 0 To files.Length - 1
+				Dim fName As String = files(i).Name
+				If (fName.EndsWith(".png")) Or (fName.EndsWith(".jpg"))  Or (fName.EndsWith(".jpeg"))  Or _
+						(fName.EndsWith(".pdf"))  Or (fName.EndsWith(".doc"))  Or (fName.EndsWith(".docx"))  Or _
+						(fName.EndsWith(".xls"))  Or (fName.EndsWith(".xlsx"))  Or _
+						(fName.EndsWith(".ppt")) Or (fName.EndsWith(".pptx"))  Or Not((fName.StartsWith("REPORT"))) Then
+					If (files(i).Timestamp >= LMDate) Then
+						FTPDOCSLIST.Add(files(i).Name)
+						Log(files(i).Name)
+					End If
+				End If
+			Next
+		End If
+	Else
+		Utils.ShowProcinLog("Main","FirstIntallCompleteProcedure","error getting files list from /docs/")
+	End If
+		
+	If (FTPDOCSLIST.IsInitialized) Then
+		If (FTPDOCSLIST.Size>=1) Then
+			TotalDocs = FTPDOCSLIST.Size-1
+			For i=0 To FTPDOCSLIST.Size-1
+				LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra & $"(/docs/) ${i}/${TotalDocs}"$
+				Dim fName As String = FTPDOCSLIST.Get(i)
+				Log(fName)
+				Try
+					Dim sf As Object = GlobalFTP.DownloadFile("/" & ShareCode.APP_DOMAIN & "/docs/" & fName, False, Starter.InternalFolder, fName)
+					Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+					If Success Then
+						Log("/docs/ : file was download successfully")
+					Else
+
+						Log("/docs/ : Error downloading file")
+					End If
+					'End If
+				Catch
+					Log(LastException)
+					Utils.WriteErrors2Log(LastException)
+				End Try
+				UpdateProgressBar(TotalDocs,i)
+			Next
+		End If
+		
+	End If
+
+End Sub
+
+Sub DownloadFilesToInternoFolder(GlobalFTP As FTP)
+	'*****************************************************************************************
+	' DOWNLOAD DOS FICHEIROS NA PASTA /INTERNO
+	'*****************************************************************************************
+	Log("************************************************************")
+	Log("/interno")
+	Log("************************************************************")
+	UpdateProgressBar(100,0)
+	LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra
+	Dim FTPINTERNOLIST As List
+	Dim TotalTemplates As Int = 0
+		
+	Dim sfl As Object = GlobalFTP.List("/interno/")
+	Wait For (sfl) FTP_ListCompleted (ServerPath As String, Success As Boolean, Folders() As FTPEntry, files() As FTPEntry)
+	If Success Then
+
+		If (files.Length >= 1) Then
+			FTPINTERNOLIST.Initialize
+			For i = 0 To files.Length - 1
+				Dim fName2 As String = files(i).Name
+				FTPINTERNOLIST.Add(files(i).Name)
+			Next
+		End If
+	Else
+		Utils.ShowProcinLog("Main","FirstIntallCompleteProcedure","error getting files list from /interno/")
+	End If
+		
+	If (FTPINTERNOLIST.IsInitialized) Then
+		If (FTPINTERNOLIST.Size>=1) Then
+			TotalTemplates = FTPINTERNOLIST.Size-1
+			For i=0 To FTPINTERNOLIST.Size-1
+				LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDadosExtra & $"(/interno/) ${i}/${TotalTemplates}"$
+				Dim fName2 As String = FTPINTERNOLIST.Get(i)
+				Log(fName2)
+				Try
+					Dim sf As Object = GlobalFTP.DownloadFile("/interno/" & fName2, False, Starter.InternalFolder, fName2)
+					Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+					If Success Then
+						Log("/interno/ : file was download successfully")
+					Else
+
+						Log("/interno/ : Error downloading file")
+					End If
+					'End If
+				Catch
+					Log(LastException)
+					Utils.WriteErrors2Log(LastException)
+				End Try
+				UpdateProgressBar(TotalTemplates,i)
+			Next
+		End If
+	End If
+	
+End Sub
+
+Sub CreateGlobalFTP As FTP
+	Dim GlobalFTP As FTP
+			
+	GlobalFTP.Initialize("ftp", $"${ShareCode.APPL_ACCOUNT.ToLowerCase}.${ShareCode.APPL_HOST}"$, 21, $"${ShareCode.APP_FTP_USER}@${ShareCode.APPL_HOST}"$, "..VRCG@EvolutionCheck20!9")
+	GlobalFTP.PassiveMode = True
+	Dim ctm As CustomTrustManager
+	ctm.InitializeAcceptAll
+	GlobalFTP.SetCustomSSLTrustManager(ctm)
+	GlobalFTP.TimeoutMs = 240000
+	Return GlobalFTP
+End Sub
+
+Sub FirstInstallCompleteProcedure As ResumableSub
+
+	'*****************************************************************************************
+	' Para o serviço de localização e faz disable ao botao de Concluir
+	'*****************************************************************************************
+
+	ShareCode.GlobalEventsTimer = 0
+	Starter.StopLocationCheck = True
+	StopService(LocationService)
+	StopService(BackgroundUpdateService)
+	
+	ButtonWelcomeNext.Enabled = False
+	LabelTarefa.Visible = False
+	
+	UpdateProgressBar(100,0)
+	UpdateProgressBar2(100,0)
+	
+	Private ExceptionError As String = ""
+	'*****************************************************************************************
+	' COLOCAR O SHARECODE.NEWRETURN A 1 PARA ACTIVAR O NOVO INFO EM JSON
+	'*****************************************************************************************
+	' PROCESSO ANTES DO LOGIN PARA DOWNLOAD DOS FICHEIROS MESTRE
+	' CONFIGURACAO
+	' ESTRUTURAS
+	' REGISTOS BASE
+	'*****************************************************************************************
+	PanelDownloadInicial.Visible = True
+	'*****************************************************************************************
+	'FORÇAR O KEEPALIVE DURANTE A INSTALACAO INICIAL
+	ShareCode.AwakeDevice(True)
+	
+	SetFTPUser
+	
+	Try
+		LabelDownloadInicialTitle.Text = ShareCode.MsgUpdateTitlePasso1PrimeiraInstalacao
+		
+		Dim FIRST_INSTALL_INFO As String = "FIRSTINSTALL.INFO"
+		Dim firstInstallFilesName As String = "FIRSTINSTALL"
+			
+		Utils.ShowProcinLog("Main","FirstInstallCompleteProc",$"DOWNLOAD MESTRES"$)
+		
+		Check_FIRSTINSTALL_IN_PROGRESS
+		
+		'SE OS FICHEIROS DA PRIMEIRA INSTALAÇÃO EXISTIREM, ENTAO UTILIZA-OS EM VEZ DE OS REUTILIZAR A MENOS QUE SEJAM ANTIGOS
+		If File.Exists(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO) Then
+			Log("FIRSTINSTALL JA EXISTE")
+			
+			DeleteAndCopyDatabase
+			SetInfo(FIRST_INSTALL_INFO)
+	
+		Else
+			Log("FIRSTINSTALL NAO EXISTE")
+			'*****************************************************************************************
+			' OBTER O NUMERO DE FICHEIROS PARA DOWNLOAD INICIAL
+			'*****************************************************************************************
+			Dim SqlFilesTotal As Int = 0
+			Dim GlobalFTP As FTP = CreateGlobalFTP
+			
+			Dim dotry As Boolean = True
+			Dim trycount As Int = 0
+			Do While (dotry And (trycount < 3))
+		
+				Dim sf As Object = GlobalFTP.DownloadFile("/" & ShareCode.APP_DOMAIN & "/db/" & FIRST_INSTALL_INFO, False, Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+				Wait For (sf) FTP_DownloadCompleted (ServerPath As String, Success As Boolean)
+				
+				If Success Then
+			
+					Try
+						LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleObterInfo
+						Log(FIRST_INSTALL_INFO & " file was download successfully")
+					
+						'*************************************************************************
+						' NOVA ROTINA PARA LER O INFO DA ESTRURUA JSON EM VEZ DE SER DO FICHEIRO
+						' TEM DE PASSAR A HAVER UMA CHAMADA A API PARA O FIRSTINSTALL SENAO NAO TEMOS
+						' CONTROLO DO PARAMETRO newreturn E NUNCA VEM A NOVA ESTRUTURA NESTE CASO
+						'*************************************************************************
+						Dim TesteJson As String = File.readstring(Starter.Provider.SharedFolder, FIRST_INSTALL_INFO)
+					
+						If ShareCode.newReturn = 1 Then
+							SqlFilesTotal = Read_FIRST_INSTALL_INFO(FIRST_INSTALL_INFO, TesteJson)
+						Else
+							SqlFilesTotal = Read_FIRST_INSTALL_INFO_List(FIRST_INSTALL_INFO)
+						End If
+						
+						dotry = False
+						trycount = 3
+						GlobalFTP.Close
+
+					Catch
+						Log(LastException)
+						Utils.WriteErrors2Log(LastException)
+						trycount = trycount + 1
+					End Try
+				Else
+					Log(LastException)
+					Utils.WriteErrors2Log(LastException)
+					Log("Error downloading file :" & FIRST_INSTALL_INFO)
+					Msgbox2Async($"Sem informação de instalação no servidor.${CRLF}Por favor desinstale a Aplicação${CRLF}e contacte a assistencia antes de tentar de novo.${CRLF}Obrigado"$, ShareCode.GeneralAlertTitle,"OK","","",Null,False)
+					Wait For Msgbox_Result (Result As Int)
+					ExceptionError = LastException
+					trycount = 3
+					ExitApplication
+				End If
+				trycount = trycount + 1
+			Loop
+			GlobalFTP.Close
+			
+			CheckIf_SqlFilesTotal_IsEqualToZero(SqlFilesTotal)
+		
+			'*****************************************************************************************
+			' O NUMERO DE FICHEIROS PARA DOWNLOAD INICIAL ESTA EM SqlFileTotal
+			' BASEADO NO firstInstallFilesName E COM UM CICLO For..Next ATE AO SqlFilesTotal
+			' OBTER OS FICHEIROS COM OS SCRIPTS DE INSTALACAO, APAGADO-OS ANTES DO DOWNLOAD SE JA EXISTIREM
+			'*****************************************************************************************
+			If(SqlFilesTotal > 0) Then
+				LabelDownloadInicialFases.Text = ShareCode.MsgUpdateTitleDownloadDados
+'				DownloadSQLFiles(SqlFilesTotal, firstInstallFilesName)
+				Wait For(DownloadSQLFiles(SqlFilesTotal, firstInstallFilesName)) Complete (ResultObj As Object)
+			End If
+		
+			' LIMPA O PROGRESSBAR E PASSA A NOVA FASE
+			UpdateProgressBar(100,0)
+			Sleep(500)
+		End If
+		
+		'*****************************************************************************************
+		' BASEADO NO firstInstallFilesName E COM UM CICLO For..Next ATE AO SqlFilesTotal
+		' CRIAR UMA LISTA COM AS INSTRUCOES SQL POR ITEM E EXECUTA-LAS
+		'*****************************************************************************************
+		If(SqlFilesTotal > 0) Then	
+			Wait For(ReadAndExecuteSQLFiles(SqlFilesTotal, firstInstallFilesName)) Complete (ResultObj As Object)
+		End If
+
+		UpdateProgressBar2(100,0)
+		ProgressoInicial2.visible = False
+		LabelTarefa.Visible = False
+		UpdateProgressBar(100,0)
+		
+		
+		'***********************************************************************
+		' APAGAR O FICHEIRO DE CONTROLO DA INSTALACAO INICIAL
+		' SE FALHAR NA INSTALACAO SEGUINTE, DOCS e DOCS/TEMPLATES, NAO É
+		' CRITICO POIS VEM NA SINCRONIZACAO
+		'***********************************************************************
+'		Starter.SharedFolder,"INSTALLING.CTRL"
+
+		If File.Exists(Starter.SharedFolder,"FIRSTINSTALL_IN_PROGRESS") Then
+			File.Delete(Starter.SharedFolder,"FIRSTINSTALL_IN_PROGRESS")
+		End If
+		
+		Dim GlobalFTP As FTP
+		GlobalFTP.Initialize("ftp", $"${ShareCode.APPL_ACCOUNT.ToLowerCase}.${ShareCode.APPL_HOST}"$, 21, $"${ShareCode.APP_FTP_USER}@${ShareCode.APPL_HOST}"$, "..VRCG@EvolutionCheck20!9")
+		GlobalFTP.PassiveMode = True
+		GlobalFTP.TimeoutMs = 240000
+		
+		DownloadFilesToDocsFolder(GlobalFTP)
+		DownloadFilesToTemplatesFolder(GlobalFTP)
+		DownloadFilesToInternoFolder(GlobalFTP)
+		
+		GlobalFTP.Close
+		
+		
+'		Dim res As ResumableSub = RemoveAllLocalInfoAndSqlFiles
+'		Wait For(res) Complete (RemoveSuccessful As Boolean)
+
+		'************************************************************************************************************
+		' ACTUALIZA DE IMEDIATO AS STRINGS DOS DICTIONARY DESCARREGADOS DAS PASTA /DOCS/TEMPLATES/
+		'************************************************************************************************************
+		
+		SetUserLanguage
+
+		'*****************************************************************************************
+		'LIBERTA O KEEPALIVE DURANTE A INSTALACAO INICIAL
+		ShareCode.AwakeDevice(False)
+
+		Return True
+	Catch
+			
+		'*****************************************************************************************
+		' Deu erro ! Por isso reinicia o serviço de localização e faz enable ao botao de Concluir
+		'*****************************************************************************************
+		Starter.StopLocationCheck = False
+		StartService(LocationService)
+		StartService(BackgroundUpdateService)
+		ButtonWelcomeNext.Enabled = True
+		Starter.FirstInstall = True
+		MsgboxAsync(LastException.Message, ShareCode.GeneralErrorTitle)
+		Log(LastException)
+		Utils.WriteErrors2Log(LastException)
+		'*****************************************************************************************
+		'LIBERTA O KEEPALIVE DURANTE A INSTALACAO INICIAL
+		ShareCode.AwakeDevice(False)
+		Return False
+	End Try
+End Sub
+
+Sub UpdateProgressBar(MaxVal As Long, CurrentVal As Long)
+	Dim CurrentVal As Long = (100 * CurrentVal / MaxVal)
+	ProgressoInicial.Progress = CurrentVal
+End Sub
+
+Sub UpdateProgressBar2(MaxVal As Long, CurrentVal As Long)
+	Dim CurrentVal As Long = (100 * CurrentVal / MaxVal)
+	ProgressoInicial2.Progress = CurrentVal
+End Sub
+
+#if java
+
+import java.net.NetworkInterface;
+import java.util.Collections;
+import java.util.List;
+
+    public static String getMacAddr() {
+    try {
+        List<NetworkInterface> all = Collections.list(NetworkInterface.getNetworkInterfaces());
+        for (NetworkInterface nif : all) {
+            if (!nif.getName().equalsIgnoreCase("wlan0"))
+            continue;
+
+            byte[] macBytes = nif.getHardwareAddress();
+            if (macBytes == null) {
+                return "";
+            }
+
+            StringBuilder res1 = new StringBuilder();
+            for (byte b : macBytes) {
+                res1.append(Integer.toHexString(b & 0xFF) + ":");
+            }
+
+            if (res1.length() > 0) {
+                res1.deleteCharAt(res1.length() - 1);
+            }
+            return res1.toString();
+        }
+    } catch (Exception ex) {
+    }
+    return "02:00:00:00:00:00";
+}
+#end if
+
+Sub newGetMAC As String
+	Private NativeMe As JavaObject
+	NativeMe.InitializeContext
+	Dim s As String = NativeMe.RunMethod("getMacAddr", Null)
+	Return s
+End Sub
+

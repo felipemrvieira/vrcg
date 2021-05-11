@@ -1,0 +1,73 @@
+﻿B4A=true
+Group=Default Group
+ModulesStructureVersion=1
+Type=StaticCode
+Version=10.2
+@EndOfDesignText@
+'Code module
+'Subs in this code module will be accessible from all modules.
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+
+End Sub
+'*****************************************************************************************************************
+' NOTA : Campos dos requests_values_adds 
+'*****************************************************************************************************************
+'fieldval_01 :
+'fieldval_02 : Stk
+'fieldval_03 : Enable View
+'fieldval_04 : Checklist Artigos (controlo de capitulo)
+
+
+'*****************************************************************************************************************
+' NOTA: ADIÇÃO DE CONTROLO DE VISUALIZAÇÃO DE TIPOS DE INTERVENÇÃO AFECTAS AO DEPARTAMENTO DO UTILIZADOR
+'*****************************************************************************************************************
+'	PEDRO ALPEDRINHA - 2020-11-15 19:22
+'	FICHEIRO: TASKCL2.BAS
+' 	FUNÇÃO: StartTasksActivity
+
+'*****************************************************************************************************************
+' NOTA: NOVO METODO DE DELETE DOS FICHEIROS SQL NA SINCRONIZACAO
+'		SE EXISTIR O FICHEIRO DE DELETES, USA-O E NAO APAGA OS REGISTOS CORRESPONDENTES AOS INSERTS QUE ESTAO NOS SCRIPTS SQL A EXECUTAR
+'		SE NAO EXISTIR, ENTAO UTILIZA A LISTA DE TAGCODES NO JSON PARA OS APAGAR. ISTO GARANTE QUE NAO VAMOS TER ERROS DE INDICES
+  '*****************************************************************************************************************
+ '	PEDRO CALDEIRA - 2020-11-20 15:30
+'	FICHEIRO: DATAUPDATE.BAS
+' 	FUNÇÃO: RunSync, linha 1447 e Sub MakeDeleteSqlFile
+ 
+ 
+ '*****************************************************************************************************************
+ ' TABELAS PASSADAS NOS ENDPOINTS
+ '*****************************************************************************************************************
+'Tabelas passadas no OnDay:
+'dta_auths
+'dta_requests
+'dta_requests_adds
+'dta_requests_alerts
+'dta_requests_contacts
+'dta_requests_documents
+'dta_requests_entities
+'dta_requests_fields
+'dta_requests_notes
+'dta_requests_objects
+'dta_requests_output
+'dta_requests_output_actions
+'dta_requests_relations
+'dta_requests_relations_adds
+'dta_requests_signatures
+'dta_requests_values_grid
+'dta_requests_values
+'dta_requests_values_adds
+'dta_requests_values_images
+'dta_device_params
+'dta_tablecontrol
+'dta_tablecontrol_items
+'dta_tabledinamic
+'dta_tabledinamic_groups
+'dta_tabledinamic_items
+'dta_tabledinamic_subs
+'dta_actions
+'dta_actions_items
+'dta_actions_adds
+'dta_actions_items_files

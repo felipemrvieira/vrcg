@@ -1,0 +1,475 @@
+{
+	"count": 10,
+	"status": [
+		{
+			"id": 0,
+			"title": "Por executar"
+		},
+		{
+			"id": 1,
+			"title": "Iniciado"
+		},
+		{
+			"id": 2,
+			"title": "Finalizado"
+		},
+		{
+			"id": 3,
+			"title": "Pendente"
+		},
+		{
+			"id": 4,
+			"title": "Por executar"
+		},
+		{
+			"id": 5,
+			"title": "Cancelado"
+		}
+	],
+	"types": [
+		{
+			"id": 1,
+			"title": "Programada"
+		},
+		{
+			"id": 2,
+			"title": "A vulso"
+		}
+	],
+	"items": [
+		{
+			"id": 1,
+			"type": 1,
+			"status_id": 4,
+			"status_desc": "Finalizado",
+			"status_color": "GREEN",
+			"last_execution": "2018-11-19 09:05:00",
+			"have_history": 0,
+			"status_notes": "",
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00438",
+				"rq_date": "2018-11-19",
+				"rq_stime": "09:00",
+				"rq_etime": "10:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02213",
+				"name": "Corpus Sanus - Health Club Taguspark",
+				"address": "Núcleo Central ,120",
+				"address2": "Tagus Park",
+				"postal_code": "2740-122",
+				"city": "Porto Salvo",
+				"latitude": "38.7404953",
+				"longitude": "-9.3028697",
+				"contact_name": "Menina Sandra",
+				"contact_phone": "214 218 384"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_005",
+			"execution": {
+				"run_start": "2018-11-19 09:05:00",
+				"run_end": "2018-11-19 10:15:00",
+				"run_time": "01:10"
+				}
+		},
+		{
+			"id": 2,
+			"type": 1,
+			"status_id": 4,
+			"status_desc": "Finalizado",
+			"status_color": "GREEN",
+			"last_execution": "2018-11-19 12:55:00",
+			"have_history": 0,
+			"status_notes": "",
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00439",
+				"rq_date": "2018-11-19",
+				"rq_stime": "12:00",
+				"rq_etime": "13:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02325",
+				"name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508",
+				"contact_name": "João Silva",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_006",
+			"execution": {
+				"run_start": "2018-11-19 12:00:00",
+				"run_end": "2018-11-19 12:55:00",
+				"run_time": "00:55"
+				}
+		},
+		{
+			"id": 3,
+			"type": 1,
+			"status_id": 5,
+			"status_desc": "Cancelado",
+			"status_color": "GRAY",
+			"last_execution": "",
+			"have_history": 0,
+			"status_notes": "Indisponibilidade do técnico",
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00439",
+				"rq_date": "2018-11-19",
+				"rq_stime": "15:00",
+				"rq_etime": "16:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02213",
+				"name": "Corpus Sanus - Health Club Taguspark",
+				"address": "Núcleo Central ,120",
+				"address2": "Tagus Park",
+				"postal_code": "2740-122",
+				"city": "Porto Salvo",
+				"latitude": "38.7404953",
+				"longitude": "-9.3028697",
+				"contact_name": "Menina Sandra",
+				"contact_phone": "214 218 384"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_005",
+			"execution": {
+				"run_start": "",
+				"run_end": "",
+				"run_time": ""
+				}
+		},
+		{
+			"id": 4,
+			"type": 1,
+			"status_id": 4,
+			"status_desc": "Por executar",
+			"status_color": "RED",
+			"last_execution": "",
+			"have_history": 0,
+			"status_notes": "",
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00448",
+				"rq_date": "2018-11-20",
+				"rq_stime": "09:00",
+				"rq_etime": "10:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02213",
+				"name": "Corpus Sanus - Health Club Taguspark",
+				"address": "Núcleo Central ,120",
+				"address2": "Tagus Park",
+				"postal_code": "2740-122",
+				"city": "Porto Salvo",
+				"latitude": "38.7404953",
+				"longitude": "-9.3028697",
+				"contact_name": "Menina Sandra",
+				"contact_phone": "214 218 384"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_001",
+			"execution": {
+				"run_start": "",
+				"run_end": "",
+				"run_time": ""
+				}
+		},
+		{
+			"id": 5,
+			"type": 1,
+			"status_id": 5,
+			"status_desc": "Cancelado",
+			"status_color": "GRAY",
+			"last_execution": "",
+			"have_history": 0,
+			"status_notes": "Cancelado a pedido do cliente. Remarcação para o dia seguinte.",
+			"checklist": {
+				"cl_tagcode": "CHKLST_00001",
+				"cl_name": "Manutenção de WebServices",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00449",
+				"rq_date": "2018-11-20",
+				"rq_stime": "10:30",
+				"rq_etime": "11:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02325",
+				"name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508",
+				"contact_name": "João Silva",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [
+				{
+					"tagcode": "ENT_02420",
+					"name": "Sales Force Company",
+					"contact_name": "Ramon Riviera",
+					"contact_phone": "(+34) 9 214 342 410"
+				}
+			],
+			"objects_tagcode": "OBJ_003",
+			"execution": {
+				"run_start": "",
+				"run_end": "",
+				"run_time": ""
+				}
+		},
+		{
+			"id": 6,
+			"type": 1,
+			"status_id": 2,
+			"status_desc": "Finalizado",
+			"status_color": "GREEN",
+			"last_execution": "2018-11-20 14:05",
+			"have_history": 0,
+			"checklist": {
+				"cl_tagcode": "CHKLST_00001",
+				"cl_name": "Manutenção de WebServices",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00450",
+				"rq_date": "2018-11-20",
+				"rq_stime": "14:00",
+				"rq_etime": "14:30"
+				},
+			"entity": {
+				"tagcode": "ENT_02325",
+				"name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508",
+				"contact_name": "João Silva",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [
+				{
+					"tagcode": "ENT_02420",
+					"name": "Sales Force Company",
+					"contact_name": "Ramon Riviera",
+					"contact_phone": "(+34) 9 214 342 410"
+				}
+			],
+			"execution": {
+				"run_start": "2018-11-20 14:05",
+				"run_end": "2018-11-20 14:40",
+				"run_time": "00:35"
+				}
+		},
+		{
+			"id": 7,
+			"type": 1,
+			"status_id": 1,
+			"status_desc": "Iniciado",
+			"status_color": "YELLOW",
+			"last_execution": "2018-11-21 18:00",
+			"have_history": 0,
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.0",
+				"cl_version_id": 100,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00451",
+				"rq_date": "2018-11-21",
+				"rq_stime": "16:00",
+				"rq_etime": "17:00"
+				},
+			"entity": {
+				"tagcode": "ENT_02327",
+				"name": "Soft 7- Aplicações Informáticas",
+				"address": "Praceta Cidade de Brasília 1 2A",
+				"address2": "",
+				"postal_code": "2735-660",
+				"city": "São MArcos",
+				"latitude": "38.7484987",
+				"longitude": "-9.2973928",
+				"contact_name": "Pedro Alpedrinha",
+				"contact_phone": "919 700 265"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_004",
+			"execution": {
+				"run_start": "2018-11-21 18:00",
+				"run_end": "",
+				"run_time": "00:00"
+				}
+		},
+		{
+			"id": 8,
+			"type": 1,
+			"status_id": 0,
+			"status_desc": "Por executar",
+			"status_color": "BLUE",
+			"last_execution": "",
+			"have_history": 0,
+			"checklist": {
+				"cl_tagcode": "CHKLST_00011",
+				"cl_name": "Manutenção de Edifício",
+				"cl_version": "1.01",
+				"cl_version_id": 122,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00452",
+				"rq_date": "2018-12-03",
+				"rq_stime": "10:30",
+				"rq_etime": "11:30"
+				},
+			"entity": {
+				"tagcode": "ENT_02329",
+				"name": "Bruno Marques",
+				"address": "R. Ferrarias Del Rei XX",
+				"address2": "",
+				"postal_code": "2730-269",
+				"city": "Porto Salvo",
+				"latitude": "38.739462",
+				"longitude": "-9.289317",
+				"contact_name": "Bruno Marques",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_005",
+			"execution": {
+				"run_start": "",
+				"run_end": "",
+				"run_time": ""
+				}
+		},
+		{
+			"id": 9,
+			"type": 1,
+			"status_id": 0,
+			"status_desc": "Por executar",
+			"status_color": "BLUE",
+			"last_execution": "",
+			"have_history": 0,
+			"checklist": {
+				"cl_tagcode": "CHKLST_00012",
+				"cl_name": "Inquérito de satisfação",
+				"cl_version": "1.01",
+				"cl_version_id": 122,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00453",
+				"rq_date": "2018-12-03",
+				"rq_stime": "11:30",
+				"rq_etime": "11:40"
+				},
+			"entity": {
+				"tagcode": "ENT_02329",
+				"name": "Bruno Marques",
+				"address": "R. Ferrarias Del Rei XX",
+				"address2": "",
+				"postal_code": "2730-269",
+				"city": "Porto Salvo",
+				"latitude": "38.739462",
+				"longitude": "-9.289317",
+				"contact_name": "Bruno Marques",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [],
+			"objects_tagcode": "OBJ_005",
+			"execution": {
+				"run_start": "",
+				"run_end": "",
+				"run_time": ""
+				}
+		},
+		{
+			"id": 10,
+			"type": 1,
+			"status_id": 0,
+			"status_desc": "Por executar",
+			"status_color": "BLUE",
+			"last_execution": "",
+			"have_history": 0,
+			"checklist": {
+				"cl_tagcode": "CHKLST_00001",
+				"cl_name": "Manutenção de WebServices",
+				"cl_version": "1.02",
+				"cl_version_id": 125,
+				"cl_icon": ""
+				},
+			"request": {
+				"rq_number": "P2018-00450",
+				"rq_date": "2018-11-20",
+				"rq_stime": "14:00",
+				"rq_etime": "14:30"
+				},
+			"entity": {
+				"tagcode": "ENT_02325",
+				"name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508",
+				"contact_name": "João Silva",
+				"contact_phone": "214 342 410"
+				},
+			"other_entities": [
+				{
+					"tagcode": "ENT_02420",
+					"name": "Sales Force Company",
+					"contact_name": "Ramon Riviera",
+					"contact_phone": "(+34) 9 214 342 410"
+				}
+			],
+			"execution": {
+				"run_start": "2018-11-20 14:05",
+				"run_end": "2018-11-20 14:40",
+				"run_time": "00:35"
+				}
+		}
+	]
+}

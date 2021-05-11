@@ -1,0 +1,557 @@
+<!doctype html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <!-- ISO-8859-1" -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Report</title>
+<style type="text/css">
+
+.body_app {
+	color: #000000;
+	font-size: 12px;
+	/*padding: 20px;*/
+	/*width: 100%;*/
+	width:792px !important;
+	height:1175px !important; 
+}
+
+.body_inner {
+	width: 100%;
+	height:100%;
+	position: relative;
+	/*border: 1px solid #999999;*/
+}
+.topBar, .bottomBar {
+	width: 100%;
+	font-size: 16px;
+	line-height: 1.6;
+	text-align:center;
+}
+.topBar {
+	background-color: #f00000; /*#f00000;*/
+	color: #ffffff;
+}
+
+.topBarExt {
+	background-color: #8a8a8a;
+	color: #ffffff;
+}
+
+.bottomBar {
+	position: absolute !important;
+	bottom:0px !important;
+	border-top: 2px solid #999999;
+}
+.chapterBar  {
+	width: 100%;
+	background-color: #d7d7d7;
+	color: #000000;
+	font-size: 14px;
+	line-height: 1.6;
+	text-indent: 10px;
+}
+
+.questionBar  {
+	font-size: 12px;
+	line-height: 1.6;
+	/*text-indent: 20px;*/
+}
+
+.normalText {
+	font-size: 12px;
+	border: 1px solid #999999;
+	color: #555555;
+}
+
+.logo { width: 200px; }
+
+.row {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	/*margin-right: -15px;
+	margin-left: -15px*/
+}
+
+.no-gutters {
+	margin-right: 0;
+	margin-left: 0
+}
+
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-auto {
+	position: relative;
+	width: 100%;
+	min-height: 1px;
+	/*padding-right: 10px;
+	padding-left: 10px*/
+}
+
+.col {
+	-ms-flex-preferred-size: 0;
+	flex-basis: 0;
+	-webkit-box-flex: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	max-width: 100%
+}
+
+.col-auto {
+	-ms-flex: 0 0 auto;
+	flex: 0 0 auto;
+	width: auto;
+	max-width: none
+}
+
+.col-1,
+.col-auto {
+	-webkit-box-flex: 0
+}
+
+.col-1 {
+	-ms-flex: 0 0 8.33333333%;
+	flex: 0 0 8.33333333%;
+	max-width: 8.33333333%
+}
+
+.col-2 {
+	-ms-flex: 0 0 16.66666667%;
+	flex: 0 0 16.66666667%;
+	max-width: 16.66666667%
+}
+
+.col-2,
+.col-3 {
+	-webkit-box-flex: 0
+}
+
+.col-3 {
+	-ms-flex: 0 0 25%;
+	flex: 0 0 25%;
+	max-width: 25%
+}
+
+.col-4 {
+	-ms-flex: 0 0 33.33333333%;
+	flex: 0 0 33.33333333%;
+	max-width: 33.33333333%
+}
+
+.col-4,
+.col-5 {
+	-webkit-box-flex: 0
+}
+
+.col-5 {
+	-ms-flex: 0 0 41.66666667%;
+	flex: 0 0 41.66666667%;
+	max-width: 41.66666667%
+}
+
+.col-6 {
+	-ms-flex: 0 0 50%;
+	flex: 0 0 50%;
+	max-width: 50%
+}
+
+.col-6,
+.col-7 {
+	-webkit-box-flex: 0
+}
+
+.col-7 {
+	-ms-flex: 0 0 58.33333333%;
+	flex: 0 0 58.33333333%;
+	max-width: 58.33333333%
+}
+
+.col-8 {
+	-ms-flex: 0 0 66.66666667%;
+	flex: 0 0 66.66666667%;
+	max-width: 66.66666667%
+}
+
+.col-8,
+.col-9 {
+	-webkit-box-flex: 0
+}
+
+.col-9 {
+	-ms-flex: 0 0 75%;
+	flex: 0 0 75%;
+	max-width: 75%
+}
+
+.col-10 {
+	-ms-flex: 0 0 83.33333333%;
+	flex: 0 0 83.33333333%;
+	max-width: 83.33333333%
+}
+
+.col-10,
+.col-11 {
+	-webkit-box-flex: 0
+}
+
+.col-11 {
+	-ms-flex: 0 0 91.66666667%;
+	flex: 0 0 91.66666667%;
+	max-width: 91.66666667%
+}
+
+.col-12 {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%
+}
+
+.align-baseline {
+	vertical-align: baseline!important
+}
+
+.align-top {
+	vertical-align: top!important
+}
+
+.align-middle {
+	vertical-align: middle!important
+}
+
+.align-bottom {
+	vertical-align: bottom!important
+}
+
+.align-text-bottom {
+	vertical-align: text-bottom!important
+}
+
+.align-text-top {
+	vertical-align: text-top!important
+}
+
+.bottomRightForced {
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+
+
+</style>
+</head>
+<body class="" style="">
+	<div class="body_app" style="">
+		<div class="body_inner" style="">
+			<div class="col_12">
+				<div class="row">
+					<div class="col-12">
+						<div class="row">
+							<div class="col-6" style="">
+								<div class="logo" style="padding: 10px 0px;">
+									<img src="data:image/png;base64,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" width="100">
+								</div>
+							</div>
+							<div class="col-6" style="position:relative;min-height: 60px;">
+								<h4 class="bottomRightForced">Relat&oacute;rio de Interven&ccedil;&atilde;o<br>
+									N&uacute;mero :__EXECUTION_NUMBER</h4>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				<div class="row">
+				    <!-- CABE�ALHO DA INTERVEN&ccedil;&atilde;O -->
+					<div class="col-12" style="">
+						<div class="topBar" style="border-top:2px solid #555555;">
+							:__REPORT_NAME
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-12" style="margin-bottom:10px;">
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;">
+						<div class="row">
+							<div class="col-2" style="">
+								Resultado
+							</div>
+							<div class="col-5" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_RESULT
+							</div>
+							<div class="col-2" style="margin-left:20px;">
+								Pontua&ccedil;&atilde;o
+							</div>
+							<div class="col-2" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_POINTS
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;">
+						<div class="row">
+							<div class="col-2" style="">
+								Tipo Interven&ccedil;&atilde;o
+							</div>
+							<div class="col-5" style="border-bottom: 1px solid silver;">
+								:__REQUEST_TYPE
+							</div>
+							<div class="col-2" style="margin-left:20px;">
+								Data Execu&ccedil;&atilde;o
+							</div>
+							<div class="col-2" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_DATE
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;">
+						<div class="row">
+							<div class="col-2" style="">
+								Entidade
+							</div>
+							<div class="col-5" style="border-bottom: 1px solid silver;">
+								:__ENTITY_NAME
+							</div>
+							<div class="col-2" style="margin-left:20px;">
+								Hora in&iacute;cio
+							</div>
+							<div class="col-2" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_START
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;">
+						<div class="row">
+							<div class="col-2" style="">
+								Local Execu&ccedil;&atilde;o
+							</div>
+							<div class="col-5" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_LOCAL
+							</div>
+							<div class="col-2" style="margin-left:20px;">
+								Hora Fim
+							</div>
+							<div class="col-2" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_END
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;">
+						<div class="row">
+							<div class="col-2" style="">
+								Equipa T&eacute;cnica
+							</div>
+							<div class="col-5" style="border-bottom: 1px solid silver;">
+								:__TECHNICAL_NAME
+							</div>
+							<div class="col-2" style="margin-left:20px;">
+								Dura&ccedil;&atilde;o
+							</div>
+							<div class="col-2" style="border-bottom: 1px solid silver;">
+								:__EXECUTION_TIME
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+			<!-- DETALHES - PERGUNTAS E RESPOSTAS -->
+			<div class="col-12" style="">
+				<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+					Detalhes
+				</div>
+			</div>
+			<div class="col-12" style="margin-bottom:10px;">
+				:__DATA_NAME
+			</div>
+			
+			<!-- IMAGENS -->
+			<div class="col-12" style="margin-bottom:10px;:__SHOW_IMAGES">
+				<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+					Imagens
+				</div>
+			</div>
+			<div class="col-12" style="margin-bottom:10px;:__SHOW_IMAGES">
+				<div class="col-12">
+					<div class="row">
+						:__IMAGES
+					</div>
+				</div>
+			</div>
+			
+			<!-- N�O CONFORMIDADES -->
+			<div class="col-12" style="margin-bottom:10px;:__SHOW_NON_CONFORMITY">
+				<div class="col-12" style="">
+					<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+						N&atilde;o conformidades / Riscos
+					</div>
+				</div>
+				<div class="col-12" style="text-indent: 10px;">
+						:__NON_CONFORMITY
+				</div>
+			</div>
+			
+			<!-- AC&ccedil;&otilde;ES SUBSEQUENTES -->
+			<div class="col-12" style="margin-bottom:10px;:__SHOW_ACTION_TASK">
+				<div class="col-12" style="">
+					<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+						Ac&ccedil;&otilde;es Subsequentes
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="chapterBar" style="">
+						Execu&ccedil;&atilde;o
+					</div>
+				</div>
+				<div class="col-12" style="text-indent: 10px;:__SHOW_ACTION_TASK_EXEC">
+					<div class="col-12">
+						:__ACTION_TASK
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="chapterBar" style="">
+						Final
+					</div>
+				</div>
+				<div class="col-12" style="text-indent: 10px;:__SHOW_ACTION_TASK_END">
+					<div class="col-12">
+						:__ACTION_TASK
+					</div>
+				</div>
+			</div>
+			
+			<!-- SUMARIO -->
+			<div class="col-12" style="margin-bottom:10px;">
+				<div class="topBar topBarExt" style="border-top:2px solid #555555;margin-bottom:10px;">
+					Sum&aacute;rio final
+				</div>
+				<div class="col-12" style="margin-bottom:10px;">
+					<div class="row" style="">
+						<div class="col-3">
+							Data/hora relat&oacute;rio
+						</div>
+						<div class="col-3">
+							:__REPORT_DATE_TIME
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-12" style="margin-bottom:10px;text-indent: 10px;">
+					Observa&ccedil;&otilde;es
+					<div class="col-12 normalText">
+						<div class="row" style="">
+							<div class="col-12" style="padding:10px;">
+								:__REQUEST_OBS
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-12" style="margin:10px;:__SHOW_SIGNATURES">
+				<div class="col-12" style="">
+					<div class="row">
+						<div class="col-6" style="text-align:center;">
+							Assinatura :__SIGNATURE_ENTITY_NAME
+						</div>
+						<div class="col-6" style="text-align:center;">
+							Assinatura :__SIGNATURE_ENTITY_TECHNICAL
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="row">
+						<div class="col-6" style="text-align:center;">
+							<img src="data:image/png;base64,:__SIGNATURE_CLIENT" width="250">
+						</div>
+						<div class="col-6" style="text-align:center;">
+							<img src="data:image/png;base64,:__SIGNATURE_TECHNICAL" width="250">
+						</div>
+					</div>
+				</div>
+
+			</div>
+			
+
+		</div>
+	</div>
+	
+</body>
+</html>

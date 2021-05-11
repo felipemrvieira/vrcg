@@ -1,0 +1,11 @@
+{
+	"instance": "PT20180913-2105-001",
+	"authorization": "RT123-C324D-ASXD",
+	"version": "Orion V1.09.153",
+	"versionid": 1,
+	"versions": [
+		{"name": "Orion V1.08.025"},
+		{"name": "Orion V1.09.153"}
+		],
+	"api": "https://api.soft7.net/"
+}

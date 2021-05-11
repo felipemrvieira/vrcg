@@ -1,0 +1,114 @@
+{
+	"objects": [
+        { 
+            "tracker": "types" 
+        }, 
+        { 
+            "tracker": "items" 
+        },
+        {
+            "tracker": "items.local"
+        }, 
+        {
+            "tracker": "items.documents"
+        }, 
+        {
+            "tracker": "items.entity"
+        }, 
+        {
+            "tracker": "items.entity.history"
+        }, 
+        {
+            "tracker": "items.scheme_plant"
+        }, 
+        {
+            "tracker": "items.scheme_plant.history"
+        }, 
+        {
+            "tracker": "items.properties"
+        }
+    ], 
+    "entities": [
+        {
+	        "tracker": "types"
+	    },
+	    {
+	        "tracker": "items"
+	    },
+	    {
+	        "tracker": "items.documents"
+        }, 
+        {
+	        "tracker": "items.contract"
+        }, 
+        {
+	        "tracker": "items.contract.history"
+	    }
+    ],
+    "user": [
+        {
+            "tracker": "warehouses"
+        }, 
+        {
+            "tracker": "warehouses.categories"
+        },
+        {
+            "tracker": "warehouses.items"
+        }, 
+        {
+            "tracker": "documents"
+        }, 
+        {
+            "tracker": "documents.categories"
+        }, 
+        {
+            "tracker": "documents.items"
+        }
+    ],
+    "pedidos": [
+        {
+            "tracker": "status"
+        }, 
+        {
+            "tracker": "types"
+        }, 
+        {
+            "tracker": "items"
+        }, 
+        {
+            "tracker": "items.checklist"
+        }, 
+        {
+            "tracker": "items.request"
+        }, 
+        {
+            "tracker": "items.entity"
+        }, 
+        {
+            "tracker": "items.other_entities"
+        }, 
+        {
+            "tracker": "items.execution"
+        }
+    ],
+    "tasks": [
+        {
+            "tracker": "status"
+        },
+        {
+            "tracker": "itemstatus"
+        },
+        {
+            "tracker": "types"
+        },
+        {
+            "tracker": "items"
+        },
+        {
+            "tracker": "items.details"
+        },
+        {
+            "tracker": "items.history"
+        }
+    ]
+}

@@ -1,0 +1,669 @@
+<!doctype html>
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <!-- ISO-8859-1" -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Report</title>
+<style type="text/css">
+
+.body_app {
+	color: #000000;
+	font-size: 12px;
+	/*padding: 20px;*/
+	/*width: 100%;*/
+	line-height: 1.2;
+	width:792px !important;
+	height:1175px !important; 
+}
+
+.body_inner {
+	width: 100%;
+	height:100%;
+	position: relative;
+	/*border: 1px solid #999999;*/
+}
+.topBar, .bottomBar {
+	width: 100%;
+	font-size: 16px;
+	line-height: 1.6;
+	text-align:center;
+}
+.topBar {
+	background-color: #253d7a; /*#ffcc00;*/
+	color: #ffffff;
+}
+
+.topBarExt {
+	font-size: 14px;
+	line-height: 1.4;
+	background-color: #8a8a8a;
+	color: #ffffff;
+}
+
+.bottomBar {
+	position: absolute !important;
+	bottom:0px !important;
+	border-top: 2px solid #999999;
+}
+.chapterBar  {
+	width: 100%;
+	background-color: #d7d7d7;
+	color: #000000;
+	font-size: 14px;
+	line-height: 1.6;
+	text-indent: 10px;
+}
+
+.questionBar  {
+	font-size: 12px;
+	line-height: 1.6;
+	/*text-indent: 20px;*/
+}
+
+.normalText {
+	font-size: 12px;
+	border: 1px solid #999999;
+	color: #555555;
+}
+
+.logo { width: 200px; }
+
+.row {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	/*margin-right: -15px;
+	margin-left: -15px*/
+}
+
+.no-gutters {
+	margin-right: 0;
+	margin-left: 0
+}
+
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-auto {
+	position: relative;
+	width: 100%;
+	min-height: 1px;
+	/*padding-right: 10px;
+	padding-left: 10px*/
+}
+
+.col {
+	-ms-flex-preferred-size: 0;
+	flex-basis: 0;
+	-webkit-box-flex: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	max-width: 100%
+}
+
+.col-auto {
+	-ms-flex: 0 0 auto;
+	flex: 0 0 auto;
+	width: auto;
+	max-width: none
+}
+
+.col-1,
+.col-auto {
+	-webkit-box-flex: 0
+}
+
+.col-1 {
+	-ms-flex: 0 0 8.33333333%;
+	flex: 0 0 8.33333333%;
+	max-width: 8.33333333%
+}
+
+.col-2 {
+	-ms-flex: 0 0 16.66666667%;
+	flex: 0 0 16.66666667%;
+	max-width: 16.66666667%
+}
+
+.col-2,
+.col-3 {
+	-webkit-box-flex: 0
+}
+
+.col-3 {
+	-ms-flex: 0 0 25%;
+	flex: 0 0 25%;
+	max-width: 25%
+}
+
+.col-4 {
+	-ms-flex: 0 0 33.33333333%;
+	flex: 0 0 33.33333333%;
+	max-width: 33.33333333%
+}
+
+.col-4,
+.col-5 {
+	-webkit-box-flex: 0
+}
+
+.col-5 {
+	-ms-flex: 0 0 41.66666667%;
+	flex: 0 0 41.66666667%;
+	max-width: 41.66666667%
+}
+
+.col-6 {
+	-ms-flex: 0 0 50%;
+	flex: 0 0 50%;
+	max-width: 50%
+}
+
+.col-6,
+.col-7 {
+	-webkit-box-flex: 0
+}
+
+.col-7 {
+	-ms-flex: 0 0 58.33333333%;
+	flex: 0 0 58.33333333%;
+	max-width: 58.33333333%
+}
+
+.col-8 {
+	-ms-flex: 0 0 66.66666667%;
+	flex: 0 0 66.66666667%;
+	max-width: 66.66666667%
+}
+
+.col-8,
+.col-9 {
+	-webkit-box-flex: 0
+}
+
+.col-9 {
+	-ms-flex: 0 0 75%;
+	flex: 0 0 75%;
+	max-width: 75%
+}
+
+.col-10 {
+	-ms-flex: 0 0 83.33333333%;
+	flex: 0 0 83.33333333%;
+	max-width: 83.33333333%
+}
+
+.col-10,
+.col-11 {
+	-webkit-box-flex: 0
+}
+
+.col-11 {
+	-ms-flex: 0 0 91.66666667%;
+	flex: 0 0 91.66666667%;
+	max-width: 91.66666667%
+}
+
+.col-12 {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100%
+}
+
+.align-baseline {
+	vertical-align: baseline!important
+}
+
+.align-top {
+	vertical-align: top!important
+}
+
+.align-middle {
+	vertical-align: middle!important
+}
+
+.align-bottom {
+	vertical-align: bottom!important
+}
+
+.align-text-bottom {
+	vertical-align: text-bottom!important
+}
+
+.align-text-top {
+	vertical-align: text-top!important
+}
+
+.bottomRightForced {
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+
+
+</style>
+</head>
+<body class="" style="">
+	<div class="body_app" style="">
+		<div class="body_inner" style="">
+			<div class="col_12">
+				<div class="row">
+					<div class="col-12" style="border: 0.5px solid silver;">
+						<div class="row">
+							<div class="col-4" style="border-right: 0.5px solid silver;">
+								<div class="logo" style="padding: 10px 0px;">
+									<img src=" data:image/png;base64,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" 
+									width="250" />
+									
+								</div>
+							</div>
+							<div class="col-5" style="text-align:center;border-right: 0.25px solid silver;">
+								<h2 class="">RELAT&Oacute;RIO DE INTERVEN&Ccedil;&Atilde;O<br>
+									:__EXECUTION_STATUS_DESC</h2>
+							</div>
+							<div class="col-3" style="text-align:center;flex: 0 0 24.5%;top: 20px;">
+								<h5>HE_ANX_POS_001<br>rev.00</h5>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-6" style="border-top: 0.25px solid silver;border-right: 0.25px solid silver;height:40px;">
+							
+								<div class="row">
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">PAT:<br><br><br></div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">:__EXECUTION_NUMBER</div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Data PAT:</div>
+									</div>
+									<div class="col-3" style="flex: 0 0 24.0%;">
+										<div style="padding-left:10px;">:__EXECUTION_DATE</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-6" style="border-top: 0.25px solid silver;flex: 0 0 49.5%;height:40px;">
+							
+								<div class="row">
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Nº Série do Equipamento:<br><br><br></div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">:__OBJECT_FIELD_SERIAL</div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Nível de Prioridade:</div>
+									</div>
+									<div class="col-3" style="flex: 0 0 24.0%;">
+										<div style="padding-left:10px;">:__REQUEST_PRIORITY</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-6" style="border-top: 0.25px solid silver;border-right: 0.25px solid silver;height:40px;">
+							
+								<div class="row">
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Equipamento:<br><br><br></div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">:__OBJECT_TITLE</div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Marca :</div>
+									</div>
+									<div class="col-3" style="flex: 0 0 24.0%;">
+										<div style="padding-left:10px;">:__OBJECT_FIELD_BRAND</div>
+									</div>
+								</div>
+							
+								
+							</div>
+							<div class="col-6" style="border-top: 0.25px solid silver;flex: 0 0 49.5%;height:40px;">
+							
+								<div class="row">
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Modelo:<br><br><br></div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">:__OBJECT_FIELD_MODEL</div>
+									</div>
+									<div class="col-3" style="border-right: 0.25px solid silver;">
+										<div style="padding-left:10px;">Localização do Equipamento:</div>
+									</div>
+									<div class="col-3" style="flex: 0 0 24.0%;">
+										<div style="padding-left:10px;">:__OBJECT_LOCATION</div>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					
+					</div>
+				</div>
+				
+				<div class="col-2">&nbsp;</div>
+				
+				<div class="row">
+					<div class="col-12" style="">
+						<div class="topBar" style="border: 0.5px solid silver;">
+							Dados do cliente 
+						</div>
+					</div>
+					
+					<div class="col-12" style="border: 0.5px solid silver;">
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:5px;">
+								<div class="row">
+									<div class="col-2" style="">
+										Cliente:
+									</div>
+									<div class="col-4" style="border-bottom: 1px solid silver;">
+										:__ENTITY_NAME
+									</div>
+									<div class="col-2" style="margin-left:20px;">
+										Entidade:
+									</div>
+									<div class="col-3" style="border-bottom: 1px solid silver;">
+										:__ENTITY_NAME
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:5px;">
+								<div class="row">
+									<div class="col-2" style="">
+										Morada:
+									</div>
+									<div class="col-4" style="border-bottom: 1px solid silver;">
+										:__EXECUTION_ADDRESS
+									</div>
+									<div class="col-2" style="margin-left:20px;">
+										Cód. Postal/Local:
+									</div>
+									<div class="col-3" style="border-bottom: 1px solid silver;">
+										:__EXECUTION_LOCAL
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:5px;">
+								<div class="row">
+									<div class="col-2" style="">
+										Telefone:
+									</div>
+									<div class="col-4" style="border-bottom: 1px solid silver;">
+										:__ENTITY_PHONE
+									</div>
+									<div class="col-2" style="margin-left:20px;">
+										Contribuinte:
+									</div>
+									<div class="col-3" style="border-bottom: 1px solid silver;">
+										:__ENTITY_NIF
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:5px;">
+								<div class="row">
+									<div class="col-2" style="">
+										Código LIN:
+									</div>
+									<div class="col-4" style="border-bottom: 1px solid silver;">
+										:__ENTITY_LIN
+									</div>
+									<div class="col-2" style="margin-left:20px;">
+										Nº Pedido/Adjudicação:
+									</div>
+									<div class="col-3" style="border-bottom: 1px solid silver;">
+										:__ENTITY_APROVAL
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:10px;color:red;font-size:12px;text-align:center;">
+								(* Código LIN e Nº Pedido/ Ajudicação apenas alguns clientes possuem) 
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+								Descrição da Avaria
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:10px;height:30px;">
+								<div class="row">
+									<div class="col-12" style="">
+										:__DAMAGE_CLIENT_TITLE
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="col-2">&nbsp;</div>
+				
+				<div class="row">
+					<div class="col-12" style="">
+						<div class="topBar" style="border: 0.5px solid silver;">
+							Trabalhos/Serviços 
+						</div>
+					</div>
+					
+					
+					<div class="col-12" style="border: 0.5px solid silver;">
+						<div class="col-12" style="">
+							<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+								Descrição da Não Conformidade
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:10px;height:30px;">
+								<div class="row">
+									<div class="col-12" style="">
+										:__DAMAGE_TECH_TITLE
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						<div class="col-12" style="">
+							<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+								O que precisa ser feito?
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:10px;height:30px;">
+								<div class="row">
+									<div class="col-12" style="">
+										:__DAMAGE_WORK_TODO
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						
+						<div class="col-12" style="">
+							<div class="topBar topBarExt" style="border-top:2px solid #555555;">
+								O que foi feito?
+							</div>
+						</div>
+						<div class="col-12" style="">
+							<div class="col-12" style="margin:10px;height:30px;">
+								<div class="row">
+									<div class="col-12" style="">
+										:__WORKDONE_TITLE<br>:__WORKDONE_OBS
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;color:red;font-size:12px;text-align:center;">
+						(*Item preenchido em caso de trabalhos realizados e/ou realizados parcialmente)
+					</div>
+				</div>
+				<div class="col-2">&nbsp;</div>
+				
+				<div class="row">
+					<div class="col-12" style="">
+						<div class="topBar" style="border: 0.5px solid silver;">
+							Para realizar o trabalho precisa de?
+						</div>
+					</div>
+					<div class="col-12" style="border: 0.5px solid silver;height:30px;">
+						<div class="row">
+							<div class="col-3" style="">
+								<div style="padding-left:10px;">Material</div>
+							</div>
+							<div class="col-3" style="">
+								<div style="padding-left:10px;">Proposta</div>
+							</div>
+							<div class="col-3" style="">
+								<div style="padding-left:10px;">Outros</div>
+							</div>
+							<div class="col-3" style="">
+								&nbsp;
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-12" style="">
+					<div class="col-12" style="margin:10px;color:red;font-size:12px;text-align:center;">
+						(*Itens preenchidos em caso de trabalhos não realizados e/ou realizados parcialmente)
+					</div>
+				</div>
+				<div class="col-2">&nbsp;</div>
+				
+				
+				<div class="row">
+					<div class="col-12" style="border: 0.5px solid silver;height:100px;">
+						<div class="row" style="height:100%;">
+							<div class="col-6" style="text-align:center;border-right: 0.25px solid silver;height:15px;">
+								Assinatura do Técnico
+							</div>
+							<div class="col-6" style="text-align:center;flex: 0 0 49.5%;height:15px;">
+								Assisnatura do Cliente
+							</div>
+							<div class="col-6" style="text-align:center;border-right: 0.25px solid silver;height:85%;">
+								<img src="data:image/png;base64,:__SIGNATURE_CLIENT" width="85">
+							</div>
+							<div class="col-6" style="text-align:center;flex: 0 0 49.5%;height:85%;">
+								<img src="data:image/png;base64,:__SIGNATURE_TECHNICAL" width="85">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-2">&nbsp;</div>
+				
+				<div class="row">
+					<div class="col-12" style="border: 0.5px solid silver;">
+						<div class="row" style="">
+							<div class="col-6" style="text-align:center;border-right: 0.25px solid silver;">
+								<div class="topBar topBarExt">
+								Elaborado
+								</div>
+							</div>
+							<div class="col-6" style="text-align:center;flex: 0 0 49.5%;">
+								<div class="topBar topBarExt">
+								Aprovado
+								</div>
+							</div>
+							<div class="col-6" style="text-align:center;border-right: 0.25px solid silver;">
+								Aline Antunes<br>SGQ - Hemer
+							</div>
+							<div class="col-6" style="text-align:center;flex: 0 0 49.5%;">
+								Alberto Santos<br>Diretor Geral - Hemer
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-2">&nbsp;</div>
+				
+			</div>
+
+		</div>
+	</div>
+	
+</body>
+</html>

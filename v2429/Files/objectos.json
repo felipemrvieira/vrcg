@@ -1,0 +1,265 @@
+{
+    "count": 5,
+    "types": [
+        {
+            "id": 1,
+            "title": "Programação"
+        },
+        {
+            "id": 2,
+            "title": "Infraestruturas de Rede"
+        }, 
+        {
+            "id": 3,
+            "title": "Localização"
+        }, 
+        {
+            "id": 4,
+            "title": "Acompanhamento"
+        }
+    ],
+	"items": [
+		{
+			"type": 1,
+			"typedesc": "Programação",
+			"id": 1,
+			"tagcode": "OBJ_001",
+			"name": "Integração Forma-Fitness",
+			"details": "Serviço de integração WEB da plataforma de Fitness com a aplicação de Gestão",
+			"status_id": 1,
+			"status_desc": "Activo",
+            "status_color": "GREEN",
+			"last_execution": "",
+            "status_notes": "",
+            "contrat_tagcode": "CTRL_1001",
+			"local": {
+				"tagcode": "ADRSS_001",
+				"address": "Núcleo Central ,120",
+				"address2": "Tagus Park",
+				"postal_code": "2740-122",
+				"city": "Porto Salvo",
+				"latitude": "38.7404953",
+				"longitude": "-9.3028697"
+                },
+            "documents": [
+                {
+                    "id": 1,
+                    "tagcode": "DOCCL_1001",
+                    "category": "Contrato",
+                    "categorytype": 1
+                }
+            ],
+			"entity": {
+                "tagcode": "ENT_02213",
+                "datetime": "",
+                "entity_name": "Corpus Sanus - Health Club Taguspark",
+                "history": []
+			},
+			"have_scheme": 0,
+            "scheme_plant": {
+            	"id": 0,
+            	"tagcode": "",
+            	"lastdatetime": "",
+            	"history": []
+			},
+			"properties": [
+				{
+					"tagcode": "PRPTY_0001",
+					"title": "Versão de Webservice",
+					"value": "1.0"
+				}
+			]
+		},
+		{
+			"type": 1,
+			"typedesc": "Programação",
+			"id": 2,
+			"tagcode": "OBJ_002",
+			"name": "Integração Inofinance com Sales Force",
+			"details": "Serviço de integração da aplicaçãod e Gestão Inofinance com a plataforma de Oportunidades SalesForce",
+			"status_id": 1,
+			"status_desc": "Activo",
+			"status_color": "GREEN",
+			"last_execution": "",
+			"status_notes": "",
+			"contrat_tagcode": "",
+			"local": {
+				"tagcode": "ADRSS_002",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508"
+			},
+			"documents": [],
+			"entity": {
+				"tagcode": "ENT_02325",
+				"entity_name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"datetime": "",
+				"history": []
+			},
+			"have_scheme": 0,
+			"scheme_plant": {
+				"id": 0,
+				"tagcode": "",
+				"lastdatetime": "",
+				"history": []
+			},
+			"properties": []
+		}, 
+		{
+			"type": 1,
+			"typedesc": "Programação",
+			"id": 3,
+			"tagcode": "OBJ_003",
+			"name": "Integração Inofinance com Inoservices",
+			"details": "Serviço de integração da aplicação de Gestão Inofinance com a aplicação de Gestão operacional e suporte ao cliente final",
+			"status_id": 1,
+			"status_desc": "Activo",
+			"status_color": "GREEN",
+			"last_execution": "2018-11-10 14:40",
+			"status_notes": "",
+			"contrat_tagcode": "",
+			"local": {
+				"tagcode": "ADRSS_002",
+				"address": "Av. Prof. Dr. Cavaco Silva 1B",
+				"address2": "Tagus Park",
+				"postal_code": "2740-296",
+				"city": "Porto Salvo",
+				"latitude": "38.7351173",
+				"longitude": "-9.2995508"
+			},
+			"documents": [],
+			"entity": {
+				"tagcode": "ENT_02325",
+				"entity_name": "INOSAT - CONSULTORIA INFORMÁTICA, S.A.",
+				"datetime": "",
+				"history": []
+			},
+			"have_scheme": 0,
+			"scheme_plant": {
+				"id": 0,
+				"tagcode": "",
+				"lastdatetime": "",
+				"history": []
+			},
+			"properties": []
+		},
+		{
+			"type": 3,
+			"typedesc": "Localização",
+			"id": 4,
+			"tagcode": "OBJ_004",
+			"name": "Soft7 - Sede da Empresa",
+			"details": "Verificação da Sede e respectiva localização geográfica",
+			"status_id": 1,
+			"status_desc": "Activo",
+			"status_color": "GREEN",
+			"last_execution": "",
+			"status_notes": "",
+			"contrat_tagcode": "CTRL_1002",
+			"local": {
+				"tagcode": "ADRSS_003",
+				"address": "Praceta Cidade de Brasília 1 2A",
+				"address2": "",
+				"postal_code": "2735-660",
+				"city": "São MArcos",
+				"latitude": "38.7484987",
+				"longitude": "-9.2973928"
+			},
+			"documents": [
+				{
+					"id": 2,
+					"tagcode": "DOCCL_1002",
+					"category": "Contrato",
+					"categorytype": 1
+				},
+				{
+					"id": 3,
+					"tagcode": "DOCCL_1003",
+					"category": "Esquemas",
+					"categorytype": 2
+				}
+			],
+			"entity": {
+				"tagcode": "ENT_02327",
+				"entity_name": "Soft 7- Aplicações Informáticas",
+				"datetime": "",
+				"history": []
+			},
+			"have_scheme": 0,
+			"scheme_plant": {
+				"id": 1,
+				"tagcode": "SCHM_001",
+				"lastdatetime": "",
+				"history": []
+			},
+			"properties": [
+				{
+					"tagcode": "PRPTY_0002",
+					"title": "Piso",
+					"value": "2"
+				},
+				{
+					"tagcode": "PRPTY_0003",
+					"title": "Porta",
+					"value": "A"
+				}
+			]
+		},
+		{
+			"type": 4,
+			"typedesc": "Acompanhamento",
+			"id": 5,
+			"tagcode": "OBJ_005",
+			"name": "Ponto de Situação com Bruno",
+			"details": "Reunião periódica de Ponto de Situação com o Chefe.",
+			"status_id": 1,
+			"status_desc": "Activo",
+			"status_color": "GREEN",
+			"last_execution": "",
+			"status_notes": "",
+			"contrat_tagcode": "",
+			"local": {
+				"tagcode": "ADRSS_004",
+				"address": "R. Ferrarias Del Rei XX",
+				"address2": "",
+				"postal_code": "2730-269",
+				"city": "Porto Salvo",
+				"latitude": "38.739462",
+				"longitude": "-9.289317"
+			},
+			"documents": [],
+			"entity": {
+				"tagcode": "ENT_02329",
+				"entity_name": "Bruno Marques",
+				"datetime": "",
+				"history": []
+			},
+			"have_scheme": 0,
+			"scheme_plant": {
+				"id": 0,
+				"tagcode": "",
+				"lastdatetime": "",
+				"history": []
+			},
+			"properties": [{
+					"tagcode": "PRPTY_0004",
+					"title": "Condição emocional",
+					"value": "Boa disposição"
+				},
+				{
+					"tagcode": "PRPTY_0005",
+					"title": "Condição de trabalho",
+					"value": "Proactividade e Soluções"
+				}, 
+				{
+					"tagcode": "PRPTY_0006",
+					"title": "Condição de local",
+					"value": "Muita luz"
+				}
+			]
+		}
+	]
+}

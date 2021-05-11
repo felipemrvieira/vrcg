@@ -1,0 +1,247 @@
+{
+	"count": 5,
+	"status": [
+        {
+	        "id": 0,
+	        "title": "Por verificar/Executar",
+	        "color": "BLUE"
+	    },
+	    {
+	        "id": 1,
+	        "title": "Visto/Executado",
+	        "color": "GREEN"
+	    },
+	    {
+	        "id": 2,
+	        "title": "Não concluído/Executado",
+	        "color": "RED"
+	    }
+    ],
+    "itemstatus": [
+        {
+            "id": 0,
+            "title": "Novo",
+            "color": "BLUE"
+        },
+        {
+            "id": 1,
+            "title": "Em curso",
+            "color": "YELLOW"
+        }, 
+        {
+            "id": 2,
+            "title": "Fechado",
+            "color": "GREEN"
+        }, 
+        {
+            "id": 3,
+            "title": "Pendente",
+            "color": "RED"
+        }, 
+        {
+            "id": 4,
+            "title": "Cancelado",
+            "color": "GRAY"
+        }
+    ],
+	"types": [
+		{
+			"id": 1,
+			"title": "Alerta"
+		},
+		{
+			"id": 2,
+			"title": "Tarefa"
+		},
+		{
+			"id": 3,
+			"title": "Acção"
+		}
+    ],
+	"priorities": [
+		{
+			"id": 0,
+			"title": "Sem prioridade"
+		},
+		{
+			"id": 1,
+			"title": "Prioridade Baixa"
+		},
+		{
+			"id": 2,
+			"title": "Prioridade Média"
+		},
+		{
+			"id": 3,
+			"title": "Prioridade Alta"
+		}
+    ],
+	"urgency": [
+		{
+			"id": 0,
+			"title": "Sem urgência"
+		},
+		{
+			"id": 1,
+			"title": "Não esquecer"
+		},
+		{
+			"id": 2,
+			"title": "Importante"
+		},
+		{
+			"id": 3,
+			"title": "Muito Importante"
+		},
+		{
+			"id": 4,
+			"title": "Urgente"
+		}
+    ],
+	"items": [
+		{
+            "id": 0,
+            "user_id": 0,
+            "type": 0,
+            "status_id": 0,
+			"itemstatus": 0,
+            "creation_date": "",
+            "verification_date": "",
+            "close_date": "",
+            "title": "",
+            "tagcode": "",
+            "priority": 0,
+            "urgency": 0,
+            "nature_type": 0,
+            "details": {
+                "message_text": "",
+                "related": 0,
+                "request_number": "",
+                "object_tagcode": "",
+                "checklist_tagcode": "",
+                "cl_item_tagcode": "",
+                "evidence_shot_b64": "",
+                "sent_email": 0,
+                "email_to": "",
+                "email_cc": "",
+                "email_date": "",
+                "delegate": 0,
+                "delegate_to_user": "",
+                "delegate_to_team": ""
+            },
+            "history": [
+                {
+                    "user_id": 0,
+                    "status_id": 0,
+                    "itemstatus": 0,
+                    "history_date": "",
+                    "message_text": "",
+                    "evidence_shot_b64": "",
+                    "sent_email": 0,
+                    "email_to": "",
+                    "email_cc": "",
+                    "email_date": "",
+                    "delegate": 0,
+                    "delegate_to_user": "",
+                    "delegate_to_team": ""
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "user_id": 1,
+            "type": 1,
+            "status_id": 0,
+			"itemstatus": 0,
+            "creation_date": "2018-11-01",
+            "verification_date": "",
+            "close_date": "",
+            "title": "Efectuar a actualização de versão",
+            "tagcode": "TSKA-0001",
+            "priority": 1,
+            "urgency": 0,
+            "nature_type": 0,
+            "details": {
+                "message_text": "É necessário efectuar a actualização da aplicação para visualização das novas Checklists e Novos tipos de dados",
+                "related": 0,
+                "request_number": "",
+                "object_tagcode": "",
+                "checklist_tagcode": "",
+                "cl_item_tagcode": "",
+                "evidence_shot_b64": "",
+                "sent_email": 0,
+                "email_to": "",
+                "email_cc": "",
+                "email_date": "",
+                "delegate": 0,
+                "delegate_to_user": "",
+                "delegate_to_team": "TMS-001"
+            },
+            "history": [
+                {
+                    "user_id": 0,
+                    "status_id": 0,
+                    "itemstatus": 0,
+                    "history_date": "",
+                    "message_text": "",
+                    "evidence_shot_b64": "",
+                    "sent_email": 0,
+                    "email_to": "",
+                    "email_cc": "",
+                    "email_date": "",
+                    "delegate": 0,
+                    "delegate_to_user": "",
+                    "delegate_to_team": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user_id": 1,
+            "type": 1,
+            "status_id": 1,
+			"itemstatus": 0,
+            "creation_date": "2018-11-01",
+            "verification_date": "2018-11-02",
+            "close_date": "",
+            "title": "Verificar stock da viatura",
+            "tagcode": "TSKA-0002",
+            "priority": 2,
+            "urgency": 1,
+            "nature_type": 3,
+            "details": {
+                "message_text": "Novas peças deram entrada no final do mês de Outubro. Verificar o armazém da viatura e actualizar o stock.",
+                "related": 0,
+                "request_number": "",
+                "object_tagcode": "",
+                "checklist_tagcode": "",
+                "cl_item_tagcode": "",
+                "evidence_shot_b64": "",
+                "sent_email": 0,
+                "email_to": "",
+                "email_cc": "",
+                "email_date": "",
+                "delegate": 0,
+                "delegate_to_user": "",
+                "delegate_to_team": "TMS-001"
+            },
+            "history": [
+                {
+                    "user_id": 0,
+                    "status_id": 0,
+                    "itemstatus": 0,
+                    "history_date": "",
+                    "message_text": "",
+                    "evidence_shot_b64": "",
+                    "sent_email": 0,
+                    "email_to": "",
+                    "email_cc": "",
+                    "email_date": "",
+                    "delegate": 0,
+                    "delegate_to_user": "",
+                    "delegate_to_team": ""
+                }
+            ]
+        }
+	]
+}

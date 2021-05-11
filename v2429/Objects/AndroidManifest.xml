@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	package="xevolution.vrcg.devdemov2400"
+	android:versionCode="1"
+	android:versionName=""
+	android:installLocation="internalOnly">
+	
+	<uses-sdk android:minSdkVersion="19" android:targetSdkVersion="29"/>
+	<supports-screens android:largeScreens="true" 
+	    android:normalScreens="true" 
+	    android:smallScreens="true" 
+	    android:anyDensity="true"/>
+	<uses-permission
+		android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+		android:maxSdkVersion="19" />
+	<uses-permission 
+	android:name="android.permission.INTERNET" />
+	<uses-feature android:name="android.hardware.telephony" android:required="false" />
+	<uses-feature android:name="android.hardware.camera" android:required="false" />
+	<uses-feature android:name="android.hardware.camera.autofocus" android:required="true" />
+	<uses-feature android:name="android.hardware.camera.flash" android:required="false" />
+	<uses-permission 
+	android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.VIBRATE"/>
+	<uses-permission android:name="android.permission.WAKE_LOCK"/>
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+	<uses-permission android:name="android.permission.BLUETOOTH"/>
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+	<uses-permission android:name="xevolution.vrcg.devdemov2400.permission.MAPS_RECEIVE"/>
+	<uses-permission android:name="android.permission.CAMERA"/>
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+	<uses-permission android:name="android.permission.DEVICE_POWER"/>
+	<uses-permission android:name="android.permission.SEND_SMS"/>
+	<uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+	<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+	<uses-permission android:name="android.permission.FLASHLIGHT"/>
+	<uses-permission android:name="android.hardware.camera"/>
+	<application
+		android:name="androidx.multidex.MultiDexApplication"
+		android:icon="@drawable/icon"
+		android:label="VRCG-DEVDEMO 2.4"
+		android:largeHeap="true">
+		
+		<provider
+		  android:name="androidx.core.content.FileProvider"
+		  android:authorities="xevolution.vrcg.devdemov2400.provider"
+		  android:exported="false"
+		  android:grantUriPermissions="true">
+		  <meta-data
+		  android:name="android.support.FILE_PROVIDER_PATHS"
+		  android:resource="@xml/provider_paths"/>
+		  </provider>
+		<activity android:name="com.google.android.gms.common.api.GoogleApiActivity"
+		  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+		  android:exported="false"/>
+		    <meta-data
+		  android:name="com.google.android.gms.version"
+		  android:value="@integer/google_play_services_version" />
+		<meta-data
+		    android:name="com.google.android.gms.vision.DEPENDENCIES"
+		    android:value="barcode,face" />
+		<uses-library
+		      android:name="org.apache.http.legacy"
+		      android:required="false" />
+		<meta-data
+		  android:name="com.google.android.geo.API_KEY"
+		  android:value="AIzaSyD80wHumtgPImuxF_7Zk_aluqxAYsrtCOo"/>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".main"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+			<intent-filter>
+			   <action android:name="android.intent.action.MAIN" />
+			   <category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			
+		</activity>
+		<service android:name=".starter">
+		</service>
+		<receiver android:name=".starter$starter_BR">
+		</receiver>
+		<service android:name=".comms">
+		</service>
+		<receiver android:name=".comms$comms_BR">
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".mainmenu"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".imageedit"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".checklist3"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<service android:name=".locationservice">
+		</service>
+		<receiver android:name=".locationservice$locationservice_BR">
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".dataupdate"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".alerts"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<service android:name=".backgroundupdateservice">
+		</service>
+		<receiver android:name=".backgroundupdateservice$backgroundupdateservice_BR">
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".barcodescanner"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".cameraactivity"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".cameraactivity_innershot"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".cameraactivity2"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".checklistnew"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<service android:name=".logs">
+		</service>
+		<receiver android:name=".logs$logs_BR">
+			<intent-filter>
+			<action android:name="android.intent.action.BOOT_COMPLETED"/>
+			</intent-filter>
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".mapsactivity"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".newsync"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".objectedit"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".objects"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".report"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".reportview"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".requests3"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".taskscl2"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<service android:name=".updateservice">
+		</service>
+		<receiver android:name=".updateservice$updateservice_BR">
+		</receiver>
+		<activity
+			android:windowSoftInputMode="stateHidden"
+			android:launchMode="singleTop"
+			android:name=".user"
+			android:label="VRCG-DEVDEMO 2.4"
+			android:screenOrientation="landscape">
+		</activity>
+		<service android:name=".userservice">
+		</service>
+		<receiver android:name=".userservice$userservice_BR">
+		</receiver>
+		<service android:name=".httputils2service">
+		</service>
+		<receiver android:name=".httputils2service$httputils2service_BR">
+		</receiver>
+	</application>
+</manifest>
