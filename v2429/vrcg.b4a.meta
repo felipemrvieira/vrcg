@@ -193,6 +193,6 @@ ModuleClosedNodes64=
 ModuleClosedNodes7=
 ModuleClosedNodes8=
 ModuleClosedNodes9=
-NavigationStack=Main,StartComsService,833,3,Main,CreateLoginsLog,2217,0,Main,SetLogin,2422,0,DataUpdate,StartTheActivity,80,0,Main,TimeStart_Tick,1547,0,LocationService,Service_Start,18,0,DataUpdate,Activity_Create,59,0,DataUpdate,FieldExists,3955,0,DataUpdate,insert_dta_auth,3886,0,DataUpdate,FirstSubFromLogin,130,0,DataUpdate,UpdateData2Server,3657,0
+NavigationStack=Main,CreateLoginsLog,2217,0,Main,SetLogin,2422,0,DataUpdate,StartTheActivity,80,0,Main,TimeStart_Tick,1547,0,LocationService,Service_Start,18,0,DataUpdate,Activity_Create,59,0,DataUpdate,FieldExists,3955,0,DataUpdate,insert_dta_auth,3886,0,DataUpdate,FirstSubFromLogin,130,0,DataUpdate,UpdateData2Server,3651,0,Starter,Process_Globals,85,0
 SelectedBuild=0
 VisibleModules=51,39,28
