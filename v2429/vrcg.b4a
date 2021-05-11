@@ -1250,8 +1250,8 @@ Version=10.5
 '   #ApplicationLabel: VRCG-TG 2.4
 '   #ApplicationLabel: VRCG-SEV 2.4
 '************************************
-	#ApplicationLabel: VRCG-DEVDEMO 2.4
-'	#ApplicationLabel: VRCG-DEVEDP 2.4
+'	#ApplicationLabel: VRCG-DEVDEMO 2.4
+	#ApplicationLabel: VRCG-DEVEDP 2.4
 '	#ApplicationLabel: VRCG-DEVSWBR 2.4
 '	#ApplicationLabel: VRCG-DEVTRG 2.4
 '	#ApplicationLabel: VRCG-DEVPAL 2.4
