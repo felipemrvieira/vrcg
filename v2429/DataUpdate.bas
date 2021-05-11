@@ -3661,6 +3661,7 @@ Sub UpdateData2Server As ResumableSub
 	Log("**************************************")
 	Log(" SENDING LOCAL DATA TO SERVER ")
 	Log("**************************************")
+	Log("**************************************")
 		
 	Dim WITHFILES As Boolean = True
 	Dim RecCounter As Int = LocalDataToUpdate
